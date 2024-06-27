@@ -1,0 +1,300 @@
+    
+Datos bibliograficos Personas Relevantes
+    3 Filas 3 Columnas
+        Nombre, Nacionalidad, Conocido por
+        Persona destacada, fecha de fallecimiento, Causa de muerte
+        Persona destacada, Distinciones, Educado en. Considera infromacion de cientificos latinoamericanos
+    Una fila Una columna
+        Fecha de nacimiento
+        Nombre completo
+        Tipo de sangre
+        Alergias
+        Personaje historico
+    Una columna dos filas
+        Nombre
+        Presidentes del Ecuador
+        Deportistas destacados
+        Edades
+    uNA COLUMNA 3 FILAS
+        Jugador
+        País de origen de futbolistas famosos
+        Apellidos (de ciclistas famosos)
+    Dos columas una fila
+        Nombre | Nacionalidad
+        Inventor | Formación académica
+        Figura científica | Legado e impacto
+        Área de investigación | Autores principales
+    Dos columnas tres filas
+        Campo | Dato
+        Título | Autor
+        Filosofo | Pensamiento
+        Nombre | País
+        Autor | Obra
+        Nombre | Cargo
+        Dato Bibliográfico | Persona Relevante
+        Nombre | Institución
+        Nombre | Contribución
+    Dos columnas dos filas
+        Personaje histórico | Fecha de fallecimiento
+        Nombre | Curso
+        Nombre | Apellido
+        Nombre | Descubrimientos
+    Tres columnas Dos filas    
+        Nombre | Obra | Año de publicación
+        Nombre | Fecha de Nacimiento | Ocupación
+        Dato Bibliográfico | Persona Relevante | Libro
+        Libro | Autor | Fecha Publicación
+        Nombre Completo | Nacionalidad | Profesión
+        Nombre | Nacionalidad | Rol
+        Nombre | Año de Nacimiento | Nacionalidad
+        Nombre y Apellidos | Área de Especialización | Institución
+        Autor | Obra Relevante | Año
+        Nombre del científico | Fecha de nacimiento | Fecha de muerte
+        Nombre del científico | Fecha de nacimiento | Fecha de fallecimiento
+        Nombres | Apellidos | Nacionalidad 
+        Deportista | Deporte | País
+    Tres columnas Un fila
+        Nombre del autor | Año de publicación | Título de la obra
+        Título | Autor | Año de Publicación
+        Autor | Título | Editorial
+        Nombre | Afiliación | Importancia
+        Nombre | Ocupación | Nacionalidad
+        Nombre | Fecha de nacimiento | Lugar de nacimiento
+        Título | Autor | Editor
+        Autor | Novela | Personajes principales
+        Autor | Título | Año
+        Autor | Título de la obra | Año de publicación
+        Autor | Título | Fecha
+        Deportista | Deporte | País
+        Nombre del autor | Año de publicación | Título de la obra
+        Nombre completo | Edad | Pasatiempo
+
+
+
+Datos Demográficos Globales
+    Una fila una columna
+        Pais con mas turistas
+        Natalidad
+        Población  (Se detalla la poblacion de los paises)
+        Provincia (Se detalla la poblacion de la provicnia)
+        Proyecciones de población
+    Dos fila una columnas
+        Paises del continente americano
+        Países de Asia 
+        Continentes
+        Censos
+    Tres filas Una columna 
+        Nacimientos del 2018 (en miles)
+        Parroquia de inscripción
+        Mes de nacimiento
+        Hijos reconocidos
+    Dos columnas Una filas
+        Región | Nivel de Ingresos
+        Grupo de edad, América del Sur
+        Grupo de edad, Oceanía
+    Dos columnas Tres filas
+        Indicador | Valor
+        Poblacion Mundial | Crecimiento Anual de la Poblacion
+        Región | Total migrantes (millones)
+        País | Densidad de Población (por kilómetro cuadrado)
+        País | Cantidad de especies de aves
+    Dos columnas Dos filas
+        País | Población
+        Estadísticas Demográficas | Datos
+        Continente | Tasa de natalidad
+        Estadísticas Globales | Valor
+        Región | Población
+        Continente | Población
+        País | Población (millones)
+        Dato | Valor
+        Día de la semana | Número de NO asistentes (frecuencia)
+        Día de la semana | Número de asistentes (frecuencia)
+    Tres columanas tres filas
+        Continente | Población | Densidad Poblacional
+        País | Población (millones) | Esperanza de vida al nacer (años)
+        Población | Continente | Porcentaje de la Población Mundial
+        País | Continente | Población (millones)
+        Continente | Población (millones) | Densidad de población (personas/km cuadrados)
+        Región | Población (miles de millones) | Densidad de población (habitantes por km cuadrado)
+        País | Capital | Superficie (km cuadrados)
+        País | PIB (miles de millones de dólares) | Indice de Desarrollo Humano
+        País | Superficie (km²) | Población (millones)
+        País | PIB per Cápita (USD) | Esperanza de Vida al Nacer (años)
+    Tres columnas dos filas
+        Dato | 2022 | 2023 (Estimado)
+        Región | Población (miles de millones)
+        País | Continente | Población
+        Región | Población | Crecimiento Anual
+        Continente | Población 2023 (en miles de millones)
+        Región | Población (miles de millones) | % de la población mundial
+        Región | Población (millones) | Esperanza de Vida (años)
+        Países | Porcentaje de población en aglomeraciones urbanas | Porcentaje de territorio ocupado por áreas forestales
+        Intervalo | Frecuencia | Clase
+        Año | Población Mujeres | Porcentaje
+        Año | Población Hombres | Porcentaje
+    Tres columas una fila
+        País | Población (millones) | Área (km cuadrados)
+        Continente | Población | Densidad de Población
+        Población Mundial | Tasa de Crecimiento de la Población | Densidad de Población
+        Población Mundial | Densidad de Población | Esperanza de Vida
+        País | Población (millones) | PIB per capita (USD)
+        Población Mundial Estimada | Crecimiento Anual Promedio | Densidad de Población
+        Población Mundial | Tasa de Crecimiento de la Población | Esperanza de Vida
+        Población Mundial | Crecimiento de la Población | Densidad de Población
+        Continente | Población (millones) | Porcentaje de la Población Total
+        Año | Extranjeros censados | % total
+        No | País | 2020
+        No | País | 2019
+
+Educación y Cultura en el Mundo
+    Una fila una columna
+        Educación
+        Calidad Educativa
+        Bienes tangibles
+        Patrimonio intangible
+        Música tradicional
+    Dos fila Una columna
+        Alumnos
+        Docentes
+        Catidad
+        Productos
+        Culturas precolombinas
+    Tres filas Una columna
+        Colegios del Ecuador
+        Lenguas indígenas en la educación
+        Características de la cultura
+        Obras de arte famosas
+    Dos columnas con una fila
+        Alumnos encuestados | Número de hermanos en otro grado
+        Deporte | Número de personas
+        Color preferido | Número de niños/niñas
+        País | Expresiones culturales intangibles
+    Dos columanas tres filas
+        Criterios de Inclusión | Criterios de Exclusión
+        Parte | Descripción
+        Ventajas, Desventajas.	En cada fila nombra ventajas y desventajas de ambientes virtuales
+    Dos columnas dos filas
+        Categoría, Atributos. Los atributos que debes mensionar son de sustentabilidad 
+        Asignatura | Aspectos
+        Provincia | Programa
+        Provincia | Culturas
+    Tres columanas tres filas
+        País | Tasa de Alfabetización | Gasto Público en Educación (% del PIB) 
+        País | Indice de alfabetización | Gasto en educación (% del PIB)
+        País | % de Gasto Anual en Educación | % de Población Alfabetizada 
+        País | Tasa de Alfabetización | Gasto en Cultura por Habitante
+        Continente | Tasa de Alfabetización de Adultos | Gasto Público en Cultura
+        País | Tasa de alfabetización | Inversión en educación
+        No | Proceso | Fecha de publicación de resultados
+        Puntaje | Cantidad de hombres | Cantidad de mujeres
+        Capitales | Elemento de Cohesión | Variables culturales     
+    Tres columanas dos filas
+        País | Tasa de alfabetización | Número de bibliotecas públicas
+        País | Alfabetización (%) | Gasto público en educación (% del PIB)
+        País | Tasa de alfabetización | Gasto en educación
+        País | Tasa de Alfabetización | Gasto Público en Educación
+        País | Tasa de Alfabetización | Sitios de patrimonio Cultural de la UNESCO
+        País | Número de escuelas primarias | Número de bibliotecas públicas
+        País | Tasa de alfabetización | Número de bibliotecas públicas
+        Países con mayor alfabetización | Porcentaje de alfabetismo | Número de universidades
+        Temática | Categorías de análisis | Autores
+        Arte románico | Arte gótico | Arte bizantino
+        Movimiento | Autor | Obra artística
+    Tres columnas una fila
+        País | Tasa de alfabetización | Gasto en educación (% del PIB)
+        País | Gasto en Educación (porcentaje del PIB) | Tasa de Alfabetización (porcentaje)
+        País | Tasa de Alfabetización | Gasto Público en Educación (% del PIB)
+        País | Tasa de alfabetización (% de adultos) | Gasto en educación (% del PIB)
+        País con mayor inversión en educación | País con menor inversión en educación | País con mayor acceso a la cultura 
+        País | Idioma | Monumento Histórico
+        Alfabetización de adultos | Tasa de matrícula en la educación superior | Gasto público en educación (% del PIB)
+        País | Tasa de alfabetización | Gasto en educación (% del PIB)
+        Educación Inicial | Educación Primaria | Educación secundaria
+        Países con mayor inversión en educación | Porcentaje de población alfabetizada | Gasto en cultura por habitante
+        Países con mayor inversión en educación como porcentaje del PIB | Países con menor tasa de analfabetismo | Países con mayor número de museos per cápita
+        Espacio en el que se convive con la diversidad cultural | Frecuencia | Media
+
+
+Medio Ambiente,Animales, Plantas y Sostenibilidad
+    Una fila una columna
+        Características de animales
+        Características de Ecosistemas
+        Reciclaje
+        Gestión de Residuos
+    Una fila dos columnas
+        Mamíferos
+        Carnívoros
+        Aves
+        Temperatura(en diferentes sitios)
+    Tres filas y una columna
+        Biodiversidad
+        Interacción entre plantas y animales
+        Extinción de especies
+        Objetivos de Desarrollo Sostenible
+        Cambio climático
+        Conservación de hábitats
+        Agricultura sostenible
+        Beneficios del reciclaje y reducción de residuos
+    dos columnas una fila
+        Animal | Causas de extinción
+        Planta | Causas de extinción
+        Hábitat | Amenazas
+        Acción para la Conservación de la Biodiversidad | Ejemplo
+        Acción | Ejemplo
+    Dos columnas tres filas
+        Alimento | Cantidad de Proteínas
+        Causas | Consecuencias
+        Animal | Dieta
+        Problema | Solución
+    Dos columnas dos filas
+        Factores Bióticos | Factores Abióticos
+        Ecosistemas terrestres | Ecosistemas acuáticos
+        Tipo de desarrollo | Descripción
+        Teoría | Caracterización del desarrollo sostenible
+    Tres columanas tres filas
+        Medio Ambiente | Animales | Plantas
+        Nombre | Peso | Tamaño
+        No | Nombre Comun | Nombre científico
+        Nombre científico | Nombre común | Tipo de planta
+        Diferencias | Animal | Vegetal
+        Cultivo | Conductividad en el suelo (dS/cm) | Conductividad en el agua de riego (dS/cm)
+    Tres columnas dos filas
+        País | Anfibios | Reptiles
+        País | Peces | Mamíferos
+        País | Anfibios | Plantas vasculares
+        País | Aves | Plantas vasculares
+        Grupo | Número reportado en IV Informe País | Número actual de especies
+        País | Vertebrados | Mamíferos
+        Sector | Material | Meta de recolección para primer año
+        Factor de riesgo ambiental | Riesgo | Consecuencias
+        Factor de riesgo | Riesgo | Consecuencias
+        Tipo de emisiones | Toneladas de CO2 emitidas | '%' del total
+        Ranking | Países | Toneladas de CO2 (millones)
+        Ranking | Países | Toneladas de C02(millones)
+    Tres columnas una fila
+        
+
+
+
+
+Ciencia y Tecnología
+    Enfermedad, Síntomas cantidad:10    
+        promt: genera una tabla en formato marckdown escrita de manera seguida en una linea, la tabla debe tener tres filas y dos columnas, la tabla tendra las siguientes caracteristicas: Enfermedad, Síntomas luego una oración que describa el contenido de la tabla fila por fila, usa solo la informacion puesta en la tabla no expandas el tema ,  la información se presente detalladamente pero solo en base a la informacion de la tabla no agregues infromacion que no este en la tabla, no pongas la tabla contiene, separa la tabla de la descripcion con ? como el ejemplo : | Enfermedad | Síntomas ||---|---|| Gripe | Fiebre, tos, dolor de garganta || Resfriado | Congestión nasal, secreción nasal, estornudos || COVID-19 | Fiebre, tos seca, cansancio |?Esta tabla presenta tres enfermedades, junto con sus síntomas. La primera fila describe la Gripe, una enfermedad respiratoria cuyos síntomas son fiebre, tos y dolor de garganta. La segunda fila detalla el Resfriado, enfermedad que se manifiesta con congestión nasal, secreción nasal y estornudos. Finalmente, la tercera fila describe el COVID-19, una enfermedad cuyos síntomas principales son fiebre, tos seca y cansancio. "
+    
+    Fenómenos naturales, Causas y explicaciones científicas detrás de estos fenómenos  cant:5
+    Fenómenos naturales, Impactos y consecuencias
+    Elementos de la Tabla Periódica, Propiedades10
+    Dispositivos electrónicos, Funciones
+
+
+
+    Características de animales de la selva
+    
+
+    Tipo de amenazas cibernéticas
+    Ventaja del internet
+    Biografía de inventor destacado
+
+
+
+
