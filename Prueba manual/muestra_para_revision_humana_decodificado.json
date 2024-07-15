@@ -1,0 +1,112 @@
+{
+    "muestras": [
+        {
+            "id": "b98f686e-41ae-413c-b990-5dd8b6e0ddc2",
+            "table": "| Provincia | Programa ||---|---|| Azuay | Lengua y Literatura || Guayas | Ciencias Naturales |",
+            "texto": "La tabla muestra las provincias y su programa. Azuay tiene en su programa lengua y literatura. Guayas tiene en su programa ciencias naturales.",
+            "orden": 107
+        },
+        {
+            "id": "362ca62c-f02d-48f5-a08b-fcfefe9f2df1",
+            "table": "| Aves || --- || Loros || Pingüinos |",
+            "texto": "La tabla muestra aves, se nombra a los loros y los pingüinos.",
+            "orden": 3
+        },
+        {
+            "id": "1027f405-fad5-4085-a4fd-20cc513052e8",
+            "table": "| País | Cantidad de especies de aves ||---|---|| India | 1.350 || Colombia | 1.900 || Perú | 1.814 |",
+            "texto": "La tabla muestra países y la cantidad de especies de aves. India tiene 1.350. Colombia tiene 1.900. Perú tiene 1.814.",
+            "orden": 77
+        },
+        {
+            "id": "8093187d-9408-4f06-9d28-eea7d56d4f77",
+            "table": "| Elemento de la Tabla Periódica | Propiedades ||---|---|| Helio | Gas inerte, no inflamable, no tóxico || Carbono | Sólido, no metálico, puede formar enlaces covalentes || Hierro | Metal de transición, magnético, conductor de electricidad |",
+            "texto": "Esta tabla enumera tres elementos de la Tabla Periódica y sus propiedades más destacadas. La primera fila describe el helio como un gas inerte, no inflamable, no tóxico. La segunda fila destaca el carbono como un sólido no metálico capaz de formar enlaces covalentes. Finalmente, la tercera fila presenta el hierro como un metal de transición con propiedades magnéticas y conductoras de electricidad .",
+            "orden": 95
+        },
+        {
+            "id": "c90a1345-5ec5-4f5f-9b2d-5d226f631030",
+            "table": "| Personaje histórico | Fecha de fallecimiento ||---|---|| Martin Luther King Jr. | 4 de abril de 1968 || Mahatma Gandhi | 30 de enero de 1948 |",
+            "texto": "La tabla muestra personajes históricos y la fecha en que fallecieron. Martin Luther King Jr. falleció el 4 de abril de 1968. Mahatma Gandhi falleció el 30 de enero de 1948.",
+            "orden": 50
+        },
+        {
+            "id": "f97d9e93-c0c4-40b3-a7cd-1963f2ed5c07",
+            "table": "| Marca | Modelo | Año ||---|---|---|| BMW | M3 | 2023 || Tesla | Model S | 2022 || Toyota | Camry | 2021 |",
+            "texto": "La tabla contiene información sobre tres modelos de automóviles fabricados por diferentes marcas: un BMW M3 fabricado en 2023, un Tesla Model S fabricado en 2022 y un Toyota Camry fabricado en 2021.",
+            "orden": 70
+        },
+        {
+            "id": "2f103949-0027-43b8-9bf0-4071ec1a7977",
+            "table": "| País | Población (millones) | Superficie (kilómetros cuadrados) ||---|---|---|| Lituania | 2,79 | 65.300 || Luxemburgo | 0,64 | 2.586 || Malta | 0,54 | 316 |",
+            "texto": "La tabla muestra información de países, su población en millones y su superficie en kilómetros cuadrados. Lituania tiene una población de 2,79 millones y una superficie de 65.300 kilómetros cuadrados. Luxemburgo tiene una población de 0,64 millones y una superficie de 2.586 kilómetros cuadrados. Malta tiene una población de 0,54 millones y una superficie de 316 kilómetros cuadrados.",
+            "orden": 145
+        },
+        {
+            "id": "10b7b98e-41e0-4ab9-bd8a-faea1714766a",
+            "table": "| País | Anfibios | Plantas vasculares ||---|---|---|| Uruguay | 96 | 2.512 || Venezuela | 324 | 11.800 |",
+            "texto": "La tabla muestra el número de especies de anfibios y plantas vasculares. Uruguay tiene 96 especies de anfibios y 2.512 especies de plantas vasculares. Venezuela tiene 324 especies de anfibios y 11.800 especies de plantas vasculares.",
+            "orden": 112
+        },
+        {
+            "id": "5c381b70-dde8-4a95-9f0e-bab659d8f8b8",
+            "table": "| Experimento | Año ||---------|-----|| Experimento de Michelson-Morley | 1887 || Experimento de Stern-Gerlach | 1922 |",
+            "texto": "La primera fila de la tabla muestra el Experimento de Michelson-Morley, que se realizó en el año 1887. La segunda fila de la tabla muestra el Experimento de Stern-Gerlach, que se realizó en el año 1922.",
+            "orden": 42
+        },
+        {
+            "id": "e6fbe2c7-00be-4392-82d4-93828fcc9de8",
+            "table": "| Cantidad de turistas ||---|| Perú en 2021, que fueron 2,4 millones |",
+            "texto": "La tabla muestra el número de turistas que visitaron Perú en 2021, que fueron 2,4 millones.",
+            "orden": 96
+        },
+        {
+            "id": "dd8b4d56-ca6b-45f8-973c-5089534ecd22",
+            "table": "| Interacción entre plantas y animales ||:---|| Polen que las abejas transfieren de flor a flor || Plantas que ofrecen néctar a los polinizadores || Árboles que proporcionan hábitat a las aves |",
+            "texto": "La tabla describe interacciones entre plantas y animales como el Polen que las abejas transfieren de flor a flor, plantas que ofrecen néctar a los polinizadores y árboles que proporcionan hábitat a las aves.",
+            "orden": 32
+        },
+        {
+            "id": "7cb3f2de-4ca4-4885-b955-e214d2f46f9f",
+            "table": "| Alumnos || --- || Juan José Rodríguez || María Fernanda Pérez |",
+            "texto": "La tabla contiene los nombres completos de los alumnos Juan José Rodríguez y María Fernanda Pérez.",
+            "orden": 111
+        },
+        {
+            "id": "8352a4af-6420-472b-bda6-818e82de1b6b",
+            "table": "| Misión espacial | Agencia espacial ||---|---|| Apolo 11 | NASA || Shenzhou 5 | CNSA |",
+            "texto": "La tabla muestra dos misiones espaciales significativas y sus agencias espaciales correspondientes. La primera fila indica la misión Apolo 11 llevada a cabo por la NASA. La segunda fila muestra la misión Shenzhou 5, realizada por la CNSA.",
+            "orden": 67
+        },
+        {
+            "id": "1716ec18-b678-4162-afc6-cafe5792125e",
+            "table": "| Región Geográfica | Especies Endémicas | Amenazas ||---|---|---|| Arrecife de Coral de Mesoamérica | Coral Elkhorn, Coral Staghorn | Sobrepesca, Cambio Climático |",
+            "texto": "La tabla resume información sobre una región geográfica del arrecife de Coral de Mesoamérica, resaltando las especies endémicas únicas, como el Coral Elkhorn y el Coral Staghorn, así como las amenazas que enfrentan, como la sobrepesca y el cambio climático",
+            "orden": 144
+        },
+        {
+            "id": "d0643cdf-1487-415c-b074-694a1c776cf4",
+            "table": "| Nombre completo || ----------- || Ana María González Rodríguez |",
+            "texto": "La tabla presenta el nombre completo de Ana María González Rodríguez.",
+            "orden": 161
+        },
+        {
+            "id": "8a1c20ef-5a63-4f7e-b8f0-abd6110abab2",
+            "table": "| Planta | Causas de extinción ||---|---|| Santalum fernandezianum | Posible deforestación, sobrepastoreo, intrusión de especies exóticas |",
+            "texto": "La tabla muestra la planta Santalum fernandezianum y su causa de extinción, que incluyen una posible deforestación, el sobrepastoreo y la intrusión de especies exóticas.",
+            "orden": 45
+        },
+        {
+            "id": "656d5b24-79c8-4eb4-a2a7-6f9074ff3f20",
+            "table": "| Nombres | Apellidos | Nacionalidad ||-----|------|------|| Camila | Perez | Argentina || Carlos | Ramirez | Chilena |",
+            "texto": "La tabla contiene información de nombres, apellidos y nacionalidades. El nombre es Camila, el apellido Pérez y la nacionalidad argentina. El nombre es Carlos, el apellido Ramírez y la nacionalidad chilena.",
+            "orden": 157
+        },
+        {
+            "id": "71abe58b-77ca-424f-9428-e337674e38ce",
+            "table": "| Nombre de la Especie | Causas de la Amenaza | Medidas de Conservación ||---|---|---|| Águila calva | Pérdida de hábitat, contaminación, uso de pesticidas | Protección y restauración del hábitat, prohibición del uso de DDT || Lechuza moteada del norte | Tala de bosques, fragmentación del hábitat | Protección y gestión de los bosques, reintroducción de lechuzas || Guacamayo jacinto | Tráfico ilegal de vida silvestre, pérdida de hábitat | Creación de zonas protegidas, programas de cría en cautiverio |",
+            "texto": "La tabla proporciona información sobre nombre de especies, sus causas de amenaza y las medidas de conservación implementadas para protegerlas. La primera fila describe el Águila calva, las causas de su declive (pérdida de hábitat, contaminación, uso de pesticidas) y las medidas de conservación (protección y restauración del hábitat, prohibición del DDT). La segunda fila se centra en la Lechuza moteada del norte, las amenazas que enfrenta (tala de bosques, fragmentación del hábitat) y las medidas de conservación (protección y gestión de bosques, reintroducción de lechuzas). La última fila aborda el Guacamayo jacinto, las causas de su amenaza (tráfico ilegal de vida silvestre, pérdida de hábitat) y las medidas de conservación (creación de zonas protegidas, programas de cría en cautiverio).",
+            "orden": 142
+        }
+    ]
+}

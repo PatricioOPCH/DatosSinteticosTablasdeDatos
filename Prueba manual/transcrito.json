@@ -1,0 +1,1084 @@
+{
+    "muestras": [
+        {
+            "id": "ce6dee80-5f4f-4d20-9858-7515667b5d32",
+            "table": "| Personaje Histórico ||---|| Simón Bolívar, libertador de varias naciones sudamericanas |",
+            "texto": "La tabla contiene información sobre un personaje histórico, Simón Bolívar, libertador de varias naciones sudamericanas.",
+            "orden": 1
+        },
+        {
+            "id": "75cc0b4a-e77d-499a-b441-1a0e28eb04c3",
+            "table": "| País | Población (millones) | Esperanza de vida (años) ||---|---|---|| India | 1.380 | 69,4 || Estados Unidos | 332,4 | 78,8 |",
+            "texto": "La tabla muestra información de países, su población en millones y su esperanza de vida en años. India tiene una población de 1.380 millones y una esperanza de vida de 69,4 años. Estados Unidos tiene una población de 332,4 millones y una esperanza de vida de 78,8.",
+            "orden": 2
+        },
+        {
+            "id": "362ca62c-f02d-48f5-a08b-fcfefe9f2df1",
+            "table": "| Aves || --- || Loros || Pingüinos |",
+            "texto": "La tabla muestra aves, se nombra a los loros y los pingüinos.",
+            "orden": 3
+        },
+        {
+            "id": "abbe9707-7b32-442b-a035-46e7b83b50df",
+            "table": "| Ventajas | Desventajas ||---|---|| Flexibilidad y conveniencia | Falta de interacción social || Acceso a recursos globales | Potenciales problemas técnicos || Costos reducidos | Dificultad para establecer conexiones personales |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja está la flexibilidad y conveniencia, como desventaja está la falta de interacción social. Como ventaja está el acceso a recursos globales, como desventaja están los potenciales problemas técnicos. Como ventaja están los costos reducidos, como desventaja está la dificultad para establecer conexiones personales.",
+            "orden": 4
+        },
+        {
+            "id": "0c55369d-2a4a-4474-bd50-1fe715f78ad4",
+            "table": "| Planta | Causas de extinción ||---|---|| Cicuta Virosa | Está experimentando extinción debido a la destrucción del hábitat |",
+            "texto": "La tabla muestra la planta Cicuta Virosa está experimentando extinción debido a la destrucción de su hábitat.",
+            "orden": 5
+        },
+        {
+            "id": "9959dca8-e31e-4b81-9f8b-2883d2856da5",
+            "table": "| Elemento de la Tabla Periódica | Propiedades ||---|---|| Cloro | Gas verdoso, tóxico, reactivo || Sodio | Metal blando, plateado y reactivo || Hierro | Metal duro, maleable y magnético |",
+            "texto": "Esta tabla proporciona una descripción de las propiedades de tres elementos de la Tabla Periódica. La primera fila detalla el cloro, un gas verdoso que es tóxico y reactivo. La segunda fila describe el sodio, un metal blando, plateado y muy reactivo. Finalmente, la tercera fila proporciona información sobre el hierro, un metal duro, maleable y magnético.",
+            "orden": 6
+        },
+        {
+            "id": "6dfbdaf0-a964-4a0b-b2fe-2962f3f7e1a7",
+            "table": "| Países del continente americano ||------|| Colombia || Ecuador |",
+            "texto": "La tabla muestra países del continente americano como Colombia y Ecuador.",
+            "orden": 7
+        },
+        {
+            "id": "a81ef917-4d78-434a-abf0-0193fc128f93",
+            "table": "| Nombre | Apellido | Edad ||---|---|---|| Pedro | González | 25 || María | Rodríguez | 30 || Juan | Pérez | 35 |",
+            "texto": "La tabla proporciona información personal como el nombre, apellido y la edad sobre tres personas individuos: Pedro González tiene 25 años, María Rodríguez tiene 30 años y Juan Pérez tiene 35 años.",
+            "orden": 8
+        },
+        {
+            "id": "4876e897-4104-4f28-b00b-b3b28f72f71f",
+            "table": "| Apellidos ||:-----------|| Armstrong || Van der Poel || Pogacar |",
+            "texto": "La tabla menciona apellidos como Armstrong, Van der Poel y Pogacar.",
+            "orden": 9
+        },
+        {
+            "id": "ee20a72a-4acb-46e6-8a41-9a5686952f2a",
+            "table": "| Fenómenos naturales | Prevención preparación y respuesta ante fenómenos naturales ||:---|:---|| Terremotos | Refuerzo estructural, planes de evacuación, sistemas de alerta temprana || Huracanes | Protección de ventanas, almacenamiento de alimentos y agua, seguimiento de los avisos meteorológicos || Inundaciones | Drenaje adecuado, evacuación a zonas altas, monitoreo de niveles de agua |",
+            "texto": "La tabla presenta información sobre las medidas de prevención, preparación y respuesta ante diferentes fenómenos naturales: para los terremotos, se menciona el refuerzo estructural de edificios, la implementación de planes de evacuación y sistemas de alerta temprana; para los huracanes, se indica la protección de ventanas, el almacenamiento de alimentos y agua, y el seguimiento de los avisos meteorológicos; y para las inundaciones, se destaca la importancia de un drenaje adecuado, la evacuación a zonas altas y el monitoreo de los niveles de agua.",
+            "orden": 10
+        },
+        {
+            "id": "963275e8-e6c1-4d6b-93b8-72705a10c8ed",
+            "table": "| Región | Tasa de fertilidad (hijos por mujer) ||:---|:---|| Asia | 2,2 |",
+            "texto": "La tabla muestra que la tasa de fertilidad en la región de Asia, es de 2,2 hijos por mujer.",
+            "orden": 11
+        },
+        {
+            "id": "dddf84ef-ddd9-459c-bd0b-df1ca2675c91",
+            "table": "| Continente | Tasa de alfabetización | Número de bibliotecas públicas ||---|---|---|| Europa | 99% | 180 por cada millón de habitantes |",
+            "texto": "La tabla muestra información de un continente, su tasa de alfabetización y su número de bibliotecas públicas. El continente europeo tiene una tasa de alfabetización del 99% y un número de bibliotecas públicas de 180 por cada millón de habitantes.",
+            "orden": 12
+        },
+        {
+            "id": "0ff6d853-a786-4097-af84-1aecda316b39",
+            "table": "| Patrimonio intangible || --------------------- || Danzas del patrimonio del Ecuador |",
+            "texto": "Esta tabla contiene patrimonio intangible como danzas del patrimonio del Ecuador.",
+            "orden": 13
+        },
+        {
+            "id": "49ebb6c2-b233-4684-b01b-43ed667ac4f1",
+            "table": "| Provincia | Culturas ||---|---|| Pichincha | Quitus, Caras, Cayambis || Santa Elena | Tsáchilas, Cholos Peninsulares |",
+            "texto": "La tabla muestra las provincias y las culturas. Pichincha tiene a las culturas Quitus, Caras y Cayambis. Santa Elena tiene a las culturas Tsáchilas y Cholos Peninsulares.",
+            "orden": 14
+        },
+        {
+            "id": "cb762cc9-c7a2-4692-bbef-8e90a7c2d2f1",
+            "table": "| Carnívoros || --- || Tiburón || Orca |",
+            "texto": "La tabla muestra carnívoros, se nombra al tiburón y a la orca.",
+            "orden": 15
+        },
+        {
+            "id": "e58b1a7f-c369-4f7d-9550-4b0d2558fe59",
+            "table": "| Características de animales ||------|| Tiburón: depredador, branquias, esqueleto cartilaginoso |",
+            "texto": "La tabla muestra las características de animales como el tiburón, que es un depredador, tiene branquias y un esqueleto cartilaginoso.",
+            "orden": 16
+        },
+        {
+            "id": "1eefec06-1596-4702-8fc4-7084a2176e85",
+            "table": "| Asignatura | Aspectos ||----|----|| Filosofía | Conceptos, valores, ética || Arte | Expresión, creatividad, técnicas |",
+            "texto": "La tabla muestra asignaturas y sus aspectos. La filosofía contiene aspectos como conceptos, valores y ética. El arte contiene aspectos como expresión, la creatividad y las técnicas.",
+            "orden": 17
+        },
+        {
+            "id": "5e06f536-620f-411f-8441-6161733540c4",
+            "table": "| Nombre científico | Nombre común | Tipo de planta ||---|---|---|| Solanum tuberosum | Papa | Hierba || Malus domestica | Manzano | Árbol frutal || Zea mays | Maíz | Cereal |",
+            "texto": "La tabla muestra información de nombres científicos, nombres comúnes y el tipo de planta. El nombre científico es Solanum tuberosum, su nombre común es papa y es una hierba en su tipo de planta. El nombre científico es Malus domestica, su nombre común es manzano y es un árbol frutal en su tipo de planta. El nombre científico es Zea mays, su nombre común es maíz y es un cereal en su tipo de planta.",
+            "orden": 18
+        },
+        {
+            "id": "612e3d3b-97de-439a-8ec2-5eeb2a07ca83",
+            "table": "| Tema | Descripción ||---|---|| Paleontología | Estudio de los organismos y seres vivos del pasado || Nanotecnología | Desarrollo y aplicación de materiales y dispositivos a escala nanométrica |",
+            "texto": "La paleontología es la ciencia que se encarga del estudio de los organismos y seres vivos. Por otro lado, la nanotecnología es la tecnología que se enfoca en el desarrollo y aplicación de materiales y dispositivos a escala nanométrica.",
+            "orden": 19
+        },
+        {
+            "id": "bcf93ee6-38c6-4042-a17e-397ef42e6452",
+            "table": "| Región | Población (miles de millones) | Densidad de población (habitantes por km cuadrado) ||---|---|---|| Asia | 4.6 | 96 || África | 1.4 | 44 || Europa | 0.7 | 34 |",
+            "texto": "La tabla muestra información de la región, su población en miles de millones y su densidad de población en habitantes por kilómetro cuadrado.  La región de Asia tiene una población de 4,6 mil millones y una densidad de población de 96 habitantes por kilómetro cuadrado. La región de África tiene una población de 1,4 mil millones y una densidad de población de 44 habitantes por kilómetro cuadrado. La región de Europa tiene una población de 0,7 mil millones y una densidad de población de 34 habitantes por kilómetro cuadrado.",
+            "orden": 20
+        },
+        {
+            "id": "6c65df70-3f88-48a8-8d35-7571cd6c39b8",
+            "table": "| Aves || --- || Cóndor || Guacamayo |",
+            "texto": "La tabla muestra aves, se nombra el Cóndor y el Guacamayo.",
+            "orden": 21
+        },
+        {
+            "id": "02809c4e-c6db-4c4b-9f49-afc6d3745b2f",
+            "table": "| Científicos | Año de nacimiento | Año de fallecimiento ||---|---|---|| Albert Einstein | 1879 | 1955 || Isaac Newton | 1643 | 1727 || Marie Curie | 1867 | 1934 |",
+            "texto": "La tabla muestra información sobre tres científicos : Albert Einstein, Isaac Newton y Marie Curie. Einstein nació en 1879 y murió en 1955. Isaac Newton nació en 1643 y murió en 1727. Marie Curie nació en 1867 y murió en 1934.",
+            "orden": 22
+        },
+        {
+            "id": "f36f8df6-c7cc-46d6-b7d3-8ba2524c60ee",
+            "table": "| Factores Bióticos | Factores Abióticos ||---|---|| Población de animales | Temperatura || Cadena alimentaria | Precipitación |",
+            "texto": "La tabla muestra factores bióticos y factores abióticos. Factores bióticos incluyen la población de animales y factores abióticos incluyen la temperatura. Factores bióticos incluyen la cadena alimentaria y factores abióticos incluyen la precipitación.",
+            "orden": 23
+        },
+        {
+            "id": "7753a94f-5f89-46b8-a3c7-0394693c0ff5",
+            "table": "| País | Población (millones) ||---|---|| China | 1452 || India | 1412 |",
+            "texto": "La tabla muestra países y su población en millones. China tiene una población de 1452 millones. India tiene una población de 1412 millones.",
+            "orden": 24
+        },
+        {
+            "id": "557e8205-ea04-4e44-a8aa-ebb1e65a8da2",
+            "table": "| Cantidad de turistas ||---|| China en 2019, que fueron 145,3 millones |",
+            "texto": "La tabla muestra el número de turistas que visitaron China en 2019, que fueron 145,3 millones ",
+            "orden": 25
+        },
+        {
+            "id": "2f5159d9-4512-45e5-a35c-392b148d35da",
+            "table": "| Avances Tecnológicos | Beneficios | Desafios ||---|---|---|| Inteligencia artificial | Automatización, eficiencia, mejores decisiones | Sesgo algorítmico, perdida de empleo, cuestiones éticas | Tecnologías sostenibles | Reducción de emisiones, conservación de recursos | Costos elevados, desarrollo lento, adopción desigual |",
+            "texto": "en los avances tecnológicos está la inteligencia artificial, sus beneficios está la automatización, eficiencia, mejores decisiones y los desafíos es el Sesgo algorítmico, perdida de empleo, cuestiones éticas, en los avances tecnológicos están las Tecnologías sostenibles, los beneficios son la Reducción de emisiones, conservación de recursos y los desafíos son los costos elevados, desarrollo lento, adopción desigual",
+            "orden": 26
+        },
+        {
+            "id": "55707016-909f-4f15-a318-7762f9f79ac6",
+            "table": "| No | Proceso | Fecha de publicación de resultados ||---|---|---|| 1 | Encuesta Nacional de Educación Inicial | 22 de octubre de 2024 || 2 | Encuesta Nacional de Educación Secundaria | 15 de noviembre de 2024 || 3 | Encuesta Nacional de Educación Superior | 30 de noviembre de 2024 |",
+            "texto": "La tabla muestra información el número de proceso, el proceso en sí y la fecha de publicación de los resultados para cada proceso. El primer proceso es la encuesta nacional de educación inicial, cuyos resultados se publicarán el 22 de octubre de 2024. La segunda es la encuesta nacional de educación secundaria, cuyos resultados se publicarán el 15 de noviembre de 2024. La tercera es la encuesta nacional de educación superior, cuyos resultados se publicarán el 30 de noviembre de 2024.",
+            "orden": 27
+        },
+        {
+            "id": "be638447-7ee9-49e8-99d7-86c09a9d21f8",
+            "table": "| Fuente de energía | Ventaja | Desventaja ||---|---|---|| Solar | Renovable, limpia, inagotable | Intermitente, requiere gran superficie de terreno |",
+            "texto": "La tabla muestra una fuente de energía, destacando sus ventajas y desventajas. La energía solar es renovable y limpia, pero es intermitente y requiere mucho espacio.",
+            "orden": 28
+        },
+        {
+            "id": "53765ee6-bbab-4939-9ab0-ed581a81bf0f",
+            "table": "| Revolución Tecnológica | Innovación ||------------------------|------------|| IA, Automatización | Mejora la productividad y la eficiencia || Computación en la Nube | Acceso a datos y aplicaciones desde cualquier lugar |",
+            "texto": "La revolución tecnológica impulsada por la Inteligencia Artificial (IA) y la Automatización ha resultado en innovaciones que han mejorado la productividad y la eficiencia. Asimismo, la revolución tecnológica de la Computación en la Nube ha permitido la innovación en el acceso a datos y aplicaciones desde cualquier lugar.",
+            "orden": 29
+        },
+        {
+            "id": "0de9f58a-f119-4002-9147-3223df227acd",
+            "table": "| Intervalo | Frecuencia | Clase ||---|---|---|| [-5, 5) | 12 | Inferior || [15, 25) | 8 | Superior |",
+            "texto": "La tabla muestra información de intervalos, frecuencias y clases. El intervalo [-5, 5) tiene una frecuencia de 12 y corresponde a la clase inferior. El intervalo [15, 25) tiene una frecuencia de 8 y corresponde a la clase superior.",
+            "orden": 30
+        },
+        {
+            "id": "cf59e0e3-f526-4330-ab50-25f5a5da1156",
+            "table": "| Continente | Tasa de alfabetización | Número de bibliotecas públicas ||---|---|---|| África | 67% | 14 por cada millón de habitantes |",
+            "texto": "La tabla muestra información de un continente, su tasa de alfabetización y su número de bibliotecas públicas. El continente africano tiene una tasa de alfabetización de 67% y un número de bibliotecas públicas de 14 por cada millón de habitantes.",
+            "orden": 31
+        },
+        {
+            "id": "dd8b4d56-ca6b-45f8-973c-5089534ecd22",
+            "table": "| Interacción entre plantas y animales ||:---|| Polen que las abejas transfieren de flor a flor || Plantas que ofrecen néctar a los polinizadores || Árboles que proporcionan hábitat a las aves |",
+            "texto": "La tabla describe interacciones entre plantas y animales como el Polen que las abejas transfieren de flor a flor, plantas que ofrecen néctar a los polinizadores y árboles que proporcionan hábitat a las aves.",
+            "orden": 32
+        },
+        {
+            "id": "68baaaf1-6dc7-480b-8e49-1dd16567df68",
+            "table": "| Presidente | País | Fecha de mandato ||---|---|---|| Juan Manuel Santos | Colombia | 2010-2018 || Dilma Rousseff | Brasil | 2011-2016 || Enrique Peña Nieto | México | 2012-2018 |",
+            "texto": "La tabla muestra los presidentes, sus países y su fecha de mando. Juan Manuel Santos del país de Colombia con su fecha de mandato: 2010 a 2018. Dilma Rousseff del país de Brasil con su fecha de mandato: 2011 a 2016. Enrique Peña Nieto del país de México con su fecha de mandato: 2012 a 2018.",
+            "orden": 33
+        },
+        {
+            "id": "f66150f6-0e99-466b-baa7-956536a41790",
+            "table": "| Interacción entre plantas y animales ||:---|| Polinización || Dispersión de semillas || Mutualismo |",
+            "texto": "La tabla describe las diferentes formas en que las plantas y los animales interactúan, incluyendo la polinización, la dispersión de semillas y el mutualismo.",
+            "orden": 34
+        },
+        {
+            "id": "7ca1a567-b74b-4c0a-9954-c98a965cb82a",
+            "table": "| Mamíferos || --- || Zorros || Caballos |",
+            "texto": "La tabla muestra mamíferos, se nombra al zorro y el caballo.",
+            "orden": 35
+        },
+        {
+            "id": "2e454258-48cf-4542-99d5-746fad733776",
+            "table": "| Cultivo | Conductividad en el suelo (dS/cm) | Conductividad en el agua de riego (dS/cm) ||:---|:---|:---|| Olivo | 3.0 | 2.5 || Lechuga | 1.5 | 1.2 || Frutilla | 1.2 | 0.9 |",
+            "texto": "La tabla proporciona información sobre la conductividad eléctrica del suelo y del agua de riego para cultivos. El olivo tiene una conductividad del suelo de 3.0 dS/cm y una conductividad del agua de riego de 2.5 dS/cm. La lechuga tiene una conductividad del suelo de 1.5 dS/cm y una conductividad del agua de riego de 1.2 dS/cm. La frutilla tiene una conductividad del suelo de 1.2 dS/cm y una conductividad del agua de riego de 0.9 dS/cm.",
+            "orden": 36
+        },
+        {
+            "id": "9eeebe29-11a4-491c-8a4e-b75e8c03a8ab",
+            "table": "| Autor | Título de obras literarias | Año de publicación ||---|---|---|| Miguel de Cervantes | El ingenioso hidalgo don Quijote de la Mancha | 1605 || William Shakespeare | Hamlet | 1603 || Jane Austen | Orgullo y prejuicio | 1813 |",
+            "texto": "La tabla presenta datos bibliográficos de obras literarias, incluyendo el autor, el título y el año de publicación. La primera fila corresponde a \"El ingenioso hidalgo don Quijote de la Mancha\", escrita por Miguel de Cervantes en 1605. La segunda fila hace referencia a \"Hamlet\" de William Shakespeare, publicada en 1603. La tercera y última fila presenta \"Orgullo y prejuicio\" de Jane Austen, publicada en 1813.",
+            "orden": 37
+        },
+        {
+            "id": "d4d0dbf0-cbf8-40b0-9a95-70815175fcd4",
+            "table": "| Beneficios del reciclaje y reducción de residuos ||------|| Reduce la huella de carbono || Ahorra recursos naturales || Protege la vida silvestre y los ecosistemas |",
+            "texto": "La tabla muestra los beneficios del reciclaje y la reducción de residuos, como reducir la huella de carbono, ahorrar recursos naturales y proteger la vida silvestre y los ecosistemas.",
+            "orden": 38
+        },
+        {
+            "id": "9f21c87e-4fb3-40cc-9a48-a18b2e6aacef",
+            "table": "| Nombre | Descubrimientos ||---|---|| Galileo Galilei | Telescopio || Alexander Fleming | Penicilina |",
+            "texto": "La tabla muestra nombres y descubrimientos. Galileo Galilei descubrió el telescopio. Alexander Fleming descubrió la penicilina.",
+            "orden": 39
+        },
+        {
+            "id": "84523128-95e1-491b-93c3-4a0c7c2dd406",
+            "table": "| Continente | Población (millones) | Porcentaje de la Población Total ||:---|:---|:---|| Europa | 747 | 9,66% |",
+            "texto": "La tabla muestra el continente, la población en millones y el porcentaje de la población total. Europa tiene una población de 747 millones y el porcentaje de la población total de 9,66%.",
+            "orden": 40
+        },
+        {
+            "id": "b64be4c9-0355-4d74-a784-03c2231f000b",
+            "table": "|Tipos de energía renovable ||------|| Geotermal: Aprovecha el calor interno de la Tierra para generar electricidad o para calentar agua. Es una fuente de energía renovable, confiable y sostenible que no produce emisiones contaminantes. || Energía oceánica: Utiliza la energía de las olas, mareas o corrientes marinas para generar electricidad. Es una fuente de energía renovable, predecible y abundante, especialmente en zonas costeras con alta actividad marina. |",
+            "texto": "La tabla presenta dos tipos de energía renovable. En primer lugar, se describe la Energía geotérmica, que aprovecha el calor interno de la Tierra para generar electricidad o para calentar agua. Es una fuente de energía renovable, confiable y sostenible que no produce emisiones contaminantes. En segundo lugar, se menciona la Energía oceánica, que utiliza la energía de las olas, mareas o corrientes marinas para generar electricidad. Es una fuente de energía renovable, predecible y abundante, especialmente en zonas costeras con alta actividad marina.",
+            "orden": 41
+        },
+        {
+            "id": "5c381b70-dde8-4a95-9f0e-bab659d8f8b8",
+            "table": "| Experimento | Año ||---------|-----|| Experimento de Michelson-Morley | 1887 || Experimento de Stern-Gerlach | 1922 |",
+            "texto": "La primera fila de la tabla muestra el Experimento de Michelson-Morley, que se realizó en el año 1887. La segunda fila de la tabla muestra el Experimento de Stern-Gerlach, que se realizó en el año 1922.",
+            "orden": 42
+        },
+        {
+            "id": "52da7407-0455-4d21-984c-ab0581372925",
+            "table": "| Enfermedad | Virus que lo ocasiona ||---|---|| Sarampión | Virus del sarampión |",
+            "texto": "La tabla presenta información sobre el sarampión, una enfermedad causada por el virus del sarampión.",
+            "orden": 43
+        },
+        {
+            "id": "64ce10ea-93ae-428a-8a46-8f77675b314a",
+            "table": "| Año | Extranjeros censados | % total ||---|---|---|| 2010 | 1.127.595 | 2,3 |",
+            "texto": "La tabla muestra el año, los extranjeros censados y el porcentaje total. El año 2010 habían 1.127.595 extranjeros censados y el porcentaje total es del 2,3%.",
+            "orden": 44
+        },
+        {
+            "id": "8a1c20ef-5a63-4f7e-b8f0-abd6110abab2",
+            "table": "| Planta | Causas de extinción ||---|---|| Santalum fernandezianum | Posible deforestación, sobrepastoreo, intrusión de especies exóticas |",
+            "texto": "La tabla muestra la planta Santalum fernandezianum y su causa de extinción, que incluyen una posible deforestación, el sobrepastoreo y la intrusión de especies exóticas.",
+            "orden": 45
+        },
+        {
+            "id": "ca13740b-79fa-4d6b-a08c-5fcbd176f8dc",
+            "table": "| País | Densidad de Población (por kilómetro cuadrado) ||---|---|| China | 153 || India | 464 || Estados Unidos | 35,6 |",
+            "texto": "La tabla muestra países y la densidad de población por kilómetro cuadrado. China tiene una densidad de población de 153 habitantes por kilómetro cuadrado. India tiene una densidad de población de 464 habitantes por kilómetro cuadrado. Estados Unidos tiene una densidad de población de 35,6 habitantes por kilómetro cuadrado.",
+            "orden": 46
+        },
+        {
+            "id": "bf60f8af-9d59-4995-a83d-933b1292ae64",
+            "table": "| País | PIB (miles de millones de dólares) | Gasto social (% del PIB) ||---|---|---|| Finlandia | 334 | 21,4 || Georgia | 17,2 | 6,2 || Grecia | 215 | 17,2 |",
+            "texto": "La tabla muestra información de países, su PIB en miles de millones de dólares y su gasto social como porcentaje del PIB. Finlandia tiene un PIB de 334 miles de millones de dólares y un gasto social del 21,4% del PIB. Georgia tiene un PIB de 17,2 miles de millones de dólares y un gasto social del 6,2% del PIB. Grecia tiene un PIB de 215 miles de millones de dólares y un gasto social del 17,2% del PIB.",
+            "orden": 47
+        },
+        {
+            "id": "7f030f14-18e8-42e7-b6e0-a6c0883ec9fa",
+            "table": "| Reciclaje ||------|| Compostaje |",
+            "texto": "La tabla muestra que una forma de reciclaje es el compostaje.",
+            "orden": 48
+        },
+        {
+            "id": "197c0a63-51f6-4455-8c7f-2eadbf443fab",
+            "table": "| Desafíos del Internet de las cosas (IoT) || --- || Seguridad y privacidad: garantizar la protección de datos y dispositivos || Interoperabilidad y estándares: permitir que diferentes dispositivos se comuniquen y trabajen juntos sin problemas || Escalabilidad y capacidad de gestión: abordar el gran volumen de datos y dispositivos conectados |",
+            "texto": "La tabla presenta desafíos del Internet de las cosas (IoT). En primer lugar, se destaca el desafío de Seguridad y privacidad, que implica garantizar la protección de datos y dispositivos. En segundo lugar, se menciona el desafío de Interoperabilidad y estándares, que busca permitir que diferentes dispositivos se comuniquen y trabajen juntos sin problemas. En tercer lugar, se habla de Escalabilidad y capacidad de gestión, que aborda el gran volumen de datos y dispositivos conectados.",
+            "orden": 49
+        },
+        {
+            "id": "c90a1345-5ec5-4f5f-9b2d-5d226f631030",
+            "table": "| Personaje histórico | Fecha de fallecimiento ||---|---|| Martin Luther King Jr. | 4 de abril de 1968 || Mahatma Gandhi | 30 de enero de 1948 |",
+            "texto": "La tabla muestra personajes históricos y la fecha en que fallecieron. Martin Luther King Jr. falleció el 4 de abril de 1968. Mahatma Gandhi falleció el 30 de enero de 1948.",
+            "orden": 50
+        },
+        {
+            "id": "bec9037a-a214-448e-b613-1ceaacf7669c",
+            "table": "| Censos ||:---|| Censo de Población y Vivienda || Censo Agropecuario |",
+            "texto": "La tabla muestra censos, el censo de población y vivienda y el censo agropecuario.",
+            "orden": 51
+        },
+        {
+            "id": "488462ff-c6d9-4ff6-a1e6-16fa78355aad",
+            "table": "| Provincia | Culturas ||---|---|| Esmeraldas | Chachi, Épera, Awá || Manabí | Manta, Valdivia, Machalilla |",
+            "texto": "La tabla muestra las provincias y las culturas. Esmeraldas tiene a las culturas Chachi, Épera y Awá. Manabí tiene a las culturas Manta, Valdivia y Machalilla.",
+            "orden": 52
+        },
+        {
+            "id": "b38354ca-09c1-446d-8f55-8dfe4bf4f7cd",
+            "table": "| Área de investigación | Autores principales ||---|---|| Historia del arte | Giorgio Vasari |",
+            "texto": "La tabla presenta a los autores principales en el campo de la investigación en historia del arte, incluido Giorgio Vasari.",
+            "orden": 53
+        },
+        {
+            "id": "13f9bc74-0cdc-4f69-b31e-95c5f7ce8225",
+            "table": "| Teoría | Caracterización del desarrollo sostenible ||---|---|| Teoría de los límites planetarios | Establece límites ambientales para mantener la estabilidad del sistema terrestre. || Teoría del decrecimiento | Aboga por una reducción del consumo y la producción para evitar el agotamiento de los recursos. |",
+            "texto": "La tabla muestra teorías y la caracterización del desarrollo sostenible. La teoría de los límites planetarios, que establece límites ambientales para mantener la estabilidad del sistema terrestre. La teoría del decrecimiento aboga por una reducción del consumo y la producción para evitar el agotamiento de los recursos.",
+            "orden": 54
+        },
+        {
+            "id": "f32ed87a-ac75-4dbb-b57c-819529bf15c3",
+            "table": "| País | Tasa de alfabetización | Gasto en educación (% del PIB) ||---|---|---|| Malawi | 69% | 11 % |",
+            "texto": "La tabla muestra información del país, su tasa de alfabetización y su gasto en educación en porcentaje del PIB. Malawi tiene una tasa de alfabetización del 69 % y su gasto en educación es del 11 % del PIB.",
+            "orden": 55
+        },
+        {
+            "id": "35b97fd7-1d57-4b9c-911b-540a153d861c",
+            "table": "| País | Anfibios | Reptiles ||---|---|---|| Ecuador | 300 especies | 220 especies || El Salvador | 150 especies | 300 especies |",
+            "texto": "La tabla muestra el número de especies de anfibios y reptiles. Ecuador tiene 300 especies de anfibios y 220 especies de reptiles. El Salvador tiene 150 especies de anfibios y 300 especies de reptiles.",
+            "orden": 56
+        },
+        {
+            "id": "11c967dd-2513-42e6-86a7-7448118a2981",
+            "table": "| Parroquia de inscripción ||-------|| Parroquia San Blas, Cuenca || Parroquia San Pedro, Guayaquil || Parroquia La Merced, Quito |",
+            "texto": "La tabla muestra parroquia de inscripción como la Parroquia San Blas en Cuenca, Parroquia San Pedro en Guayaquil y Parroquia La Merced en Quito.",
+            "orden": 57
+        },
+        {
+            "id": "ce1de6c5-2ce4-4076-9c1b-f625ef7a0512",
+            "table": "| Nombre del autor | Año de publicación | Título de la obra ||---|---|---|| Gabriel García Márquez | 1967 | Cien años de soledad |",
+            "texto": "La tabla contiene información sobre el nombre del autor, año de publicación y el título de la obra. Gabriel García Márquez en 1967 publicó la obra Cien años de soledad.",
+            "orden": 58
+        },
+        {
+            "id": "c9fd4d29-78d7-4685-8842-877487cc3d3c",
+            "table": "| Extinción de especies ||--------|| 1 millón de especies en peligro de extinción || 50% de las especies desaparecerán en los próximos 100 años || Actividades humanas son la causa principal |",
+            "texto": "La tabla muestra estadísticas sobre la extinción de especies, destacando que un millón de especies están en peligro, la mitad de las especies podrían desaparecer en un siglo y las actividades humanas son la causa principal.",
+            "orden": 59
+        },
+        {
+            "id": "0700635b-99b4-435a-9961-727ab43d087a",
+            "table": "| Ciencia | Tecnologia | Impacto | ||---|---|---|| Estudio sistemático del mundo natural que utiliza observaciones y experimentos para comprender sus fenómenos y estructuras | Aplicación práctica del conocimiento científico para resolver problemas y crear nuevos productos, procesos y sistemas | Los efectos de la ciencia y la tecnología en la sociedad, el medio ambiente y la economía, que incluyen avances en medicina, comunicaciones y transporte. | Descubre patrones y principios en el mundo natural, lo que conduce a nuevos conocimientos y comprensión. | Transforma estos descubrimientos en aplicaciones prácticas y soluciones innovadoras.   | Mejora la calidad de vida, crea nuevas industrias y genera oportunidades económicas, transformando nuestra forma de vivir y trabajar.",
+            "texto": "La ciencia tiene un estudio sistemático del mundo natural que utiliza observaciones y experimentos para comprender sus fenómenos y estructuras amas de que descubre patrones y principios en el mundo natural, lo que conduce a nuevos conocimientos y comprensión. La Tecnología engloba la aplicación práctica del conocimiento científico para resolver problemas y crear nuevos productos, procesos y sistemas asimismo transforma estos descubrimientos en aplicaciones prácticas y soluciones innovadoras. El impacto contiene los efectos de la ciencia y la tecnología en la sociedad, el medio ambiente y la economía, que incluyen avances en medicina, comunicaciones y transporte. Mejora la calidad de vida, crea nuevas industrias y genera oportunidades económicas, transformando nuestra forma de vivir y trabajar.",
+            "orden": 60
+        },
+        {
+            "id": "5fd09fac-ec52-4b1f-9e25-f45f1cf61b19",
+            "table": "| Alimento | Cantidad de proteínas ||---|---|| Huevo | 6 g || Pechuga de pollo | 25 g || Atún en lata | 20 g |",
+            "texto": "La tabla muestra la cantidad de proteínas en diferentes alimentos. El huevo contiene 6 gramos de proteínas, la pechuga de pollo contienen 25 gramos de proteínas y el atún en lata contiene 20 gramos de proteínas.",
+            "orden": 61
+        },
+        {
+            "id": "6ec87827-7cc9-420c-b853-7f92046b32f8",
+            "table": "| Mes de nacimiento ||------|| Octubre || Noviembre || Mayo |",
+            "texto": "La tabla muestra meses de nacimiento como octubre, noviembre y mayo.",
+            "orden": 62
+        },
+        {
+            "id": "747d2f79-e64a-4313-97cd-71e60edc47ee",
+            "table": "| Categoría | Atributos ||---|---|| Sustentabilidad fuerte | Prioriza la conservación de los recursos naturales y la protección del medio ambiente. || Sustentabilidad súper-fuerte | Va más allá de la conservación, abogando por la restauración y regeneración de los ecosistemas. |",
+            "texto": "La tabla muestra categorías y atributos. La sustentabilidad fuerte tiene atributos que prioriza la conservación de los recursos naturales y la protección del medio ambiente. La sustentabilidad súper-fuerte tiene atributos con los que va más allá de la conservación, abogando por la restauración y regeneración de los ecosistemas.",
+            "orden": 63
+        },
+        {
+            "id": "58dc6023-47ba-411b-99b1-f2966f00c0c1",
+            "table": "| Región | Esperanza de vida ||------|---|| Europa | 78 años |",
+            "texto": "La tabla contiene información sobre la esperanza de vida en una región específica. En Europa es de 78 años.",
+            "orden": 64
+        },
+        {
+            "id": "56b7f0f7-303e-4637-ba6f-87531d7cd178",
+            "table": "| Figura científica | Legado e impacto ||---|---|| Richard Feynman | Físico teórico conocido por su trabajo en electrodinámica cuántica, física de partículas y computación cuántica. |",
+            "texto": "La tabla contiene información sobre el legado e impacto de Richard Feynman, un físico teórico conocido por su trabajo en electrodinámica cuántica, física de partículas y computación cuántica.",
+            "orden": 65
+        },
+        {
+            "id": "c6161f96-8764-4ae5-ba75-e5c995bde5ed",
+            "table": "| País | Población ||---|---|| China | 1.444 mil millones || India | 1.393 mil millones |",
+            "texto": "La tabla muestra países y su población. China, con una población de 1.444 mil millones. India, con una población de 1.393 mil millones.",
+            "orden": 66
+        },
+        {
+            "id": "8352a4af-6420-472b-bda6-818e82de1b6b",
+            "table": "| Misión espacial | Agencia espacial ||---|---|| Apolo 11 | NASA || Shenzhou 5 | CNSA |",
+            "texto": "La tabla muestra dos misiones espaciales significativas y sus agencias espaciales correspondientes. La primera fila indica la misión Apolo 11 llevada a cabo por la NASA. La segunda fila muestra la misión Shenzhou 5, realizada por la CNSA.",
+            "orden": 67
+        },
+        {
+            "id": "b588f5b3-4e35-4191-b2ee-6bc08a30fafb",
+            "table": "| País | Consumo per capita (Base 100) ||---|---|| Paraguay | 120 || Uruguay | 150 |",
+            "texto": "La tabla muestra paises y el consumo per cápita de base 100. Paraguay tiene un consumo per capita de 120. Uruguay tiene un consumo per cápita de 150.",
+            "orden": 68
+        },
+        {
+            "id": "b293ffb4-6bee-4228-ae03-18afc728d0ba",
+            "table": "| Alfabetización de adultos | Tasa de matrícula en la educación superior | Gasto público en educación (% del PIB) ||---|---|---|| 86,3% | 38% | 4,6% |",
+            "texto": "La tabla muestra información de la alfabetización de adultos, la tasa de matrícula en la educación superior y el gasto público en educación en porcentaje del PIB. La alfabetización de adultos es del 86,3%, la tasa de matrícula en la educación superior es del 38% y el gasto público en educación es del 4,6% del PIB.",
+            "orden": 69
+        },
+        {
+            "id": "f97d9e93-c0c4-40b3-a7cd-1963f2ed5c07",
+            "table": "| Marca | Modelo | Año ||---|---|---|| BMW | M3 | 2023 || Tesla | Model S | 2022 || Toyota | Camry | 2021 |",
+            "texto": "La tabla contiene información sobre tres modelos de automóviles fabricados por diferentes marcas: un BMW M3 fabricado en 2023, un Tesla Model S fabricado en 2022 y un Toyota Camry fabricado en 2021.",
+            "orden": 70
+        },
+        {
+            "id": "4edb7b2a-972a-4d09-879f-e6cd09bdcf78",
+            "table": "| País | Tasa de alfabetización | Número de bibliotecas públicas ||---|---|---|| Finlandia | 99,8% | 75 por cada 100k habitantes || Japón | 99,9% | 55 por cada 100k habitantes |",
+            "texto": "La tabla muestra información de países, su tasa de alfabetización y el número de bibliotecas públicas. Finlandia tiene la tasa de alfabetización del 99,8% y en el número de bibliotecas públicas es 75 por cada 1000 mil habilitantes. Japón tiene la tasa de alfabetización del 99,9% y en el número de bibliotecas públicas es 55 por cada 100 mil habitantes.",
+            "orden": 71
+        },
+        {
+            "id": "b5ee1434-d61a-41e9-bbda-ec0c64a8de6d",
+            "table": "| Nombre | Apellido ||---|---|| Raúl Eduardo | Jiménez || Marta Elena | Herrera |",
+            "texto": "La tabla muestra nombres y apellidos. Nombre Raúl Eduardo, apellido Jiménez. Nombre Marta Elena, apellido Herrera.",
+            "orden": 72
+        },
+        {
+            "id": "534c279d-510b-4179-85a1-5f6173e315f3",
+            "table": "| Especie de planta | Hábitat natural ||---|---|| Acacia | África || Cocotero | Playas tropicales |",
+            "texto": "La tabla contiene información sobre dos especies de plantas, incluyendo su especie y hábitat natural. La Acacia se encuentra en África, mientras que el Cocotero se encuentra en las playas tropicales.",
+            "orden": 73
+        },
+        {
+            "id": "81bd3a29-9dea-4ea5-8f15-de04c27b7162",
+            "table": "|| Fecha de nacimiento || ----------- || 3 de agosto de 1851 |",
+            "texto": "Esta tabla contiene información sobre la fecha de nacimiento de un individuo, que es el 3 de agosto de 1851.",
+            "orden": 74
+        },
+        {
+            "id": "5ae89669-6829-4eaf-9b66-6cee88206c3a",
+            "table": "| Ranking | Países | Toneladas de CO2 (millones) ||:---:|:---:|:---:|| 1 | China | 10.065 || 2 | Estados Unidos | 5.415 |",
+            "texto": "La tabla muestra un ranking, países y las toneladas de CO2 en millones. En el número 1 del ranking, esta China con 10.065 millones de toneladas de CO2. En el número 2 del ranking, esta Estados Unidos con 5.415 millones de toneladas de CO2.",
+            "orden": 75
+        },
+        {
+            "id": "1d446fb5-ba38-431d-83cb-e2a72685447c",
+            "table": "| Deporte | Número de personas ||---|---|| Atletismo | 500 |",
+            "texto": "La tabla muestra información sobre el número de personas que practican atletismo, con una cifra de 500.",
+            "orden": 76
+        },
+        {
+            "id": "1027f405-fad5-4085-a4fd-20cc513052e8",
+            "table": "| País | Cantidad de especies de aves ||---|---|| India | 1.350 || Colombia | 1.900 || Perú | 1.814 |",
+            "texto": "La tabla muestra países y la cantidad de especies de aves. India tiene 1.350. Colombia tiene 1.900. Perú tiene 1.814.",
+            "orden": 77
+        },
+        {
+            "id": "83e7d609-8248-4581-a9d8-7400a1c5a7cd",
+            "table": "| Continente | Población (millones) | Porcentaje de la Población Total ||---|---|---|| América del Norte | 369 | 4,77% |",
+            "texto": "La tabla muestra el continente, la población en millones y el porcentaje de la población total. América del Norte tiene una población de 369 millones y el porcentaje de la población total de 4,77%.",
+            "orden": 78
+        },
+        {
+            "id": "4714ab01-e227-4a36-8a90-db2ac52cfdc2",
+            "table": "| Alimento | Cantidad de Proteínas ||---|---|| Leche | 8g || Huevo | 6g || Carne | 20g |",
+            "texto": "La tabla muestra la cantidad de proteínas en diferentes alimentos. La leche contiene 8 gramos de proteínas, el huevo contiene 6 gramos de proteínas y la carne contiene 20 gramos de proteínas.",
+            "orden": 79
+        },
+        {
+            "id": "e61ccd04-77aa-41a0-806a-4e8d36dd4bf7",
+            "table": "| Área de Ciencia | Avances Tecnológicos | Impacto Social ||---|---|---|| Inteligencia Artificial | Sistemas de aprendizaje automático, automatización, reconocimiento de patrones | Mejora de la eficiencia, precisión y accesibilidad en diversos sectores | Biotecnología | Ingeniería genética, medicina personalizada, terapias novedosas | Avance en el tratamiento de enfermedades, mejora de la salud y la calidad de vida |",
+            "texto": "En el área de Ciencia está la Inteligencia Artificial con avances tecnológicos de sistemas de aprendizaje automático, automatización, reconocimiento de patrones y su impacto social es que mejora de la eficiencia, precisión y accesibilidad en diversos sectores, en el área de ciencia se encuentra también la biotecnología en sus avances tecnológicos está la ingeniería genética, medicina personalizada, terapias novedosas con impacto social en el avance en el tratamiento de enfermedades, mejora de la salud y la calidad de vida ",
+            "orden": 80
+        },
+        {
+            "id": "53a5985c-1547-49a3-8e21-db8de5440d4f",
+            "table": "| Región | Nivel de ingresos ||---|---|| América Latina y el Caribe | Medio bajo |",
+            "texto": "La tabla muestra que la región de América Latina y el Caribe tiene un nivel de ingresos medio bajo.",
+            "orden": 81
+        },
+        {
+            "id": "3ea677dd-cca4-43dc-bc43-431211d22fd8",
+            "table": "| Parte | Descripción ||:---|:---|| Cubierta | Imagen o diseño que identifica el libro || Lomo | Parte trasera del libro que une la cubierta y las páginas interiores || Páginas | Hojas impresas que contienen el texto o las ilustraciones |",
+            "texto": "La tabla muestra partes de un libro y la descripción. La cubierta, presenta una imagen o diseño que identifica el libro. El lomo, es la parte trasera del libro que une la cubierta y las páginas interiores. Las páginas, son las hojas impresas que contienen el texto o las ilustraciones.",
+            "orden": 82
+        },
+        {
+            "id": "f901db0b-3d53-4f12-a1a4-e81f1e0ba9ec",
+            "table": "| Reciclaje ||------|| Convertir residuos en nuevos productos |",
+            "texto": "La tabla muestra que una forma de reciclaje es convertir residuos en nuevos productos.",
+            "orden": 83
+        },
+        {
+            "id": "663ea52a-03af-444e-a805-e81dd867d39f",
+            "table": "| Fecha de nacimiento ||---|| 4 de diciembre de 2012 |",
+            "texto": "Esta tabla proporciona una fecha de nacimiento que es el 4 de diciembre de 2012.",
+            "orden": 84
+        },
+        {
+            "id": "5392bae0-f6cf-4ca9-a278-2662c5846779",
+            "table": "| Invento tecnológico revolucionario ||---|| Transistor |",
+            "texto": "Esta tabla contiene el Transistores como un invento tecnológico revolucionario.",
+            "orden": 85
+        },
+        {
+            "id": "30b24dae-70a5-4a6a-9068-ed8c3f3ad198",
+            "table": "| Nombre | Apellido | Edad ||---|---|---|| John | Doe | 30 || Jane | Smith | 32 || David | Brown | 28 |",
+            "texto": "La tabla proporciona información personal como el nombre, apellido y la edad sobre tres personas individuos: John Doe tiene 30 años de edad, Jane Smith tiene 32 años de edad y David Brown tiene 28 años de edad.",
+            "orden": 86
+        },
+        {
+            "id": "8fa1d136-bfb8-4e6d-a453-43d39d5cd03d",
+            "table": "| Productos || --- || Tijeras || Colores |",
+            "texto": "La tabla muestra productos como tijeras y colores.",
+            "orden": 87
+        },
+        {
+            "id": "32f471cf-1ae9-4f93-8abd-263dd790de89",
+            "table": "| Censos ||------|| Primer Censo de Población y Vivienda (1878) || Segundo Censo de Población y Vivienda (1913) |",
+            "texto": "La tabla muestra censos, el primer censo de población y vivienda realizado en 1878 y el segundo censo de población y vivienda en 1913.",
+            "orden": 88
+        },
+        {
+            "id": "0e2fc0b6-90d6-4ff3-84ee-3ad91c4e99e0",
+            "table": "| Avances Científicos | Año | Impacto ||---|---|---|| Descubrimiento de la penicilina | 1928 | Revoluciono el tratamiento de infecciones || Invención del transistor | 1947 | Base de los dispositivos electrónicos modernos || Primer viaje a la Luna | 1969 | Marco un hito en la exploración espacial |",
+            "texto": "La tabla presenta hitos científicos y tecnológicos importantes, junto con sus años de ocurrencia e impacto en el mundo. El descubrimiento de la penicilina en 1928 transformo drásticamente el tratamiento de las infecciones, mientras que la invención del transistor en 1947 allano el camino para la era moderna de la electrónica. El primer viaje tripulado a la Luna en 1969 represento un logro sin precedentes en la exploración espacial.",
+            "orden": 89
+        },
+        {
+            "id": "581384e9-0eea-4ccc-877a-67d9d7ded169",
+            "table": "| Animal | Hábitat | Alimentación ||---|---|---|| Ballena azul | Océanos | Plancton |",
+            "texto": "La tabla muestra el animal, el hábitat y su alimentación. La Ballena azul, que habita en los océanos y se alimenta de plancton.",
+            "orden": 90
+        },
+        {
+            "id": "ab31e0ba-d8bb-48ff-92fc-8b9b119962b1",
+            "table": "| Alimento | Cantidad de proteínas ||---|---|| Ciervo | 25g || Gambas | 20g || Requesón | 18g |",
+            "texto": "La tabla muestra la cantidad de proteínas en diferentes alimentos. El ciervo contiene 25 gramos de proteínas, las gambas contienen 20 gramos de proteína y el requesón contiene 18 gramos de proteína.",
+            "orden": 91
+        },
+        {
+            "id": "f26ce849-641b-4dc0-a3c3-d43cf0b95c13",
+            "table": "| Nombre | Curso ||---|---|| Juan Pérez | Matemáticas || Manuel González | Historia |",
+            "texto": "La tabla muestra el nombre y su curso. Juan Pérez está cursando Matemáticas. Manuel González está cursando Historia.",
+            "orden": 92
+        },
+        {
+            "id": "1bb3427f-54d1-4d6e-9c23-33173892bc52",
+            "table": "| Alumnos ||:---|| María del Carmen Fernández || Juan Carlos García |",
+            "texto": "La tabla contiene los nombres completos de los alumnos María del Carmen Fernández y Juan Carlos García.",
+            "orden": 93
+        },
+        {
+            "id": "b4d7c1ad-a9b6-4864-bd61-201fd09553ef",
+            "table": "| Hábitat | Amenazas ||---|---|| Selvas tropicales | Deforestación, fragmentación, caza |",
+            "texto": "La tabla muestra el hábitat y las amenazas que enfrenta. Las selvas tropicales tiene como amenazas la deforestación, fragmentación y caza.",
+            "orden": 94
+        },
+        {
+            "id": "8093187d-9408-4f06-9d28-eea7d56d4f77",
+            "table": "| Elemento de la Tabla Periódica | Propiedades ||---|---|| Helio | Gas inerte, no inflamable, no tóxico || Carbono | Sólido, no metálico, puede formar enlaces covalentes || Hierro | Metal de transición, magnético, conductor de electricidad |",
+            "texto": "Esta tabla enumera tres elementos de la Tabla Periódica y sus propiedades más destacadas. La primera fila describe el helio como un gas inerte, no inflamable, no tóxico. La segunda fila destaca el carbono como un sólido no metálico capaz de formar enlaces covalentes. Finalmente, la tercera fila presenta el hierro como un metal de transición con propiedades magnéticas y conductoras de electricidad .",
+            "orden": 95
+        },
+        {
+            "id": "e6fbe2c7-00be-4392-82d4-93828fcc9de8",
+            "table": "| Cantidad de turistas ||---|| Perú en 2021, que fueron 2,4 millones |",
+            "texto": "La tabla muestra el número de turistas que visitaron Perú en 2021, que fueron 2,4 millones.",
+            "orden": 96
+        },
+        {
+            "id": "6b967e63-2e54-41ac-95e1-0d73d118cde4",
+            "table": "| Región | Porcentaje de la Población Mundial ||---|---|| Asia | 60% || África | 16% || Europa | 10% |",
+            "texto": "La tabla muestra regiones con el porcentaje de la población mundial. Asia alberga el 60%. África con el 16%. Europa con el 10%.",
+            "orden": 97
+        },
+        {
+            "id": "829b47d4-5f49-4d41-bd52-d8ef8f840f6d",
+            "table": "| Países | Porcentaje de población en aglomeraciones urbanas | Porcentaje de territorio ocupado por áreas forestales ||---|---|---|| Francia | 75% | 31% || Bélgica | 98% | 22% |",
+            "texto": "La tabla muestra información de países, su porcentaje de población en aglomeraciones urbanas y su porcentaje de territorio ocupado por áreas forestales. Francia tiene un porcentaje de población en aglomeraciones urbanas del 75% y un porcentaje de territorio ocupado por áreas forestales del 31%. Bélgica tiene un porcentaje de población en aglomeraciones urbanas del 98% y un porcentaje de territorio ocupado por áreas forestales del 22%.",
+            "orden": 98
+        },
+        {
+            "id": "4fdf0fea-8751-4ffd-911e-896615e0c2a6",
+            "table": "| Colegios del Ecuador ||----|| Colegio La Dolorosa (Loja) || Unidad Educativa San Juan Bautista La Salle Loja (Loja) || Colegio Beatriz De Ayora (Loja) |",
+            "texto": "La tabla muestra colegios del Ecuador como el Colegio La Dolorosa, Unidad Educativa San Juan Bautista La Salle y Colegio Beatriz De Ayora, todos en Loja.",
+            "orden": 99
+        },
+        {
+            "id": "f6b57af7-4e70-435c-9e48-722bd48afc75",
+            "table": "| Provincia ||-------|| Imbabura tiene 398.000 habitantes |",
+            "texto": "La tabla muestra la provincia de Imbabura, que tiene 398.000 habitantes.",
+            "orden": 100
+        },
+        {
+            "id": "623ed911-e8c8-4c25-b4ae-ea9b4d945bb8",
+            "table": "| Censos ||------|| 1790 || 1850 |",
+            "texto": "La tabla muestra censos, en 1790 y 1850.",
+            "orden": 101
+        },
+        {
+            "id": "28911b01-5c7a-413c-8a71-880cdd99fde6",
+            "table": "| Aves || --- || Gavilán || Canario |",
+            "texto": "La tabla muestra aves, se nombra el gavilán y el canario.",
+            "orden": 102
+        },
+        {
+            "id": "eb56b163-bb34-4f93-872d-3acbf0068bf6",
+            "table": "| Movimiento | Autor | Obra artística ||---|---|---|| Impresionismo | Claude Monet | Impresión, amanecer || Expresionismo | Paul Klee | Castillo y sol || Abstraccionismo | Paul Klee | Así es como funciona el pez |",
+            "texto": "La tabla muestra el movimiento artístico, el autor y una obra representativa del movimiento. Claude Monet es un artista impresionista y su obra \"Impresión, amanecer\" es representativa de este movimiento. Paul Klee es un artista expresionista y \"Castillo y sol\" es una de sus obras características. Paul Klee también es un artista abstracto y \"Así es como funciona el pez\" es una obra representativa del abstraccionismo.",
+            "orden": 103
+        },
+        {
+            "id": "7b01459c-0e45-47de-8ea6-15622be45e6e",
+            "table": "| Colegios del Ecuador ||-----|| Centro de Estudios Espíritu Santo (Guayaquil) || Centro Educativo Balandra Cruz del Sur (Guayaquil) || Centro Educativo Miraflores (Guayaquil) |",
+            "texto": "La tabla muestra colegios del Ecuador como el Centro de Estudios Espíritu Santo, Centro Educativo Balandra Cruz del Sur y Centro Educativo Miraflores, todoss en Guayaquil.",
+            "orden": 104
+        },
+        {
+            "id": "9e5c6bdd-6a2c-4368-bee5-dbece6bb7b21",
+            "table": "| Diferencias | Animal | Vegetal ||---|---|---|| Locomoción | Móvil | Inmóvil || Nutrición | Heterótrofo | Autótrofo || Crecimiento | Crecimiento determinado | Crecimiento indeterminado |",
+            "texto": "La tabla describe las diferencias entre animales y vegetales. En locomoción los animales son móviles y los vegetales son inmóviles. En nutrición los animales son heterótrofos y los vegetales son autótrofos. En el crecimiento los animales tienen un crecimiento determinado y los vegetales tienen un crecimiento indeterminado.",
+            "orden": 105
+        },
+        {
+            "id": "2a672578-f98e-470a-8bf9-de25febfbb68",
+            "table": "| Nivel educativo | Tasa de alfabetización | Acceso a la cultura ||---|---|---|| Educación secundaria | 72% | 60% |",
+            "texto": "La tabla muestra información del nivel educativo, su tasa de alfabetización y el acceso a la cultura. El nivel educativo de educación secundaria, su tasa de alfabetización es del 72% y un acceso a la cultura del 60%.",
+            "orden": 106
+        },
+        {
+            "id": "b98f686e-41ae-413c-b990-5dd8b6e0ddc2",
+            "table": "| Provincia | Programa ||---|---|| Azuay | Lengua y Literatura || Guayas | Ciencias Naturales |",
+            "texto": "La tabla muestra las provincias y su programa. Azuay tiene en su programa lengua y literatura. Guayas tiene en su programa ciencias naturales.",
+            "orden": 107
+        },
+        {
+            "id": "d2c77e25-91e3-4634-bcf7-7b1d3661065a",
+            "table": "| Calidad Educativa ||---|| Conceptos Asociados: Excelencia, Equidad, Inclusión, Pertinencia, Mejoramiento Continuo |",
+            "texto": "Esta tabla presenta conceptos asociados a la Calidad Educativa: Excelencia, Equidad, Inclusión, Pertinencia y Mejoramiento Continuo.",
+            "orden": 108
+        },
+        {
+            "id": "ce8bcab0-bbbf-4b0d-b1e5-47cdb055e1c6",
+            "table": "| País | Capital | Superficie (km cuadrados) ||---|---|---|| Alemania | Berlín | 349.223 || Francia | París | 551.695 || Bélgica | Bruselas | 30.689 |",
+            "texto": "La tabla muestra información de países, sus capitales y superficies. Alemania su capital es Berlín y tiene una superficie de 349.223 kilómetros cuadrados. Francia su capital es París y tiene una superficie de 551.695 kilómetros cuadrados. Bélgica su capital es Bruselas y tiene una superficie de 30.689 kilómetros cuadrados.",
+            "orden": 109
+        },
+        {
+            "id": "808a1dfe-5f84-4355-ad71-7714ee42478f",
+            "table": "| Natalidad ||--------|| Argentina: 17,8 nacimientos por 1.000 habitantes en 2019 |",
+            "texto": "La tabla muestra la tasas de natalidad de Argentina que tiene la tasa de natalidad de 17,8 nacimientos por cada 1.000 habitantes en 2019.",
+            "orden": 110
+        },
+        {
+            "id": "7cb3f2de-4ca4-4885-b955-e214d2f46f9f",
+            "table": "| Alumnos || --- || Juan José Rodríguez || María Fernanda Pérez |",
+            "texto": "La tabla contiene los nombres completos de los alumnos Juan José Rodríguez y María Fernanda Pérez.",
+            "orden": 111
+        },
+        {
+            "id": "10b7b98e-41e0-4ab9-bd8a-faea1714766a",
+            "table": "| País | Anfibios | Plantas vasculares ||---|---|---|| Uruguay | 96 | 2.512 || Venezuela | 324 | 11.800 |",
+            "texto": "La tabla muestra el número de especies de anfibios y plantas vasculares. Uruguay tiene 96 especies de anfibios y 2.512 especies de plantas vasculares. Venezuela tiene 324 especies de anfibios y 11.800 especies de plantas vasculares.",
+            "orden": 112
+        },
+        {
+            "id": "3c4acf0a-c844-460b-9985-cc57f92b7404",
+            "table": "| Grupo de edad | Asia ||---|---|| 0-14 años | 1.500 millones |",
+            "texto": "La tabla muestra que en Asia, hay aproximadamente 1.500 millones de personas en el grupo de edad entre 0 y 14 años.",
+            "orden": 113
+        },
+        {
+            "id": "649fc0bc-083b-4e5b-9dab-69e7d33524bd",
+            "table": "| Misión espacial | Agencia espacial ||---|---|| Apolo 11 | NASA || Luna 21 | Unión Soviética |",
+            "texto": "La tabla contiene información sobre dos misiones espaciales y sus respectivas agencias espaciales: la misión Apolo 11, realizada por la NASA, y la misión Luna 21, realizada por la Unión Soviética.",
+            "orden": 114
+        },
+        {
+            "id": "9e79b1ee-2808-4941-bfe8-210644d461be",
+            "table": "| País de origen de futbolistas famosos ||------|| Paraguay con Roque Santa Cruz, Nelson Haedo Valdez || Costa Rica con Bryan Ruiz, Keylor Navas || Serbia con Luka Jovic, Nemanja Matic |",
+            "texto": "La tabla muestra los países de origen de futbolistas famosos como Paraguay con Roque Santa Cruz y Nelson Haedo Valdez, Costa Rica con Bryan Ruiz y Keylor Navas, y Serbia con Luka Jovic y Nemanja Matic.",
+            "orden": 115
+        },
+        {
+            "id": "b6a60588-bf80-4eb2-b1a3-dd64f3a1f1e6",
+            "table": "| Tipo de bosque | Hectáreas | % bosque ||---|---|---|| Mangle | 958.893 | 2,59% |",
+            "texto": "La tabla muestra información del tipo de bosque, sus hectáreas y su porcentaje de bosque. El mangle cubre 958.893 de hectáreas y representa el 2,59% del bosque.",
+            "orden": 116
+        },
+        {
+            "id": "17748c87-0486-4487-b824-54529a8f3a4b",
+            "table": "| Ventajas | Desventajas ||---|---|| Mejora de la motivación y el compromiso | Requiere acceso a dispositivos y conexión a internet || Personalización del aprendizaje | Puede ser costoso de implementar || Acceso a recursos interactivos y multimedia | Dependencia de la tecnología y posibles problemas técnicos |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja mejora de la motivación y el compromiso, como desventaja requiere acceso a dispositivos y conexión a internet. Como ventaja permite la personalización del aprendizaje, como desventaja puede ser costoso de implementar. Como ventaja tiene acceso a recursos interactivos y multimedia, como desventaja tiene dependencia de la tecnología y posibles problemas técnicos.",
+            "orden": 117
+        },
+        {
+            "id": "8d57cb25-baee-44ec-8d27-e65675ecf3b9",
+            "table": "| Proyecciones de población ||-----|| En 2050, se prevé que la población mundial alcance los 9.700 millones de habitantes. |",
+            "texto": "La tabla proporciona proyecciones de población para el año 2050, indicando que se prevé que la población mundial alcance los 9.700 millones de habitantes.",
+            "orden": 118
+        },
+        {
+            "id": "d27cef82-375e-4eae-b3ad-a067e620eed5",
+            "table": "| Tasa de Alfabetización Global | Oferta de Educación Secundaria Global | Brecha de Género en Educación ||---|---|---|| 86% | 84% | 6% (en favor de los hombres) |",
+            "texto": "La tabla presenta información de la tasa de alfabetización global, la oferta de educación superior global y la brecha de género en educación. La tasa de alfabetización global es del 86%, la oferta de educación secundaria global es del 84% y la brecha de género en educación es del 6% en favor de los hombres.",
+            "orden": 119
+        },
+        {
+            "id": "0ff71548-d617-4470-ad80-94699179dadf",
+            "table": "| País | Tasa de Alfabetización | Gasto en Cultura por Habitante ||---|---|---|| Estados Unidos | 99% | 1,400 USD || Japón | 99,9% | 900 USD || Brasil | 92% | 250 USD |",
+            "texto": "La tabla muestra información de países, su tasa de alfabetización y su gasto en cultura por habitante. Estados Unidos tiene una tasa de alfabetización del 99% y un gasto en cultura por habitante de 1,400 USD. Japón tiene una tasa de alfabetización del 99,9% y un gasto en cultura por habitante de 900 USD. Brasil tiene una tasa de alfabetización del 92% y un gasto en cultura por habitante de 250 USD.",
+            "orden": 120
+        },
+        {
+            "id": "7bc45175-ece9-45c3-a181-33301ca39cca",
+            "table": "| Mamíferos || --- || Delfín || Murciélago |",
+            "texto": "La tabla muestra mamíferos, se nombra al delfín y al murciélago.",
+            "orden": 121
+        },
+        {
+            "id": "f564c0b4-a087-4735-9f21-c9190b7d19a5",
+            "table": "| Campo | Dato ||---|---|| Título | \"El Origen de las Especies\" || Autor | Charles Darwin || Fecha de Publicación | 24 de noviembre de 1859 |",
+            "texto": "La tabla muestra campos y sus datos correspondientes. El título es \"El Origen de las Especies\". El autor es Charles Darwin. La fecha de publicación es el 24 de noviembre de 1859.",
+            "orden": 122
+        },
+        {
+            "id": "16be588b-87ab-436c-8f2b-dfdd6b3e2ef4",
+            "table": "| Países de Asia || --- || Arabia Saudita || Bangladés|",
+            "texto": "La tabla menciona países de Asia como Arabia Saudita y Bangladés.",
+            "orden": 123
+        },
+        {
+            "id": "718e3972-b71d-4b00-84e3-e235a55cf2cd",
+            "table": "| Medio Ambiente | Animales | Plantas ||---|---|---|| Conservación de la biodiversidad, reducción de la contaminación, mitigación del cambio climático | Protección de especies en peligro de extinción, bienestar animal, derechos de los animales | Conservación de los ecosistemas, reforestación, agricultura sostenible |",
+            "texto": "La tabla muestra información sobre medio ambiente, animales, plantas. En medio ambiente es la conservación de la biodiversidad, reducir la contaminación y mitigar el cambio climático; en los animales se centra en la protección de especies en peligro de extinción, el bienestar animal y los derechos de los animales; y las plantas abarca la conservación de los ecosistemas, la reforestación y la agricultura sostenible.",
+            "orden": 124
+        },
+        {
+            "id": "848593b2-1ed2-4ef5-97a0-e84513d59d84",
+            "table": "|Provincia ||-------|| Manabí tiene 1.395.000 habitantes |",
+            "texto": "La tabla muestra la provincia de Manabí, que tiene 1.395.000 habitantes.",
+            "orden": 125
+        },
+        {
+            "id": "2803ce38-1f86-45e1-8730-34b8870c54e2",
+            "table": "| Tipo de sangre ||---|| O- |",
+            "texto": ": La tabla contiene el tipo de sangre de una persona, que es O-.",
+            "orden": 126
+        },
+        {
+            "id": "92502c98-ffd2-492a-b716-ce332ff7fafe",
+            "table": "| Deportistas destacados || --- || Serena Williams || Usain Bolt |",
+            "texto": "La tabla menciona deportistas destacados como Serena Williams y Usain Bolt.",
+            "orden": 127
+        },
+        {
+            "id": "d64671d1-db4f-4a69-b07f-4840e72f1cf8",
+            "table": "| Flora nativa del Ecuador ||------|| Chuquiragua : flores vistosas de color naranja o amarillo de hasta 2 cm de largo |",
+            "texto": "La tabla muestra información sobre una especie de flora nativa del Ecuador, la Chuquiragua, que tiene flores vistosas de color naranja o amarillo de hasta 2 cm de largo.",
+            "orden": 128
+        },
+        {
+            "id": "208d77ed-6695-4e05-86da-fa6e134d1b94",
+            "table": "| Dispositivos electrónicos | Funciones ||---|---|| Refrigerador | Preservar alimentos a temperaturas bajas || Licuadora | Mezclar y triturar ingredientes || Tostadora | Tostar pan |",
+            "texto": "La tabla presenta las funciones de tres dispositivos electrónicos: el refrigerador se utiliza para preservar alimentos a temperaturas bajas; la licuadora se emplea para mezclar y triturar ingredientes; y la tostadora sirve para tostar pan.",
+            "orden": 129
+        },
+        {
+            "id": "f3ede4ba-eb8d-43e0-8a32-f498ac1b7912",
+            "table": "| A 1000 m de altura || --- || Temp. día: 15ºC || Temp. noche: 5ºC |",
+            "texto": "La tabla muestra temperaturas a 1000 m de altura. Detalla la temperatura durante el día y la noche: 15ºC y 5ºC, respectivamente.",
+            "orden": 130
+        },
+        {
+            "id": "e1d97b0f-19a9-44b3-860f-01d71860f284",
+            "table": "| Países del continente americano || --- || Estados Unidos || Brasil |",
+            "texto": "La tabla muestra países del continente americano como Estados Unidos y Brasil.",
+            "orden": 131
+        },
+        {
+            "id": "cdc86961-d65c-4053-bda8-df203ef79f2b",
+            "table": "| Deportista | Deporte | País ||---|---|---|| Gilberto Angelucci | Fútbol | Venezuela || Andrés Túñez | Fútbol | Venezuela || Salomón Rondón | Fútbol | Venezuela |",
+            "texto": "La tabla contiene información sobre deportistas, sus deportes y sus países de origen. Gilberto Angelucci es un futbolista venezolano. Andrés Túñez es un futbolista venezolano. Salomón Rondón es un futbolista venezolano.",
+            "orden": 132
+        },
+        {
+            "id": "42959533-c658-448c-94ac-8c674bb5829d",
+            "table": "| Países de Europa ||---|| Eslovaquia || Eslovenia |",
+            "texto": "La tabla muestra países del continente europeo como Eslovaquia y Eslovenia.",
+            "orden": 133
+        },
+        {
+            "id": "1d7aea42-9fd3-4c7a-9d3d-94d77548f316",
+            "table": "| Deporte | Número de personas ||-----|-----|| Tenis | 150 |",
+            "texto": "La tabla muestra información sobre el número de personas que practican tenis, con una cifra de 150.",
+            "orden": 134
+        },
+        {
+            "id": "b2ec614a-c1d9-4c23-9cd3-9777c5b538f1",
+            "table": "| País | Población (millones) | Esperanza de vida al nacer (años) ||---|---|---|| China | 1.444 | 77,4 || India | 1.423 | 70,8 || Estados Unidos | 333 | 77,8 |",
+            "texto": "La tabla muestra información sobre países, su población y esperanza de vida. China tiene una población de 1.444 millones y una esperanza de vida de 77,4 años. India tiene una población de 1.423 millones y una esperanza de vida de 70,8 años. Estados Unidos tiene una población de 333 millones y una esperanza de vida de 77,8 años.",
+            "orden": 135
+        },
+        {
+            "id": "75255e73-f697-4480-a467-47c53402856e",
+            "table": "| Nombre completo | Edad | Pasatiempo ||---|---|---|| María Pérez Díaz | 25 | Senderismo |",
+            "texto": "La tabla contiene información sobre el nombre, la edad y el pasatiempo. María Pérez Díaz tiene 25 años y tiene como pasatiempo el senderismo.",
+            "orden": 136
+        },
+        {
+            "id": "f3bb556a-9ef4-4535-bb9f-0770308f1c87",
+            "table": "| Enfermedades cardiovasculares | Síntomas || --- | --- || Angina de pecho | Dolor o presión en el pecho, falta de aliento || Infarto de miocardio | Dolor o presión intensa en el pecho, dificultad para respirar, náuseas || Insuficiencia cardíaca | Fatiga, hinchazón de pies y tobillos, falta de aliento |",
+            "texto": "Esta tabla enumera tres enfermedades cardiovasculares y sus síntomas asociados. La Angina de pecho provoca dolor o presión en el pecho y falta de aliento. El Infarto de miocardio presenta un dolor o presión intensa en el pecho, dificultad para respirar y náuseas. La Insuficiencia cardíaca se manifiesta con fatiga, hinchazón de pies y tobillos, y falta de aliento.",
+            "orden": 137
+        },
+        {
+            "id": "9af6c5dc-398c-44d6-9084-903bcadfae80",
+            "table": "| No | Nombre Común | Nombre Científico ||---|---|---|| 10 | Mariposa cartero | Heliconius || 11 | Araña pollito | Grammostola rosea || 12 | Hormigas amazónicas | Atta cephalotes |",
+            "texto": "La tabla menciona un número, nombres comunes y nombres científicos. En el número 10 se nombra a la mariposa cartero con su nombre científico Heliconius. En el número 11 se nombra a la araña pollito con su nombre científico Grammostola rosea. En el número 12 se nombra a las hormigas amazónicas con su nombre científico Atta cephalotes.",
+            "orden": 138
+        },
+        {
+            "id": "79e7a080-eeee-40f5-8726-4cf4eab7faac",
+            "table": "| Usos de los Componentes Electrónicos ||------|| Relé: Actúa como un interruptor controlado por una corriente eléctrica. Se utiliza para controlar cargas eléctricas de alta potencia, proteger circuitos sensibles, realizar operaciones de conmutación y en aplicaciones de automatización. || Sensor: Convierte una magnitud física en una señal eléctrica. Se utiliza para medir temperatura, presión, luz, sonido, movimiento, humedad, etc., en una amplia gama de aplicaciones, desde sistemas de control industrial hasta dispositivos médicos y electrónica de consumo. |",
+            "texto": "La tabla detalla los usos de dos componentes electrónicos esenciales. En primer lugar, se describe el Relé, que actúa como un interruptor controlado por corriente eléctrica y se utiliza para controlar cargas eléctricas de alta potencia, proteger circuitos sensibles, realizar operaciones de conmutación y en aplicaciones de automatización. En segundo lugar, se menciona el Sensor, que convierte una magnitud física en una señal eléctrica y se utiliza para medir temperatura, presión, luz, sonido, movimiento, humedad, entre otros, en una amplia gama de aplicaciones, desde sistemas de control industrial hasta dispositivos médicos y electrónica de consumo.",
+            "orden": 139
+        },
+        {
+            "id": "309f2b8c-a6c2-4e98-86af-785b0fb0dc18",
+            "table": "| Características de una computadora ||---|| Procesador: Unidad central de procesamiento que ejecuta instrucciones y realiza cálculos.||Memoria: Almacena temporalmente datos e instrucciones durante la ejecución del programa.||Almacenamiento: Almacena permanentemente datos e instrucciones.|",
+            "texto": "La tabla presenta las principales características de una computadora. En primer lugar, se describe el Procesador, que es la unidad central de procesamiento que ejecuta instrucciones y realiza cálculos. En segundo lugar, se menciona la Memoria, que almacena temporalmente datos e instrucciones durante la ejecución del programa. En tercer lugar, se habla del Almacenamiento, que almacena permanentemente datos e instrucciones. ",
+            "orden": 140
+        },
+        {
+            "id": "ee189658-59ad-403c-b424-88a258630e62",
+            "table": "| Colegios del Ecuador ||-----|| Colegio Internacional SEK Los Valles (Quito-Cumbayá) || Colegio Letort (Quito) || Colegio Británico Internacional (Quito) |",
+            "texto": "La tabla muestra colegios del Ecuador como el Colegio Internacional SEK Los Valles ubicado en Quito-Cumbayá, Colegio Letort y Colegio Británico Internacional, ambos ubicados en Quito.",
+            "orden": 141
+        },
+        {
+            "id": "71abe58b-77ca-424f-9428-e337674e38ce",
+            "table": "| Nombre de la Especie | Causas de la Amenaza | Medidas de Conservación ||---|---|---|| Águila calva | Pérdida de hábitat, contaminación, uso de pesticidas | Protección y restauración del hábitat, prohibición del uso de DDT || Lechuza moteada del norte | Tala de bosques, fragmentación del hábitat | Protección y gestión de los bosques, reintroducción de lechuzas || Guacamayo jacinto | Tráfico ilegal de vida silvestre, pérdida de hábitat | Creación de zonas protegidas, programas de cría en cautiverio |",
+            "texto": "La tabla proporciona información sobre nombre de especies, sus causas de amenaza y las medidas de conservación implementadas para protegerlas. La primera fila describe el Águila calva, las causas de su declive (pérdida de hábitat, contaminación, uso de pesticidas) y las medidas de conservación (protección y restauración del hábitat, prohibición del DDT). La segunda fila se centra en la Lechuza moteada del norte, las amenazas que enfrenta (tala de bosques, fragmentación del hábitat) y las medidas de conservación (protección y gestión de bosques, reintroducción de lechuzas). La última fila aborda el Guacamayo jacinto, las causas de su amenaza (tráfico ilegal de vida silvestre, pérdida de hábitat) y las medidas de conservación (creación de zonas protegidas, programas de cría en cautiverio).",
+            "orden": 142
+        },
+        {
+            "id": "96e3cde1-1ba8-447f-a9cf-ad6014135f4d",
+            "table": "| Enfermedad | Virus que lo ocasiona ||---|---|| Gripe | Virus de la gripe |",
+            "texto": "La tabla muestra información sobre la enfermedad de la gripe y su causa el virus de la gripe.",
+            "orden": 143
+        },
+        {
+            "id": "1716ec18-b678-4162-afc6-cafe5792125e",
+            "table": "| Región Geográfica | Especies Endémicas | Amenazas ||---|---|---|| Arrecife de Coral de Mesoamérica | Coral Elkhorn, Coral Staghorn | Sobrepesca, Cambio Climático |",
+            "texto": "La tabla resume información sobre una región geográfica del arrecife de Coral de Mesoamérica, resaltando las especies endémicas únicas, como el Coral Elkhorn y el Coral Staghorn, así como las amenazas que enfrentan, como la sobrepesca y el cambio climático",
+            "orden": 144
+        },
+        {
+            "id": "2f103949-0027-43b8-9bf0-4071ec1a7977",
+            "table": "| País | Población (millones) | Superficie (kilómetros cuadrados) ||---|---|---|| Lituania | 2,79 | 65.300 || Luxemburgo | 0,64 | 2.586 || Malta | 0,54 | 316 |",
+            "texto": "La tabla muestra información de países, su población en millones y su superficie en kilómetros cuadrados. Lituania tiene una población de 2,79 millones y una superficie de 65.300 kilómetros cuadrados. Luxemburgo tiene una población de 0,64 millones y una superficie de 2.586 kilómetros cuadrados. Malta tiene una población de 0,54 millones y una superficie de 316 kilómetros cuadrados.",
+            "orden": 145
+        },
+        {
+            "id": "c06ec238-8710-4397-80a5-2779a9ea2cf4",
+            "table": "| Causas | Consecuencias ||---|---|| Contaminación del suelo | Pérdida de fertilidad, reducción de la productividad agrícola, riesgo para la salud humana || Agotamiento de recursos naturales | Escasez de agua, alimentos, energía, materias primas || Degradación del suelo | Erosión, desertificación, pérdida de productividad. |",
+            "texto": "La tabla muestran causas y consecuencias. La contaminación del suelo tiene como consecuencia la pérdida de fertilidad, reducción de la productividad agrícola, riesgo para la salud humana. El agotamiento de recursos naturales tiene como consecuencia la escasez de agua, alimentos, energía, materias primas. La degradación del suelo tiene como consecuencia la erosión, desertificación, pérdida de productividad.",
+            "orden": 146
+        },
+        {
+            "id": "21a5bee7-c91b-4f58-8eb8-8233a38eae93",
+            "table": "| País de origen de futbolistas famosos ||------|| Bélgica con Eden Hazard, Kevin De Bruyne || República Checa con Petr Cech, Pavel Nedvěd || Rusia con Igor Akinfeev, Aleksandr Golovin |",
+            "texto": "La tabla muestra los países de origen de futbolistas famosos como Bélgica con Eden Hazard y Kevin De Bruyne, República Checa con Petr Cech y Pavel Nedvěd, y Rusia con Igor Akinfeev y Aleksandr Golovin.",
+            "orden": 147
+        },
+        {
+            "id": "89e12ca9-bc01-4459-a9b3-21e089d6c9d7",
+            "table": "| Tema | Descripción ||---|---|| Química Orgánica | Estudio de los compuestos químicos que contienen carbono || Robótica | Diseño, construcción y aplicación de robots para diversas tareas |",
+            "texto": "El tema de la química orgánica se describe como el estudio de los compuestos químicos que contienen carbono. El tema de la Robótica se describe como el diseño, construcción y aplicación de robots para diversas tareas.",
+            "orden": 148
+        },
+        {
+            "id": "ba73d8ec-3118-41b6-b9cc-4ce7c2b66c1e",
+            "table": "| Campo | Avances | Impacto ||---|---|---|| Inteligencia Artificial | Aprendizaje automático, procesamiento del lenguaje natural | Automatización de tareas, toma de decisiones mejorada || Biotecnología | Ingeniería genética, medicina personalizada | Cura de enfermedades, mejora de la calidad de vida |",
+            "texto": "El campo de la inteligencia artificial tiene avances en el aprendizaje automático y procesamiento de lenguaje natural con impacto en la automatización de tareas, toma de decisiones mejorada. En el campo de la biotecnología tiene avances para la ingeniería genética, medicina personalizada con impacto en la cura de enfermedades, mejora de la calidad de vida",
+            "orden": 149
+        },
+        {
+            "id": "8927e5d3-b3a3-4c20-8c75-68d7cb49f841",
+            "table": "| Región | Total migrantes (millones) ||---|---:|| Asia Meridional | 75 || Europa Oriental | 40 || África Subsahariana | 35 |",
+            "texto": "La tabla muestra información de la región y el total de migrantes en millones. Asia Meridional tiene un total de migrantes de 75 millones. Europa Oriental tiene un total de migrantes de 40 millones. África Subsahariana tiene un total de migrantes de 35 millones.",
+            "orden": 150
+        },
+        {
+            "id": "78cf84eb-3376-4100-b1f7-0fea4b4e6575",
+            "table": "| Movimiento | Autor | Obra artística ||---|---|---|| Postimpresionismo | Odilón Redón | Floreros || Expresionismo | Vincent van Gogh | La noche estrellada |",
+            "texto": "La tabla contiene información sobre diferentes movimientos artísticos, sus autores y sus obras artísticas. En el Postimpresionismo, Odilón Redón creó Floreros. En el Expresionismo, Vincent van Gogh pintó La noche estrellada.",
+            "orden": 151
+        },
+        {
+            "id": "c3f26c00-5d58-4c01-af16-8aa0cbb3bb09",
+            "table": "| Marca | Modelo | Año ||---|---|---|| Apple | iPhone 14 Pro | 2022 || Samsung | Galaxy S23 Ultra | 2023 || Google | Pixel 7 Pro | 2022 |",
+            "texto": "La tabla presenta tres modelos de teléfonos inteligentes: el iPhone 14 Pro de Apple lanzado en 2022, el Galaxy S23 Ultra de Samsung lanzado en 2023 y el Pixel 7 Pro de Google también lanzado en 2022.",
+            "orden": 152
+        },
+        {
+            "id": "1423674c-007e-46a2-9ac0-317c3d159c9b",
+            "table": "| País | Vertebrados | Mamíferos ||---|---|---|| Estonia | 1052 | 64 || Finlandia | 1137 | 62 |",
+            "texto": "La tabla muestra información sobre el número de especies vertebradas y mamíferas. Estonia tiene 1052 especies vertebradas, de las cuales 64 son mamíferos. Finlandia tiene 1137 especies vertebradas, de las cuales 62 son mamíferos.",
+            "orden": 153
+        },
+        {
+            "id": "1a642997-f953-4cb3-a1fa-a9ab928ee063",
+            "table": "| País | PIB per Cápita (USD) | Esperanza de Vida al Nacer (años) ||---|---|---|| Alemania | 47.700 | 81,1 || Francia | 43.800 | 82,4 || Bélgica | 47.000 | 81,7 |",
+            "texto": "La tabla muestra información de países, su PIB per cápita en USD y su esperanza de vida al nacer. Alemania tiene el PIB per cápita de 47.700 USD y una esperanza de vida de 81,1 años. Francia tiene el PIB per cápita de 43.800 USD y una esperanza de vida de 82,4 años. Bélgica tiene el PIB per cápita de 47.000 USD y una esperanza de vida de 81,7 años.",
+            "orden": 154
+        },
+        {
+            "id": "714775fc-1531-4268-a174-3a1fbcb2681b",
+            "table": "| Ámbito | Avance Tecnológico Destacado ||----------|---------------------------------------|| Inteligencia Artificial | ChatGPT, un modelo de lenguaje grande que revoluciona la interacción hombre-máquina || Exploración Espacial | Misión Artemis, un ambicioso programa para devolver humanos a la Luna y más allá |",
+            "texto": "En el ámbito de la inteligencia artificial, un avance tecnológico es ChatGPT, un modelo de lenguaje grande que revoluciona la interacción hombre-máquina. En el ámbito de la exploración espacial, un avance tecnológico destacado es la Misión Artemis, un ambicioso programa para devolver humanos a la Luna y más allá.",
+            "orden": 155
+        },
+        {
+            "id": "6fb27ac8-c618-4623-9fe0-55da7e6241d3",
+            "table": "| Nanotecnología y sus aplicaciones en medicina ||---|| Desarrollo de biosensores y dispositivos nanométricos que pueden detectar biomarcadores de enfermedades en etapas tempranas |",
+            "texto": "Esta tabla presenta una aplicacion de la nanotecnología en el campo de la medicina con el desarrollo de biosensores y dispositivos nanométricos que pueden detectar biomarcadores de enfermedades en etapas tempranas.",
+            "orden": 156
+        },
+        {
+            "id": "656d5b24-79c8-4eb4-a2a7-6f9074ff3f20",
+            "table": "| Nombres | Apellidos | Nacionalidad ||-----|------|------|| Camila | Perez | Argentina || Carlos | Ramirez | Chilena |",
+            "texto": "La tabla contiene información de nombres, apellidos y nacionalidades. El nombre es Camila, el apellido Pérez y la nacionalidad argentina. El nombre es Carlos, el apellido Ramírez y la nacionalidad chilena.",
+            "orden": 157
+        },
+        {
+            "id": "208f51f5-8b4a-4268-b367-72b72c0ee325",
+            "table": "| Música tradicional ||---|| Llanera, Calypso, Parang |",
+            "texto": "La tabla  contiene música tradicional como Llanera, Calypso, Parang.",
+            "orden": 158
+        },
+        {
+            "id": "e78d7d58-8176-4de4-89d0-a4b8527b0654",
+            "table": "| Fecha de nacimiento ||---|| 11 de febrero de 1847 |",
+            "texto": "La tabla contiene la fecha de nacimiento que fue el 11 de febrero de 1847.",
+            "orden": 159
+        },
+        {
+            "id": "76ff32f5-ec7b-4f4c-843a-8655e3a3bf55",
+            "table": "| Ventajas | Desventajas ||---|---|| Mayor flexibilidad y comodidad | Posible aislamiento social || Acceso a recursos y expertos en cualquier momento | Dependencia de la tecnología y conexión a internet || Oportunidades de colaboración y aprendizaje en equipo | Barreras de comunicación y construcción de relaciones |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja es la mayor flexibilidad y comodidad, como desventaja está el posible aislamiento social. Como ventaja está el acceso a recursos y expertos en cualquier momento, como desventaja está la dependencia de la tecnología y conexión a internet. Como ventaja están las oportunidades de colaboración y aprendizaje en equipo, como desventaja están las barreras de comunicación y construcción de relaciones.",
+            "orden": 160
+        },
+        {
+            "id": "d0643cdf-1487-415c-b074-694a1c776cf4",
+            "table": "| Nombre completo || ----------- || Ana María González Rodríguez |",
+            "texto": "La tabla presenta el nombre completo de Ana María González Rodríguez.",
+            "orden": 161
+        },
+        {
+            "id": "93f788c5-949d-4804-bd63-c57c3ea4d0bf",
+            "table": "| Desventajas de los combustibles fósiles ||------|| La quema de combustibles fósiles libera grandes cantidades de dióxido de carbono (CO2) y otros gases de efecto invernadero a la atmósfera, lo que contribuye al calentamiento global y al cambio climático. || La quema de combustibles fósiles también libera contaminantes del aire como partículas finas, óxidos de nitrógeno y azufre, que pueden causar problemas respiratorios, enfermedades cardíacas, derrames cerebrales y cáncer. |",
+            "texto": "La tabla presenta las desventajas de los combustibles fósiles. En primer lugar, se destaca que la quema de combustibles fósiles genera grandes cantidades de dióxido de carbono (CO2) y otros gases de efecto invernadero, contribuyendo al calentamiento global y al cambio climático. En segundo lugar, se menciona que la quema de combustibles fósiles también produce contaminantes del aire como partículas finas, óxidos de nitrógeno y azufre, que pueden provocar problemas respiratorios, enfermedades cardíacas, derrames cerebrales y cáncer.",
+            "orden": 162
+        },
+        {
+            "id": "e31fc3da-140b-4647-a565-851af728ba89",
+            "table": "| Ventaja del Internet ||---|| Conecta personas de todo el mundo, brinda acceso a información y recursos, facilita la comunicación y los negocios |",
+            "texto": "Esta tabla da una ventajas del internet, que incluye la conectividad global, el acceso a la información y recursos, facilita la comunicación y los negocios.",
+            "orden": 163
+        },
+        {
+            "id": "0f10b52f-b126-4820-bdce-7ae7a829ba07",
+            "table": "| Tipo de Material Artificial | Propiedades ||---|---|| Acero inoxidable | Resistente a la corrosión, duradero, dúctil |",
+            "texto": "La tabla presenta información sobre un tipo de material artificial y sus propiedades: el acero inoxidable es resistente a la corrosión, duradero y dúctil.",
+            "orden": 164
+        },
+        {
+            "id": "3f44069b-c698-4cc0-b6c9-956532975ce1",
+            "table": "| Cambio climático ||------|| Aumento de la temperatura global debido a las emisiones de gases de efecto invernadero || Derretimiento de los casquetes polares || Cambios en los patrones climáticos |",
+            "texto": "La tabla muestra información sobre el cambio climático, que incluye el aumento de la temperatura global debido a las emisiones de gases de efecto invernadero, el derretimiento de los casquetes polares y los cambios en los patrones climáticos.",
+            "orden": 165
+        },
+        {
+            "id": "dfa48602-6c0a-4bf0-9fee-7d80c07859ea",
+            "table": "| Nombre completo ||---|| George Washington Carver |",
+            "texto": "Esta tabla contiene el nombre completo de George Washington Carver.",
+            "orden": 166
+        },
+        {
+            "id": "fc20ab35-db5e-4cea-9fd0-695e314b61dd",
+            "table": "| Fecha de nacimiento ||---|| 11 de febrero de 1847 |",
+            "texto": "La tabla contiene información sobre la fecha de nacimiento de un individuo que nació el 11 de febrero de 1847.",
+            "orden": 167
+        },
+        {
+            "id": "93e3756b-d237-4566-a248-23a8db3eff16",
+            "table": "| Ventajas | Desventajas ||---|---|| Flexibilidad y accesibilidad | Distracciones y falta de interacción física || Reducción de costos y mejora de la productividad | Posible aislamiento y falta de motivación || Mayor comodidad y facilidad de uso | Dependencia tecnológica y posibles problemas de conectividad |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja la flexibilidad y accesibilidad, como desventaja las distracciones y falta de interacción física. Como ventaja esta la reducción de costos y mejora de la productividad, como desventaja está el posible aislamiento y falta de motivación. Como ventaja esta una mayor comodidad y facilidad de uso, como desventaja la dependencia tecnológica y posibles problemas de conectividad.",
+            "orden": 168
+        },
+        {
+            "id": "b964af7e-ce22-4943-a884-91ba71aa494b",
+            "table": "| Asignatura | Aspectos ||---|---|| Música | Ritmo, melodía, armonía || Tecnología | Informática, robótica, programación |",
+            "texto": "La tabla muestra asignaturas y sus aspectos. La música contiene aspectos como ritmo, melodía y armonía. La tecnología contiene aspectos como informática, robótica y programación.",
+            "orden": 169
+        },
+        {
+            "id": "10b83b5e-791e-4650-9c78-d383bae47a2e",
+            "table": "| País | Densidad de Población (por kilómetro cuadrado) ||---|---|| Mónaco | 18.679 || Singapur | 7.920 || Ciudad del Vaticano | 1.914 |",
+            "texto": "La tabla muestra países y la densidad de población por kilómetro cuadrado. Mónaco tiene una densidad de población de 18.679 habitantes por kilómetro cuadrado. Singapur tiene una densidad de población de 7.920 habitantes por kilómetro cuadrado. Ciudad del Vaticano tiene una densidad de población de 1.914 habitantes por kilómetro cuadrado.",
+            "orden": 170
+        },
+        {
+            "id": "80fd4e50-dede-495b-b5ca-20e99ba6b4c1",
+            "table": "| Dispositivos electrónicos | Funciones ||---|---|| Consola de videojuegos | Entretenimiento || Router de Internet | Conexión a Internet || Balanza electrónica | Medición del peso |",
+            "texto": "Esta tabla enumera tres dispositivos electrónicos y sus funciones. La consola de videojuegos sirve para el entretenimiento, el router de Internet facilita la conexión a la red y la balanza electrónica se utiliza para medir el peso.",
+            "orden": 171
+        },
+        {
+            "id": "5af93594-f286-4303-b1f0-73df6126618d",
+            "table": "| Gestión de Residuos ||------|| Clasificación y separación de residuos para su adecuado procesamiento y reciclaje |",
+            "texto": "La tabla muestra que en la gestión de residuos se debe clasificar y separar los residuos para su adecuado procesamiento y reciclaje.",
+            "orden": 172
+        },
+        {
+            "id": "05ffc2d0-5b97-414c-85d2-f79b17b8a341",
+            "table": "| A 100 m de altura || --- || 20 °C || 15 °C |",
+            "texto": "La tabla muestra dos temperaturas que existen a 100 m de altura, la primera fila muestra 20°C y la segunda fila muestra 15°C.",
+            "orden": 173
+        },
+        {
+            "id": "e29a393a-c657-4519-8ec0-c1d636e73d22",
+            "table": "| Nombre de volcán | Ubicación | Altura ||---|---|---|| Volcán Chimborazo | Ecuador | 6.268 metros |",
+            "texto": "La tabla contiene información sobre un volcán, su ubicación y su altura. Específicamente, muestra que el Volcán Chimborazo se encuentra en Ecuador y tiene una altura de 6.268 metros.",
+            "orden": 174
+        },
+        {
+            "id": "3a5b33c1-0284-4871-9041-31f957dc5c1d",
+            "table": "| Deportista | Deporte | País ||---|---|---|| Richard Carapaz | Ciclismo | Ecuador || Neisi Dajomes | Levantamiento de pesas | Ecuador || Jefferson Pérez | Atletismo | Ecuador |",
+            "texto": "La tabla contiene información sobre deportistas, sus deportes y sus países de origen. Richard Carapaz es un ciclista ecuatoriano. Neisi Dajomes es un levantador de pesas ecuatoriano. Jefferson Pérez es un atleta ecuatoriano.",
+            "orden": 175
+        },
+        {
+            "id": "aae3cab0-6f00-407c-a4ba-4f137bed7526",
+            "table": "| Región | Esperanza de vida ||---|---|| África | 56,6 años |",
+            "texto": "La tabla contiene información sobre la esperanza de vida en una región específica. En África es de 56,6 años.",
+            "orden": 176
+        },
+        {
+            "id": "1810cc47-af48-43cf-b626-35d23bd7aae0",
+            "table": "| País | Peces | Mamíferos ||---|---|---|| Uruguay | Pejerrey, Tararira | Nutria, Guazubirá || Venezuela | Dorado, Cachama | Capibara, Oso hormiguero |",
+            "texto": "La tabla presenta información sobre los peces y mamíferos. Uruguay tiene peces como el pejerrey y la tararira y mamíferos como la nutria y el guazubirá. Venezuela tiene peces como el dorado y la cachama, y mamíferos como la capibara y el oso hormiguero.",
+            "orden": 177
+        },
+        {
+            "id": "2dc2e09c-88dc-45ab-82f5-957d71e9e253",
+            "table": "| Marca de vehículo | Modelo | Año ||---|---|---|| Toyota | Corolla | 2023 || Hyundai | Tucson | 2022 || Ford | Mustang | 2021 |",
+            "texto": "La tabla contiene información sobre tres vehículos: el Toyota Corolla 2023, el Hyundai Tucson 2022 y el Ford Mustang 2021",
+            "orden": 178
+        },
+        {
+            "id": "068cb394-68f0-454d-bc81-84d2bc56b71f",
+            "table": "| Deportista | Deporte | País ||---|---|---|| Usain Bolt | Atletismo | Jamaica || David Rudisha | Atletismo | Kenia || Yulimar Rojas | Atletismo | Venezuela |",
+            "texto": "La tabla contiene información sobre deportistas, sus deportes y sus países de origen. Usain Bolt es un atleta jamaicano. David Rudisha es un atleta keniano. Yulimar Rojas es una atleta venezolana.",
+            "orden": 179
+        },
+        {
+            "id": "7f24c9be-9206-47ad-81f1-ef75482092f6",
+            "table": "| Tipo de Material Artificial | Propiedades ||---|---|| Acrílico | Suave, cálido, resistente a las polillas |",
+            "texto": "La tabla presenta información sobre un tipo de material artificial y sus propiedades: el acrílico, que es suave, cálido, resistente a las polillas",
+            "orden": 180
+        }
+    ]
+}

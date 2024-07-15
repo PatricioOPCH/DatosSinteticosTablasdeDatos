@@ -1,0 +1,112 @@
+{
+    "muestras": [
+        {
+            "id": "b98f686e-41ae-413c-b990-5dd8b6e0ddc2",
+            "table": "| Provincia | Programa ||---|---|| Azuay | Lengua y Literatura || Guayas | Ciencias Naturales |",
+            "texto": "La tabla muestra las provincias y su programa. Azuay tiene en su programa lengua y literatura. Guayas tiene en su programa ciencias naturales.",
+            "orden": 107
+        },
+        {
+            "id": "362ca62c-f02d-48f5-a08b-fcfefe9f2df1",
+            "table": "| Aves || --- || Loros || Pingu\u0308inos |",
+            "texto": "La tabla muestra aves, se nombra a los loros y los pingu\u0308inos.",
+            "orden": 3
+        },
+        {
+            "id": "1027f405-fad5-4085-a4fd-20cc513052e8",
+            "table": "| Pai\u0301s | Cantidad de especies de aves ||---|---|| India | 1.350 || Colombia | 1.900 || Peru\u0301 | 1.814 |",
+            "texto": "La tabla muestra pa\u00edses y la cantidad de especies de aves. India tiene 1.350. Colombia tiene 1.900. Peru\u0301 tiene 1.814.",
+            "orden": 77
+        },
+        {
+            "id": "8093187d-9408-4f06-9d28-eea7d56d4f77",
+            "table": "| Elemento de la Tabla Perio\u0301dica | Propiedades ||---|---|| Helio | Gas inerte, no inflamable, no to\u0301xico || Carbono | So\u0301lido, no meta\u0301lico, puede formar enlaces covalentes || Hierro | Metal de transicio\u0301n, magne\u0301tico, conductor de electricidad |",
+            "texto": "Esta tabla enumera tres elementos de la Tabla Perio\u0301dica y sus propiedades ma\u0301s destacadas. La primera fila describe el helio como un gas inerte, no inflamable, no to\u0301xico. La segunda fila destaca el carbono como un so\u0301lido no meta\u0301lico capaz de formar enlaces covalentes. Finalmente, la tercera fila presenta el hierro como un metal de transicio\u0301n con propiedades magne\u0301ticas y conductoras de electricidad .",
+            "orden": 95
+        },
+        {
+            "id": "c90a1345-5ec5-4f5f-9b2d-5d226f631030",
+            "table": "| Personaje histo\u0301rico | Fecha de fallecimiento ||---|---|| Martin Luther King Jr. | 4 de abril de 1968 || Mahatma Gandhi | 30 de enero de 1948 |",
+            "texto": "La tabla muestra personajes hist\u00f3ricos y la fecha en que fallecieron. Martin Luther King Jr. fallecio\u0301 el 4 de abril de 1968. Mahatma Gandhi falleci\u00f3 el 30 de enero de 1948.",
+            "orden": 50
+        },
+        {
+            "id": "f97d9e93-c0c4-40b3-a7cd-1963f2ed5c07",
+            "table": "| Marca | Modelo | An\u0303o ||---|---|---|| BMW | M3 | 2023 || Tesla | Model S | 2022 || Toyota | Camry | 2021 |",
+            "texto": "La tabla contiene informacio\u0301n sobre tres modelos de automo\u0301viles fabricados por diferentes marcas: un BMW M3 fabricado en 2023, un Tesla Model S fabricado en 2022 y un Toyota Camry fabricado en 2021.",
+            "orden": 70
+        },
+        {
+            "id": "2f103949-0027-43b8-9bf0-4071ec1a7977",
+            "table": "| Pai\u0301s | Poblacio\u0301n (millones) | Superficie (kil\u00f3metros cuadrados) ||---|---|---|| Lituania | 2,79 | 65.300 || Luxemburgo | 0,64 | 2.586 || Malta | 0,54 | 316 |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su poblacio\u0301n en millones y su superficie en kil\u00f3metros cuadrados. Lituania tiene una poblacio\u0301n de 2,79 millones y una superficie de 65.300 kil\u00f3metros cuadrados. Luxemburgo tiene una poblacio\u0301n de 0,64 millones y una superficie de 2.586 kil\u00f3metros cuadrados. Malta tiene una poblacio\u0301n de 0,54 millones y una superficie de 316 kil\u00f3metros cuadrados.",
+            "orden": 145
+        },
+        {
+            "id": "10b7b98e-41e0-4ab9-bd8a-faea1714766a",
+            "table": "| Pai\u0301s | Anfibios | Plantas vasculares ||---|---|---|| Uruguay | 96 | 2.512 || Venezuela | 324 | 11.800 |",
+            "texto": "La tabla muestra el nu\u0301mero de especies de anfibios y plantas vasculares. Uruguay tiene 96 especies de anfibios y 2.512 especies de plantas vasculares. Venezuela tiene 324 especies de anfibios y 11.800 especies de plantas vasculares.",
+            "orden": 112
+        },
+        {
+            "id": "5c381b70-dde8-4a95-9f0e-bab659d8f8b8",
+            "table": "| Experimento | A\u00f1o ||---------|-----|| Experimento de Michelson-Morley | 1887 || Experimento de Stern-Gerlach | 1922 |",
+            "texto": "La primera fila de la tabla muestra el Experimento de Michelson-Morley, que se realiz\u00f3 en el a\u00f1o 1887. La segunda fila de la tabla muestra el Experimento de Stern-Gerlach, que se realiz\u00f3 en el a\u00f1o 1922.",
+            "orden": 42
+        },
+        {
+            "id": "e6fbe2c7-00be-4392-82d4-93828fcc9de8",
+            "table": "| Cantidad de turistas ||---|| Peru\u0301 en 2021, que fueron 2,4 millones |",
+            "texto": "La tabla muestra el nu\u0301mero de turistas que visitaron Peru\u0301 en 2021, que fueron 2,4 millones.",
+            "orden": 96
+        },
+        {
+            "id": "dd8b4d56-ca6b-45f8-973c-5089534ecd22",
+            "table": "| Interaccio\u0301n entre plantas y animales ||:---|| Polen que las abejas transfieren de flor a flor || Plantas que ofrecen ne\u0301ctar a los polinizadores || A\u0301rboles que proporcionan ha\u0301bitat a las aves |",
+            "texto": "La tabla describe interacciones entre plantas y animales como el Polen que las abejas transfieren de flor a flor, plantas que ofrecen ne\u0301ctar a los polinizadores y \u00e1rboles que proporcionan ha\u0301bitat a las aves.",
+            "orden": 32
+        },
+        {
+            "id": "7cb3f2de-4ca4-4885-b955-e214d2f46f9f",
+            "table": "| Alumnos || --- || Juan Jose\u0301 Rodri\u0301guez || Mari\u0301a Fernanda Pe\u0301rez |",
+            "texto": "La tabla contiene los nombres completos de los alumnos Juan Jose\u0301 Rodri\u0301guez y Mari\u0301a Fernanda Pe\u0301rez.",
+            "orden": 111
+        },
+        {
+            "id": "8352a4af-6420-472b-bda6-818e82de1b6b",
+            "table": "| Misio\u0301n espacial | Agencia espacial ||---|---|| Apolo 11 | NASA || Shenzhou 5 | CNSA |",
+            "texto": "La tabla muestra dos misiones espaciales significativas y sus agencias espaciales correspondientes. La primera fila indica la misio\u0301n Apolo 11 llevada a cabo por la NASA. La segunda fila muestra la misio\u0301n Shenzhou 5, realizada por la CNSA.",
+            "orden": 67
+        },
+        {
+            "id": "1716ec18-b678-4162-afc6-cafe5792125e",
+            "table": "| Regio\u0301n Geogra\u0301fica | Especies Ende\u0301micas | Amenazas ||---|---|---|| Arrecife de Coral de Mesoame\u0301rica | Coral Elkhorn, Coral Staghorn | Sobrepesca, Cambio Clima\u0301tico |",
+            "texto": "La tabla resume informaci\u00f3n sobre una regi\u00f3n geogr\u00e1fica del arrecife de Coral de Mesoam\u00e9rica, resaltando las especies end\u00e9micas \u00fanicas, como el Coral Elkhorn y el Coral Staghorn, as\u00ed como las amenazas que enfrentan, como la sobrepesca y el cambio clim\u00e1tico",
+            "orden": 144
+        },
+        {
+            "id": "d0643cdf-1487-415c-b074-694a1c776cf4",
+            "table": "| Nombre completo || ----------- || Ana Mari\u0301a Gonza\u0301lez Rodri\u0301guez |",
+            "texto": "La tabla presenta el nombre completo de Ana Mari\u0301a Gonza\u0301lez Rodri\u0301guez.",
+            "orden": 161
+        },
+        {
+            "id": "8a1c20ef-5a63-4f7e-b8f0-abd6110abab2",
+            "table": "| Planta | Causas de extincio\u0301n ||---|---|| Santalum fernandezianum | Posible deforestacio\u0301n, sobrepastoreo, intrusio\u0301n de especies exo\u0301ticas |",
+            "texto": "La tabla muestra la planta Santalum fernandezianum y su causa de extincio\u0301n, que incluyen una posible deforestacio\u0301n, el sobrepastoreo y la intrusio\u0301n de especies exo\u0301ticas.",
+            "orden": 45
+        },
+        {
+            "id": "656d5b24-79c8-4eb4-a2a7-6f9074ff3f20",
+            "table": "| Nombres | Apellidos | Nacionalidad ||-----|------|------|| Camila | Perez | Argentina || Carlos | Ramirez | Chilena |",
+            "texto": "La tabla contiene informaci\u00f3n de nombres, apellidos y nacionalidades. El nombre es Camila, el apellido P\u00e9rez y la nacionalidad argentina. El nombre es Carlos, el apellido Ram\u00edrez y la nacionalidad chilena.",
+            "orden": 157
+        },
+        {
+            "id": "71abe58b-77ca-424f-9428-e337674e38ce",
+            "table": "| Nombre de la Especie | Causas de la Amenaza | Medidas de Conservacio\u0301n ||---|---|---|| A\u0301guila calva | Pe\u0301rdida de ha\u0301bitat, contaminacio\u0301n, uso de pesticidas | Proteccio\u0301n y restauracio\u0301n del ha\u0301bitat, prohibicio\u0301n del uso de DDT || Lechuza moteada del norte | Tala de bosques, fragmentacio\u0301n del ha\u0301bitat | Proteccio\u0301n y gestio\u0301n de los bosques, reintroduccio\u0301n de lechuzas || Guacamayo jacinto | Tra\u0301fico ilegal de vida silvestre, pe\u0301rdida de ha\u0301bitat | Creacio\u0301n de zonas protegidas, programas de cri\u0301a en cautiverio |",
+            "texto": "La tabla proporciona informacio\u0301n sobre nombre de especies, sus causas de amenaza y las medidas de conservacio\u0301n implementadas para protegerlas. La primera fila describe el A\u0301guila calva, las causas de su declive (pe\u0301rdida de ha\u0301bitat, contaminacio\u0301n, uso de pesticidas) y las medidas de conservacio\u0301n (proteccio\u0301n y restauracio\u0301n del ha\u0301bitat, prohibicio\u0301n del DDT). La segunda fila se centra en la Lechuza moteada del norte, las amenazas que enfrenta (tala de bosques, fragmentacio\u0301n del ha\u0301bitat) y las medidas de conservacio\u0301n (proteccio\u0301n y gestio\u0301n de bosques, reintroduccio\u0301n de lechuzas). La u\u0301ltima fila aborda el Guacamayo jacinto, las causas de su amenaza (tra\u0301fico ilegal de vida silvestre, pe\u0301rdida de ha\u0301bitat) y las medidas de conservacio\u0301n (creacio\u0301n de zonas protegidas, programas de cri\u0301a en cautiverio).",
+            "orden": 142
+        }
+    ]
+}

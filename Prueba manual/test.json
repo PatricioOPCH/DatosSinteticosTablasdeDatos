@@ -1,0 +1,904 @@
+{
+    "muestras": [
+        {
+            "id": "ce6dee80-5f4f-4d20-9858-7515667b5d32",
+            "table": "| Personaje Histo\u0301rico ||---|| Simo\u0301n Boli\u0301var, libertador de varias naciones sudamericanas |",
+            "texto": "La tabla contiene informacio\u0301n sobre un personaje histo\u0301rico, Simo\u0301n Boli\u0301var, libertador de varias naciones sudamericanas."
+        },
+        {
+            "id": "75cc0b4a-e77d-499a-b441-1a0e28eb04c3",
+            "table": "| Pa\u00eds | Poblaci\u00f3n (millones) | Esperanza de vida (a\u00f1os) ||---|---|---|| India | 1.380 | 69,4 || Estados Unidos | 332,4 | 78,8 |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su poblaci\u00f3n en millones y su esperanza de vida en a\u00f1os. India tiene una poblaci\u00f3n de 1.380 millones y una esperanza de vida de 69,4 a\u00f1os. Estados Unidos tiene una poblaci\u00f3n de 332,4 millones y una esperanza de vida de 78,8."
+        },
+        {
+            "id": "362ca62c-f02d-48f5-a08b-fcfefe9f2df1",
+            "table": "| Aves || --- || Loros || Pingu\u0308inos |",
+            "texto": "La tabla muestra aves, se nombra a los loros y los pingu\u0308inos."
+        },
+        {
+            "id": "abbe9707-7b32-442b-a035-46e7b83b50df",
+            "table": "| Ventajas | Desventajas ||---|---|| Flexibilidad y conveniencia | Falta de interaccio\u0301n social || Acceso a recursos globales | Potenciales problemas te\u0301cnicos || Costos reducidos | Dificultad para establecer conexiones personales |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja est\u00e1 la flexibilidad y conveniencia, como desventaja est\u00e1 la falta de interaccio\u0301n social. Como ventaja est\u00e1 el acceso a recursos globales, como desventaja est\u00e1n los potenciales problemas te\u0301cnicos. Como ventaja est\u00e1n los costos reducidos, como desventaja est\u00e1 la dificultad para establecer conexiones personales."
+        },
+        {
+            "id": "0c55369d-2a4a-4474-bd50-1fe715f78ad4",
+            "table": "| Planta | Causas de extincio\u0301n ||---|---|| Cicuta Virosa | Esta\u0301 experimentando extincio\u0301n debido a la destruccio\u0301n del ha\u0301bitat |",
+            "texto": "La tabla muestra la planta Cicuta Virosa esta\u0301 experimentando extincio\u0301n debido a la destruccio\u0301n de su ha\u0301bitat."
+        },
+        {
+            "id": "9959dca8-e31e-4b81-9f8b-2883d2856da5",
+            "table": "| Elemento de la Tabla Perio\u0301dica | Propiedades ||---|---|| Cloro | Gas verdoso, to\u0301xico, reactivo || Sodio | Metal blando, plateado y reactivo || Hierro | Metal duro, maleable y magne\u0301tico |",
+            "texto": "Esta tabla proporciona una descripcio\u0301n de las propiedades de tres elementos de la Tabla Perio\u0301dica. La primera fila detalla el cloro, un gas verdoso que es to\u0301xico y reactivo. La segunda fila describe el sodio, un metal blando, plateado y muy reactivo. Finalmente, la tercera fila proporciona informacio\u0301n sobre el hierro, un metal duro, maleable y magne\u0301tico."
+        },
+        {
+            "id": "6dfbdaf0-a964-4a0b-b2fe-2962f3f7e1a7",
+            "table": "| Pai\u0301ses del continente americano ||------|| Colombia || Ecuador |",
+            "texto": "La tabla muestra pai\u0301ses del continente americano como Colombia y Ecuador."
+        },
+        {
+            "id": "a81ef917-4d78-434a-abf0-0193fc128f93",
+            "table": "| Nombre | Apellido | Edad ||---|---|---|| Pedro | Gonza\u0301lez | 25 || Mari\u0301a | Rodri\u0301guez | 30 || Juan | Pe\u0301rez | 35 |",
+            "texto": "La tabla proporciona informacio\u0301n personal como el nombre, apellido y la edad sobre tres personas individuos: Pedro Gonza\u0301lez tiene 25 an\u0303os, Mari\u0301a Rodri\u0301guez tiene 30 an\u0303os y Juan Pe\u0301rez tiene 35 an\u0303os."
+        },
+        {
+            "id": "4876e897-4104-4f28-b00b-b3b28f72f71f",
+            "table": "| Apellidos ||:-----------|| Armstrong || Van der Poel || Pogacar |",
+            "texto": "La tabla menciona apellidos como Armstrong, Van der Poel y Pogacar."
+        },
+        {
+            "id": "ee20a72a-4acb-46e6-8a41-9a5686952f2a",
+            "table": "| Feno\u0301menos naturales | Prevencio\u0301n preparacio\u0301n y respuesta ante feno\u0301menos naturales ||:---|:---|| Terremotos | Refuerzo estructural, planes de evacuacio\u0301n, sistemas de alerta temprana || Huracanes | Proteccio\u0301n de ventanas, almacenamiento de alimentos y agua, seguimiento de los avisos meteorolo\u0301gicos || Inundaciones | Drenaje adecuado, evacuacio\u0301n a zonas altas, monitoreo de niveles de agua |",
+            "texto": "La tabla presenta informaci\u00f3n sobre las medidas de prevenci\u00f3n, preparaci\u00f3n y respuesta ante diferentes fen\u00f3menos naturales: para los terremotos, se menciona el refuerzo estructural de edificios, la implementaci\u00f3n de planes de evacuaci\u00f3n y sistemas de alerta temprana; para los huracanes, se indica la protecci\u00f3n de ventanas, el almacenamiento de alimentos y agua, y el seguimiento de los avisos meteorol\u00f3gicos; y para las inundaciones, se destaca la importancia de un drenaje adecuado, la evacuaci\u00f3n a zonas altas y el monitoreo de los niveles de agua."
+        },
+        {
+            "id": "963275e8-e6c1-4d6b-93b8-72705a10c8ed",
+            "table": "| Regio\u0301n | Tasa de fertilidad (hijos por mujer) ||:---|:---|| Asia | 2,2 |",
+            "texto": "La tabla muestra que la tasa de fertilidad en la regi\u00f3n de Asia, es de 2,2 hijos por mujer."
+        },
+        {
+            "id": "dddf84ef-ddd9-459c-bd0b-df1ca2675c91",
+            "table": "| Continente | Tasa de alfabetizaci\u00f3n | N\u00famero de bibliotecas p\u00fablicas ||---|---|---|| Europa | 99% | 180 por cada mill\u00f3n de habitantes |",
+            "texto": "La tabla muestra informaci\u00f3n de un continente, su tasa de alfabetizaci\u00f3n y su n\u00famero de bibliotecas p\u00fablicas. El continente europeo tiene una tasa de alfabetizaci\u00f3n del 99% y un n\u00famero de bibliotecas p\u00fablicas de 180 por cada mill\u00f3n de habitantes."
+        },
+        {
+            "id": "0ff6d853-a786-4097-af84-1aecda316b39",
+            "table": "| Patrimonio intangible || --------------------- || Danzas del patrimonio del Ecuador |",
+            "texto": "Esta tabla contiene patrimonio intangible como danzas del patrimonio del Ecuador."
+        },
+        {
+            "id": "49ebb6c2-b233-4684-b01b-43ed667ac4f1",
+            "table": "| Provincia | Culturas ||---|---|| Pichincha | Quitus, Caras, Cayambis || Santa Elena | Tsa\u0301chilas, Cholos Peninsulares |",
+            "texto": "La tabla muestra las provincias y las culturas. Pichincha tiene a las culturas Quitus, Caras y Cayambis. Santa Elena tiene a las culturas Tsa\u0301chilas y Cholos Peninsulares."
+        },
+        {
+            "id": "cb762cc9-c7a2-4692-bbef-8e90a7c2d2f1",
+            "table": "| Carni\u0301voros || --- || Tiburo\u0301n || Orca |",
+            "texto": "La tabla muestra carni\u0301voros, se nombra al tiburo\u0301n y a la orca."
+        },
+        {
+            "id": "e58b1a7f-c369-4f7d-9550-4b0d2558fe59",
+            "table": "| Caracteri\u0301sticas de animales ||------|| Tiburo\u0301n: depredador, branquias, esqueleto cartilaginoso |",
+            "texto": "La tabla muestra las caracteri\u0301sticas de animales como el tiburo\u0301n, que es un depredador, tiene branquias y un esqueleto cartilaginoso."
+        },
+        {
+            "id": "1eefec06-1596-4702-8fc4-7084a2176e85",
+            "table": "| Asignatura | Aspectos ||----|----|| Filosofi\u0301a | Conceptos, valores, e\u0301tica || Arte | Expresio\u0301n, creatividad, te\u0301cnicas |",
+            "texto": "La tabla muestra asignaturas y sus aspectos. La filosofi\u0301a contiene aspectos como conceptos, valores y e\u0301tica. El arte contiene aspectos como expresio\u0301n, la creatividad y las te\u0301cnicas."
+        },
+        {
+            "id": "5e06f536-620f-411f-8441-6161733540c4",
+            "table": "| Nombre cienti\u0301fico | Nombre comu\u0301n | Tipo de planta ||---|---|---|| Solanum tuberosum | Papa | Hierba || Malus domestica | Manzano | A\u0301rbol frutal || Zea mays | Mai\u0301z | Cereal |",
+            "texto": "La tabla muestra informacio\u0301n de nombres cienti\u0301ficos, nombres comu\u0301nes y el tipo de planta. El nombre cient\u00edfico es Solanum tuberosum, su nombre com\u00fan es papa y es una hierba en su tipo de planta. El nombre cient\u00edfico es Malus domestica, su nombre com\u00fan es manzano y es un \u00e1rbol frutal en su tipo de planta. El nombre cient\u00edfico es Zea mays, su nombre com\u00fan es mai\u0301z y es un cereal en su tipo de planta."
+        },
+        {
+            "id": "612e3d3b-97de-439a-8ec2-5eeb2a07ca83",
+            "table": "| Tema | Descripci\u00f3n ||---|---|| Paleontolog\u00eda | Estudio de los organismos y seres vivos del pasado || Nanotecnolog\u00eda | Desarrollo y aplicaci\u00f3n de materiales y dispositivos a escala nanom\u00e9trica |",
+            "texto": "La paleontolog\u00eda es la ciencia que se encarga del estudio de los organismos y seres vivos. Por otro lado, la nanotecnolog\u00eda es la tecnolog\u00eda que se enfoca en el desarrollo y aplicaci\u00f3n de materiales y dispositivos a escala nanom\u00e9trica."
+        },
+        {
+            "id": "bcf93ee6-38c6-4042-a17e-397ef42e6452",
+            "table": "| Regi\u00f3n | Poblaci\u00f3n (miles de millones) | Densidad de poblaci\u00f3n (habitantes por km cuadrado) ||---|---|---|| Asia | 4.6 | 96 || \u00c1frica | 1.4 | 44 || Europa | 0.7 | 34 |",
+            "texto": "La tabla muestra informaci\u00f3n de la regi\u00f3n, su poblaci\u00f3n en miles de millones y su densidad de poblaci\u00f3n en habitantes por kil\u00f3metro cuadrado.  La regi\u00f3n de Asia tiene una poblaci\u00f3n de 4,6 mil millones y una densidad de poblaci\u00f3n de 96 habitantes por kil\u00f3metro cuadrado. La regi\u00f3n de \u00c1frica tiene una poblaci\u00f3n de 1,4 mil millones y una densidad de poblaci\u00f3n de 44 habitantes por kil\u00f3metro cuadrado. La regi\u00f3n de Europa tiene una poblaci\u00f3n de 0,7 mil millones y una densidad de poblaci\u00f3n de 34 habitantes por kil\u00f3metro cuadrado."
+        },
+        {
+            "id": "6c65df70-3f88-48a8-8d35-7571cd6c39b8",
+            "table": "| Aves || --- || Co\u0301ndor || Guacamayo |",
+            "texto": "La tabla muestra aves, se nombra el Co\u0301ndor y el Guacamayo."
+        },
+        {
+            "id": "02809c4e-c6db-4c4b-9f49-afc6d3745b2f",
+            "table": "| Cienti\u0301ficos | An\u0303o de nacimiento | An\u0303o de fallecimiento ||---|---|---|| Albert Einstein | 1879 | 1955 || Isaac Newton | 1643 | 1727 || Marie Curie | 1867 | 1934 |",
+            "texto": "La tabla muestra informacio\u0301n sobre tres cienti\u0301ficos : Albert Einstein, Isaac Newton y Marie Curie. Einstein nacio\u0301 en 1879 y murio\u0301 en 1955. Isaac Newton nacio\u0301 en 1643 y murio\u0301 en 1727. Marie Curie nacio\u0301 en 1867 y murio\u0301 en 1934."
+        },
+        {
+            "id": "f36f8df6-c7cc-46d6-b7d3-8ba2524c60ee",
+            "table": "| Factores Bio\u0301ticos | Factores Abio\u0301ticos ||---|---|| Poblacio\u0301n de animales | Temperatura || Cadena alimentaria | Precipitacio\u0301n |",
+            "texto": "La tabla muestra factores bio\u0301ticos y factores abio\u0301ticos. Factores bio\u0301ticos incluyen la poblacio\u0301n de animales y factores abio\u0301ticos incluyen la temperatura. Factores bio\u0301ticos incluyen la cadena alimentaria y factores abio\u0301ticos incluyen la precipitacio\u0301n."
+        },
+        {
+            "id": "7753a94f-5f89-46b8-a3c7-0394693c0ff5",
+            "table": "| Pa\u00eds | Poblaci\u00f3n (millones) ||---|---|| China | 1452 || India | 1412 |",
+            "texto": "La tabla muestra pa\u00edses y su poblaci\u00f3n en millones. China tiene una poblaci\u00f3n de 1452 millones. India tiene una poblaci\u00f3n de 1412 millones."
+        },
+        {
+            "id": "557e8205-ea04-4e44-a8aa-ebb1e65a8da2",
+            "table": "| Cantidad de turistas ||---|| China en 2019, que fueron 145,3 millones |",
+            "texto": "La tabla muestra el nu\u0301mero de turistas que visitaron China en 2019, que fueron 145,3 millones "
+        },
+        {
+            "id": "2f5159d9-4512-45e5-a35c-392b148d35da",
+            "table": "| Avances Tecnol\u00f3gicos | Beneficios | Desafios ||---|---|---|| Inteligencia artificial | Automatizaci\u00f3n, eficiencia, mejores decisiones | Sesgo algor\u00edtmico, perdida de empleo, cuestiones \u00e9ticas | Tecnolog\u00edas sostenibles | Reducci\u00f3n de emisiones, conservaci\u00f3n de recursos | Costos elevados, desarrollo lento, adopci\u00f3n desigual |",
+            "texto": "en los avances tecnol\u00f3gicos est\u00e1 la inteligencia artificial, sus beneficios est\u00e1 la automatizaci\u00f3n, eficiencia, mejores decisiones y los desaf\u00edos es el Sesgo algor\u00edtmico, perdida de empleo, cuestiones \u00e9ticas, en los avances tecnol\u00f3gicos est\u00e1n las Tecnolog\u00edas sostenibles, los beneficios son la Reducci\u00f3n de emisiones, conservaci\u00f3n de recursos y los desaf\u00edos son los costos elevados, desarrollo lento, adopci\u00f3n desigual"
+        },
+        {
+            "id": "55707016-909f-4f15-a318-7762f9f79ac6",
+            "table": "| No | Proceso | Fecha de publicacio\u0301n de resultados ||---|---|---|| 1 | Encuesta Nacional de Educacio\u0301n Inicial | 22 de octubre de 2024 || 2 | Encuesta Nacional de Educacio\u0301n Secundaria | 15 de noviembre de 2024 || 3 | Encuesta Nacional de Educacio\u0301n Superior | 30 de noviembre de 2024 |",
+            "texto": "La tabla muestra informaci\u00f3n el nu\u0301mero de proceso, el proceso en si\u0301 y la fecha de publicacio\u0301n de los resultados para cada proceso. El primer proceso es la encuesta nacional de educacio\u0301n inicial, cuyos resultados se publicara\u0301n el 22 de octubre de 2024. La segunda es la encuesta nacional de educacio\u0301n secundaria, cuyos resultados se publicara\u0301n el 15 de noviembre de 2024. La tercera es la encuesta nacional de educacio\u0301n superior, cuyos resultados se publicara\u0301n el 30 de noviembre de 2024."
+        },
+        {
+            "id": "be638447-7ee9-49e8-99d7-86c09a9d21f8",
+            "table": "| Fuente de energi\u0301a | Ventaja | Desventaja ||---|---|---|| Solar | Renovable, limpia, inagotable | Intermitente, requiere gran superficie de terreno |",
+            "texto": "La tabla muestra una fuente de energi\u0301a, destacando sus ventajas y desventajas. La energi\u0301a solar es renovable y limpia, pero es intermitente y requiere mucho espacio."
+        },
+        {
+            "id": "53765ee6-bbab-4939-9ab0-ed581a81bf0f",
+            "table": "| Revoluci\u00f3n Tecnol\u00f3gica | Innovaci\u00f3n ||------------------------|------------|| IA, Automatizaci\u00f3n | Mejora la productividad y la eficiencia || Computaci\u00f3n en la Nube | Acceso a datos y aplicaciones desde cualquier lugar |",
+            "texto": "La revoluci\u00f3n tecnol\u00f3gica impulsada por la Inteligencia Artificial (IA) y la Automatizaci\u00f3n ha resultado en innovaciones que han mejorado la productividad y la eficiencia. Asimismo, la revoluci\u00f3n tecnol\u00f3gica de la Computaci\u00f3n en la Nube ha permitido la innovaci\u00f3n en el acceso a datos y aplicaciones desde cualquier lugar."
+        },
+        {
+            "id": "0de9f58a-f119-4002-9147-3223df227acd",
+            "table": "| Intervalo | Frecuencia | Clase ||---|---|---|| [-5, 5) | 12 | Inferior || [15, 25) | 8 | Superior |",
+            "texto": "La tabla muestra informacio\u0301n de intervalos, frecuencias y clases. El intervalo [-5, 5) tiene una frecuencia de 12 y corresponde a la clase inferior. El intervalo [15, 25) tiene una frecuencia de 8 y corresponde a la clase superior."
+        },
+        {
+            "id": "cf59e0e3-f526-4330-ab50-25f5a5da1156",
+            "table": "| Continente | Tasa de alfabetizaci\u00f3n | N\u00famero de bibliotecas p\u00fablicas ||---|---|---|| \u00c1frica | 67% | 14 por cada mill\u00f3n de habitantes |",
+            "texto": "La tabla muestra informaci\u00f3n de un continente, su tasa de alfabetizaci\u00f3n y su n\u00famero de bibliotecas p\u00fablicas. El continente africano tiene una tasa de alfabetizaci\u00f3n de 67% y un n\u00famero de bibliotecas p\u00fablicas de 14 por cada mill\u00f3n de habitantes."
+        },
+        {
+            "id": "dd8b4d56-ca6b-45f8-973c-5089534ecd22",
+            "table": "| Interaccio\u0301n entre plantas y animales ||:---|| Polen que las abejas transfieren de flor a flor || Plantas que ofrecen ne\u0301ctar a los polinizadores || A\u0301rboles que proporcionan ha\u0301bitat a las aves |",
+            "texto": "La tabla describe interacciones entre plantas y animales como el Polen que las abejas transfieren de flor a flor, plantas que ofrecen ne\u0301ctar a los polinizadores y \u00e1rboles que proporcionan ha\u0301bitat a las aves."
+        },
+        {
+            "id": "68baaaf1-6dc7-480b-8e49-1dd16567df68",
+            "table": "| Presidente | Pai\u0301s | Fecha de mandato ||---|---|---|| Juan Manuel Santos | Colombia | 2010-2018 || Dilma Rousseff | Brasil | 2011-2016 || Enrique Pen\u0303a Nieto | Me\u0301xico | 2012-2018 |",
+            "texto": "La tabla muestra los presidentes, sus pa\u00edses y su fecha de mando. Juan Manuel Santos del pa\u00eds de Colombia con su fecha de mandato: 2010 a 2018. Dilma Rousseff del pa\u00eds de Brasil con su fecha de mandato: 2011 a 2016. Enrique Pen\u0303a Nieto del pa\u00eds de Me\u0301xico con su fecha de mandato: 2012 a 2018."
+        },
+        {
+            "id": "f66150f6-0e99-466b-baa7-956536a41790",
+            "table": "| Interaccio\u0301n entre plantas y animales ||:---|| Polinizacio\u0301n || Dispersio\u0301n de semillas || Mutualismo |",
+            "texto": "La tabla describe las diferentes formas en que las plantas y los animales interactu\u0301an, incluyendo la polinizacio\u0301n, la dispersio\u0301n de semillas y el mutualismo."
+        },
+        {
+            "id": "7ca1a567-b74b-4c0a-9954-c98a965cb82a",
+            "table": "| Mami\u0301feros || --- || Zorros || Caballos |",
+            "texto": "La tabla muestra mami\u0301feros, se nombra al zorro y el caballo."
+        },
+        {
+            "id": "2e454258-48cf-4542-99d5-746fad733776",
+            "table": "| Cultivo | Conductividad en el suelo (dS/cm) | Conductividad en el agua de riego (dS/cm) ||:---|:---|:---|| Olivo | 3.0 | 2.5 || Lechuga | 1.5 | 1.2 || Frutilla | 1.2 | 0.9 |",
+            "texto": "La tabla proporciona informacio\u0301n sobre la conductividad ele\u0301ctrica del suelo y del agua de riego para cultivos. El olivo tiene una conductividad del suelo de 3.0 dS/cm y una conductividad del agua de riego de 2.5 dS/cm. La lechuga tiene una conductividad del suelo de 1.5 dS/cm y una conductividad del agua de riego de 1.2 dS/cm. La frutilla tiene una conductividad del suelo de 1.2 dS/cm y una conductividad del agua de riego de 0.9 dS/cm."
+        },
+        {
+            "id": "9eeebe29-11a4-491c-8a4e-b75e8c03a8ab",
+            "table": "| Autor | T\u00edtulo de obras literarias | A\u00f1o de publicaci\u00f3n ||---|---|---|| Miguel de Cervantes | El ingenioso hidalgo don Quijote de la Mancha | 1605 || William Shakespeare | Hamlet | 1603 || Jane Austen | Orgullo y prejuicio | 1813 |",
+            "texto": "La tabla presenta datos bibliogr\u00e1ficos de obras literarias, incluyendo el autor, el t\u00edtulo y el a\u00f1o de publicaci\u00f3n. La primera fila corresponde a \"El ingenioso hidalgo don Quijote de la Mancha\", escrita por Miguel de Cervantes en 1605. La segunda fila hace referencia a \"Hamlet\" de William Shakespeare, publicada en 1603. La tercera y \u00faltima fila presenta \"Orgullo y prejuicio\" de Jane Austen, publicada en 1813."
+        },
+        {
+            "id": "d4d0dbf0-cbf8-40b0-9a95-70815175fcd4",
+            "table": "| Beneficios del reciclaje y reduccio\u0301n de residuos ||------|| Reduce la huella de carbono || Ahorra recursos naturales || Protege la vida silvestre y los ecosistemas |",
+            "texto": "La tabla muestra los beneficios del reciclaje y la reduccio\u0301n de residuos, como reducir la huella de carbono, ahorrar recursos naturales y proteger la vida silvestre y los ecosistemas."
+        },
+        {
+            "id": "9f21c87e-4fb3-40cc-9a48-a18b2e6aacef",
+            "table": "| Nombre | Descubrimientos ||---|---|| Galileo Galilei | Telescopio || Alexander Fleming | Penicilina |",
+            "texto": "La tabla muestra nombres y descubrimientos. Galileo Galilei descubrio\u0301 el telescopio. Alexander Fleming descubrio\u0301 la penicilina."
+        },
+        {
+            "id": "84523128-95e1-491b-93c3-4a0c7c2dd406",
+            "table": "| Continente | Poblacio\u0301n (millones) | Porcentaje de la Poblacio\u0301n Total ||:---|:---|:---|| Europa | 747 | 9,66% |",
+            "texto": "La tabla muestra el continente, la poblacio\u0301n en millones y el porcentaje de la poblacio\u0301n total. Europa tiene una poblacio\u0301n de 747 millones y el porcentaje de la poblacio\u0301n total de 9,66%."
+        },
+        {
+            "id": "b64be4c9-0355-4d74-a784-03c2231f000b",
+            "table": "|Tipos de energ\u00eda renovable ||------|| Geotermal: Aprovecha el calor interno de la Tierra para generar electricidad o para calentar agua. Es una fuente de energ\u00eda renovable, confiable y sostenible que no produce emisiones contaminantes. || Energ\u00eda oce\u00e1nica: Utiliza la energ\u00eda de las olas, mareas o corrientes marinas para generar electricidad. Es una fuente de energ\u00eda renovable, predecible y abundante, especialmente en zonas costeras con alta actividad marina. |",
+            "texto": "La tabla presenta dos tipos de energ\u00eda renovable. En primer lugar, se describe la Energ\u00eda geot\u00e9rmica, que aprovecha el calor interno de la Tierra para generar electricidad o para calentar agua. Es una fuente de energ\u00eda renovable, confiable y sostenible que no produce emisiones contaminantes. En segundo lugar, se menciona la Energ\u00eda oce\u00e1nica, que utiliza la energ\u00eda de las olas, mareas o corrientes marinas para generar electricidad. Es una fuente de energ\u00eda renovable, predecible y abundante, especialmente en zonas costeras con alta actividad marina."
+        },
+        {
+            "id": "5c381b70-dde8-4a95-9f0e-bab659d8f8b8",
+            "table": "| Experimento | A\u00f1o ||---------|-----|| Experimento de Michelson-Morley | 1887 || Experimento de Stern-Gerlach | 1922 |",
+            "texto": "La primera fila de la tabla muestra el Experimento de Michelson-Morley, que se realiz\u00f3 en el a\u00f1o 1887. La segunda fila de la tabla muestra el Experimento de Stern-Gerlach, que se realiz\u00f3 en el a\u00f1o 1922."
+        },
+        {
+            "id": "52da7407-0455-4d21-984c-ab0581372925",
+            "table": "| Enfermedad | Virus que lo ocasiona ||---|---|| Sarampio\u0301n | Virus del sarampio\u0301n |",
+            "texto": "La tabla presenta informacio\u0301n sobre el sarampio\u0301n, una enfermedad causada por el virus del sarampio\u0301n."
+        },
+        {
+            "id": "64ce10ea-93ae-428a-8a46-8f77675b314a",
+            "table": "| An\u0303o | Extranjeros censados | % total ||---|---|---|| 2010 | 1.127.595 | 2,3 |",
+            "texto": "La tabla muestra el a\u00f1o, los extranjeros censados y el porcentaje total. El an\u0303o 2010 habi\u0301an 1.127.595 extranjeros censados y el porcentaje total es del 2,3%."
+        },
+        {
+            "id": "8a1c20ef-5a63-4f7e-b8f0-abd6110abab2",
+            "table": "| Planta | Causas de extincio\u0301n ||---|---|| Santalum fernandezianum | Posible deforestacio\u0301n, sobrepastoreo, intrusio\u0301n de especies exo\u0301ticas |",
+            "texto": "La tabla muestra la planta Santalum fernandezianum y su causa de extincio\u0301n, que incluyen una posible deforestacio\u0301n, el sobrepastoreo y la intrusio\u0301n de especies exo\u0301ticas."
+        },
+        {
+            "id": "ca13740b-79fa-4d6b-a08c-5fcbd176f8dc",
+            "table": "| Pa\u00eds | Densidad de Poblaci\u00f3n (por kil\u00f3metro cuadrado) ||---|---|| China | 153 || India | 464 || Estados Unidos | 35,6 |",
+            "texto": "La tabla muestra pa\u00edses y la densidad de poblaci\u00f3n por kil\u00f3metro cuadrado. China tiene una densidad de poblaci\u00f3n de 153 habitantes por kil\u00f3metro cuadrado. India tiene una densidad de poblaci\u00f3n de 464 habitantes por kil\u00f3metro cuadrado. Estados Unidos tiene una densidad de poblaci\u00f3n de 35,6 habitantes por kil\u00f3metro cuadrado."
+        },
+        {
+            "id": "bf60f8af-9d59-4995-a83d-933b1292ae64",
+            "table": "| Pai\u0301s | PIB (miles de millones de do\u0301lares) | Gasto social (% del PIB) ||---|---|---|| Finlandia | 334 | 21,4 || Georgia | 17,2 | 6,2 || Grecia | 215 | 17,2 |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su PIB en miles de millones de do\u0301lares y su gasto social como porcentaje del PIB. Finlandia tiene un PIB de 334 miles de millones de do\u0301lares y un gasto social del 21,4% del PIB. Georgia tiene un PIB de 17,2 miles de millones de do\u0301lares y un gasto social del 6,2% del PIB. Grecia tiene un PIB de 215 miles de millones de do\u0301lares y un gasto social del 17,2% del PIB."
+        },
+        {
+            "id": "7f030f14-18e8-42e7-b6e0-a6c0883ec9fa",
+            "table": "| Reciclaje ||------|| Compostaje |",
+            "texto": "La tabla muestra que una forma de reciclaje es el compostaje."
+        },
+        {
+            "id": "197c0a63-51f6-4455-8c7f-2eadbf443fab",
+            "table": "| Desafi\u0301os del Internet de las cosas (IoT) || --- || Seguridad y privacidad: garantizar la proteccio\u0301n de datos y dispositivos || Interoperabilidad y esta\u0301ndares: permitir que diferentes dispositivos se comuniquen y trabajen juntos sin problemas || Escalabilidad y capacidad de gestio\u0301n: abordar el gran volumen de datos y dispositivos conectados |",
+            "texto": "La tabla presenta desaf\u00edos del Internet de las cosas (IoT). En primer lugar, se destaca el desaf\u00edo de Seguridad y privacidad, que implica garantizar la protecci\u00f3n de datos y dispositivos. En segundo lugar, se menciona el desaf\u00edo de Interoperabilidad y est\u00e1ndares, que busca permitir que diferentes dispositivos se comuniquen y trabajen juntos sin problemas. En tercer lugar, se habla de Escalabilidad y capacidad de gesti\u00f3n, que aborda el gran volumen de datos y dispositivos conectados."
+        },
+        {
+            "id": "c90a1345-5ec5-4f5f-9b2d-5d226f631030",
+            "table": "| Personaje histo\u0301rico | Fecha de fallecimiento ||---|---|| Martin Luther King Jr. | 4 de abril de 1968 || Mahatma Gandhi | 30 de enero de 1948 |",
+            "texto": "La tabla muestra personajes hist\u00f3ricos y la fecha en que fallecieron. Martin Luther King Jr. fallecio\u0301 el 4 de abril de 1968. Mahatma Gandhi falleci\u00f3 el 30 de enero de 1948."
+        },
+        {
+            "id": "bec9037a-a214-448e-b613-1ceaacf7669c",
+            "table": "| Censos ||:---|| Censo de Poblacio\u0301n y Vivienda || Censo Agropecuario |",
+            "texto": "La tabla muestra censos, el censo de poblacio\u0301n y vivienda y el censo agropecuario."
+        },
+        {
+            "id": "488462ff-c6d9-4ff6-a1e6-16fa78355aad",
+            "table": "| Provincia | Culturas ||---|---|| Esmeraldas | Chachi, E\u0301pera, Awa\u0301 || Manabi\u0301 | Manta, Valdivia, Machalilla |",
+            "texto": "La tabla muestra las provincias y las culturas. Esmeraldas tiene a las culturas Chachi, E\u0301pera y Awa\u0301. Manabi\u0301 tiene a las culturas Manta, Valdivia y Machalilla."
+        },
+        {
+            "id": "b38354ca-09c1-446d-8f55-8dfe4bf4f7cd",
+            "table": "| A\u0301rea de investigacio\u0301n | Autores principales ||---|---|| Historia del arte | Giorgio Vasari |",
+            "texto": "La tabla presenta a los autores principales en el campo de la investigacio\u0301n en historia del arte, incluido Giorgio Vasari."
+        },
+        {
+            "id": "13f9bc74-0cdc-4f69-b31e-95c5f7ce8225",
+            "table": "| Teori\u0301a | Caracterizacio\u0301n del desarrollo sostenible ||---|---|| Teori\u0301a de los li\u0301mites planetarios | Establece li\u0301mites ambientales para mantener la estabilidad del sistema terrestre. || Teori\u0301a del decrecimiento | Aboga por una reduccio\u0301n del consumo y la produccio\u0301n para evitar el agotamiento de los recursos. |",
+            "texto": "La tabla muestra teor\u00edas y la caracterizacio\u0301n del desarrollo sostenible. La teori\u0301a de los li\u0301mites planetarios, que establece li\u0301mites ambientales para mantener la estabilidad del sistema terrestre. La teori\u0301a del decrecimiento aboga por una reduccio\u0301n del consumo y la produccio\u0301n para evitar el agotamiento de los recursos."
+        },
+        {
+            "id": "f32ed87a-ac75-4dbb-b57c-819529bf15c3",
+            "table": "| Pa\u00eds | Tasa de alfabetizaci\u00f3n | Gasto en educaci\u00f3n (% del PIB) ||---|---|---|| Malawi | 69% | 11 % |",
+            "texto": "La tabla muestra informaci\u00f3n del pa\u00eds, su tasa de alfabetizaci\u00f3n y su gasto en educaci\u00f3n en porcentaje del PIB. Malawi tiene una tasa de alfabetizaci\u00f3n del 69 % y su gasto en educaci\u00f3n es del 11 % del PIB."
+        },
+        {
+            "id": "35b97fd7-1d57-4b9c-911b-540a153d861c",
+            "table": "| Pai\u0301s | Anfibios | Reptiles ||---|---|---|| Ecuador | 300 especies | 220 especies || El Salvador | 150 especies | 300 especies |",
+            "texto": "La tabla muestra el nu\u0301mero de especies de anfibios y reptiles. Ecuador tiene 300 especies de anfibios y 220 especies de reptiles. El Salvador tiene 150 especies de anfibios y 300 especies de reptiles."
+        },
+        {
+            "id": "11c967dd-2513-42e6-86a7-7448118a2981",
+            "table": "| Parroquia de inscripcio\u0301n ||-------|| Parroquia San Blas, Cuenca || Parroquia San Pedro, Guayaquil || Parroquia La Merced, Quito |",
+            "texto": "La tabla muestra parroquia de inscripcio\u0301n como la Parroquia San Blas en Cuenca, Parroquia San Pedro en Guayaquil y Parroquia La Merced en Quito."
+        },
+        {
+            "id": "ce1de6c5-2ce4-4076-9c1b-f625ef7a0512",
+            "table": "| Nombre del autor | A\u00f1o de publicaci\u00f3n | T\u00edtulo de la obra ||---|---|---|| Gabriel Garc\u00eda M\u00e1rquez | 1967 | Cien a\u00f1os de soledad |",
+            "texto": "La tabla contiene informaci\u00f3n sobre el nombre del autor, a\u00f1o de publicaci\u00f3n y el t\u00edtulo de la obra. Gabriel Garc\u00eda M\u00e1rquez en 1967 public\u00f3 la obra Cien a\u00f1os de soledad."
+        },
+        {
+            "id": "c9fd4d29-78d7-4685-8842-877487cc3d3c",
+            "table": "| Extincio\u0301n de especies ||--------|| 1 millo\u0301n de especies en peligro de extincio\u0301n || 50% de las especies desaparecera\u0301n en los pro\u0301ximos 100 an\u0303os || Actividades humanas son la causa principal |",
+            "texto": "La tabla muestra estadi\u0301sticas sobre la extincio\u0301n de especies, destacando que un millo\u0301n de especies esta\u0301n en peligro, la mitad de las especies podri\u0301an desaparecer en un siglo y las actividades humanas son la causa principal."
+        },
+        {
+            "id": "0700635b-99b4-435a-9961-727ab43d087a",
+            "table": "| Ciencia | Tecnologia | Impacto | ||---|---|---|| Estudio sistem\u00e1tico del mundo natural que utiliza observaciones y experimentos para comprender sus fen\u00f3menos y estructuras | Aplicaci\u00f3n pr\u00e1ctica del conocimiento cient\u00edfico para resolver problemas y crear nuevos productos, procesos y sistemas | Los efectos de la ciencia y la tecnolog\u00eda en la sociedad, el medio ambiente y la econom\u00eda, que incluyen avances en medicina, comunicaciones y transporte. | Descubre patrones y principios en el mundo natural, lo que conduce a nuevos conocimientos y comprensi\u00f3n. | Transforma estos descubrimientos en aplicaciones pr\u00e1cticas y soluciones innovadoras.   | Mejora la calidad de vida, crea nuevas industrias y genera oportunidades econ\u00f3micas, transformando nuestra forma de vivir y trabajar.",
+            "texto": "La ciencia tiene un estudio sistem\u00e1tico del mundo natural que utiliza observaciones y experimentos para comprender sus fen\u00f3menos y estructuras amas de que descubre patrones y principios en el mundo natural, lo que conduce a nuevos conocimientos y comprensi\u00f3n. La Tecnolog\u00eda engloba la aplicaci\u00f3n pr\u00e1ctica del conocimiento cient\u00edfico para resolver problemas y crear nuevos productos, procesos y sistemas asimismo transforma estos descubrimientos en aplicaciones pr\u00e1cticas y soluciones innovadoras. El impacto contiene los efectos de la ciencia y la tecnolog\u00eda en la sociedad, el medio ambiente y la econom\u00eda, que incluyen avances en medicina, comunicaciones y transporte. Mejora la calidad de vida, crea nuevas industrias y genera oportunidades econ\u00f3micas, transformando nuestra forma de vivir y trabajar."
+        },
+        {
+            "id": "5fd09fac-ec52-4b1f-9e25-f45f1cf61b19",
+            "table": "| Alimento | Cantidad de protei\u0301nas ||---|---|| Huevo | 6 g || Pechuga de pollo | 25 g || Atu\u0301n en lata | 20 g |",
+            "texto": "La tabla muestra la cantidad de protei\u0301nas en diferentes alimentos. El huevo contiene 6 gramos de protei\u0301nas, la pechuga de pollo contienen 25 gramos de protei\u0301nas y el atu\u0301n en lata contiene 20 gramos de protei\u0301nas."
+        },
+        {
+            "id": "6ec87827-7cc9-420c-b853-7f92046b32f8",
+            "table": "| Mes de nacimiento ||------|| Octubre || Noviembre || Mayo |",
+            "texto": "La tabla muestra meses de nacimiento como octubre, noviembre y mayo."
+        },
+        {
+            "id": "747d2f79-e64a-4313-97cd-71e60edc47ee",
+            "table": "| Categor\u00eda | Atributos ||---|---|| Sustentabilidad fuerte | Prioriza la conservaci\u00f3n de los recursos naturales y la protecci\u00f3n del medio ambiente. || Sustentabilidad s\u00faper-fuerte | Va m\u00e1s all\u00e1 de la conservaci\u00f3n, abogando por la restauraci\u00f3n y regeneraci\u00f3n de los ecosistemas. |",
+            "texto": "La tabla muestra categor\u00edas y atributos. La sustentabilidad fuerte tiene atributos que prioriza la conservaci\u00f3n de los recursos naturales y la protecci\u00f3n del medio ambiente. La sustentabilidad s\u00faper-fuerte tiene atributos con los que va m\u00e1s all\u00e1 de la conservaci\u00f3n, abogando por la restauraci\u00f3n y regeneraci\u00f3n de los ecosistemas."
+        },
+        {
+            "id": "58dc6023-47ba-411b-99b1-f2966f00c0c1",
+            "table": "| Regio\u0301n | Esperanza de vida ||------|---|| Europa | 78 an\u0303os |",
+            "texto": "La tabla contiene informacio\u0301n sobre la esperanza de vida en una regio\u0301n especi\u0301fica. En Europa es de 78 an\u0303os."
+        },
+        {
+            "id": "56b7f0f7-303e-4637-ba6f-87531d7cd178",
+            "table": "| Figura cienti\u0301fica | Legado e impacto ||---|---|| Richard Feynman | Fi\u0301sico teo\u0301rico conocido por su trabajo en electrodina\u0301mica cua\u0301ntica, fi\u0301sica de parti\u0301culas y computacio\u0301n cua\u0301ntica. |",
+            "texto": "La tabla contiene informacio\u0301n sobre el legado e impacto de Richard Feynman, un fi\u0301sico teo\u0301rico conocido por su trabajo en electrodina\u0301mica cua\u0301ntica, fi\u0301sica de parti\u0301culas y computacio\u0301n cua\u0301ntica."
+        },
+        {
+            "id": "c6161f96-8764-4ae5-ba75-e5c995bde5ed",
+            "table": "| Pa\u00eds | Poblaci\u00f3n ||---|---|| China | 1.444 mil millones || India | 1.393 mil millones |",
+            "texto": "La tabla muestra pa\u00edses y su poblaci\u00f3n. China, con una poblaci\u00f3n de 1.444 mil millones. India, con una poblaci\u00f3n de 1.393 mil millones."
+        },
+        {
+            "id": "8352a4af-6420-472b-bda6-818e82de1b6b",
+            "table": "| Misio\u0301n espacial | Agencia espacial ||---|---|| Apolo 11 | NASA || Shenzhou 5 | CNSA |",
+            "texto": "La tabla muestra dos misiones espaciales significativas y sus agencias espaciales correspondientes. La primera fila indica la misio\u0301n Apolo 11 llevada a cabo por la NASA. La segunda fila muestra la misio\u0301n Shenzhou 5, realizada por la CNSA."
+        },
+        {
+            "id": "b588f5b3-4e35-4191-b2ee-6bc08a30fafb",
+            "table": "| Pai\u0301s | Consumo per capita (Base 100) ||---|---|| Paraguay | 120 || Uruguay | 150 |",
+            "texto": "La tabla muestra paises y el consumo per ca\u0301pita de base 100. Paraguay tiene un consumo per capita de 120. Uruguay tiene un consumo per ca\u0301pita de 150."
+        },
+        {
+            "id": "b293ffb4-6bee-4228-ae03-18afc728d0ba",
+            "table": "| Alfabetizaci\u00f3n de adultos | Tasa de matr\u00edcula en la educaci\u00f3n superior | Gasto p\u00fablico en educaci\u00f3n (% del PIB) ||---|---|---|| 86,3% | 38% | 4,6% |",
+            "texto": "La tabla muestra informaci\u00f3n de la alfabetizaci\u00f3n de adultos, la tasa de matr\u00edcula en la educaci\u00f3n superior y el gasto p\u00fablico en educaci\u00f3n en porcentaje del PIB. La alfabetizaci\u00f3n de adultos es del 86,3%, la tasa de matr\u00edcula en la educaci\u00f3n superior es del 38% y el gasto p\u00fablico en educaci\u00f3n es del 4,6% del PIB."
+        },
+        {
+            "id": "f97d9e93-c0c4-40b3-a7cd-1963f2ed5c07",
+            "table": "| Marca | Modelo | An\u0303o ||---|---|---|| BMW | M3 | 2023 || Tesla | Model S | 2022 || Toyota | Camry | 2021 |",
+            "texto": "La tabla contiene informacio\u0301n sobre tres modelos de automo\u0301viles fabricados por diferentes marcas: un BMW M3 fabricado en 2023, un Tesla Model S fabricado en 2022 y un Toyota Camry fabricado en 2021."
+        },
+        {
+            "id": "4edb7b2a-972a-4d09-879f-e6cd09bdcf78",
+            "table": "| Pa\u00eds | Tasa de alfabetizaci\u00f3n | N\u00famero de bibliotecas p\u00fablicas ||---|---|---|| Finlandia | 99,8% | 75 por cada 100k habitantes || Jap\u00f3n | 99,9% | 55 por cada 100k habitantes |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su tasa de alfabetizaci\u00f3n y el n\u00famero de bibliotecas p\u00fablicas. Finlandia tiene la tasa de alfabetizaci\u00f3n del 99,8% y en el n\u00famero de bibliotecas p\u00fablicas es 75 por cada 1000 mil habilitantes. Jap\u00f3n tiene la tasa de alfabetizaci\u00f3n del 99,9% y en el n\u00famero de bibliotecas p\u00fablicas es 55 por cada 100 mil habitantes."
+        },
+        {
+            "id": "b5ee1434-d61a-41e9-bbda-ec0c64a8de6d",
+            "table": "| Nombre | Apellido ||---|---|| Rau\u0301l Eduardo | Jime\u0301nez || Marta Elena | Herrera |",
+            "texto": "La tabla muestra nombres y apellidos. Nombre Rau\u0301l Eduardo, apellido Jime\u0301nez. Nombre Marta Elena, apellido Herrera."
+        },
+        {
+            "id": "534c279d-510b-4179-85a1-5f6173e315f3",
+            "table": "| Especie de planta | Ha\u0301bitat natural ||---|---|| Acacia | A\u0301frica || Cocotero | Playas tropicales |",
+            "texto": "La tabla contiene informacio\u0301n sobre dos especies de plantas, incluyendo su especie y ha\u0301bitat natural. La Acacia se encuentra en A\u0301frica, mientras que el Cocotero se encuentra en las playas tropicales."
+        },
+        {
+            "id": "81bd3a29-9dea-4ea5-8f15-de04c27b7162",
+            "table": "|| Fecha de nacimiento || ----------- || 3 de agosto de 1851 |",
+            "texto": "Esta tabla contiene informacio\u0301n sobre la fecha de nacimiento de un individuo, que es el 3 de agosto de 1851."
+        },
+        {
+            "id": "5ae89669-6829-4eaf-9b66-6cee88206c3a",
+            "table": "| Ranking | Pai\u0301ses | Toneladas de CO2 (millones) ||:---:|:---:|:---:|| 1 | China | 10.065 || 2 | Estados Unidos | 5.415 |",
+            "texto": "La tabla muestra un ranking, pai\u0301ses y las toneladas de CO2 en millones. En el n\u00famero 1 del ranking, esta China con 10.065 millones de toneladas de CO2. En el n\u00famero 2 del ranking, esta Estados Unidos con 5.415 millones de toneladas de CO2."
+        },
+        {
+            "id": "1d446fb5-ba38-431d-83cb-e2a72685447c",
+            "table": "| Deporte | Nu\u0301mero de personas ||---|---|| Atletismo | 500 |",
+            "texto": "La tabla muestra informacio\u0301n sobre el nu\u0301mero de personas que practican atletismo, con una cifra de 500."
+        },
+        {
+            "id": "1027f405-fad5-4085-a4fd-20cc513052e8",
+            "table": "| Pai\u0301s | Cantidad de especies de aves ||---|---|| India | 1.350 || Colombia | 1.900 || Peru\u0301 | 1.814 |",
+            "texto": "La tabla muestra pa\u00edses y la cantidad de especies de aves. India tiene 1.350. Colombia tiene 1.900. Peru\u0301 tiene 1.814."
+        },
+        {
+            "id": "83e7d609-8248-4581-a9d8-7400a1c5a7cd",
+            "table": "| Continente | Poblacio\u0301n (millones) | Porcentaje de la Poblacio\u0301n Total ||---|---|---|| Ame\u0301rica del Norte | 369 | 4,77% |",
+            "texto": "La tabla muestra el continente, la poblacio\u0301n en millones y el porcentaje de la poblacio\u0301n total. Ame\u0301rica del Norte tiene una poblacio\u0301n de 369 millones y el porcentaje de la poblacio\u0301n total de 4,77%."
+        },
+        {
+            "id": "4714ab01-e227-4a36-8a90-db2ac52cfdc2",
+            "table": "| Alimento | Cantidad de Protei\u0301nas ||---|---|| Leche | 8g || Huevo | 6g || Carne | 20g |",
+            "texto": "La tabla muestra la cantidad de protei\u0301nas en diferentes alimentos. La leche contiene 8 gramos de protei\u0301nas, el huevo contiene 6 gramos de protei\u0301nas y la carne contiene 20 gramos de protei\u0301nas."
+        },
+        {
+            "id": "e61ccd04-77aa-41a0-806a-4e8d36dd4bf7",
+            "table": "| \u00c1rea de Ciencia | Avances Tecnol\u00f3gicos | Impacto Social ||---|---|---|| Inteligencia Artificial | Sistemas de aprendizaje autom\u00e1tico, automatizaci\u00f3n, reconocimiento de patrones | Mejora de la eficiencia, precisi\u00f3n y accesibilidad en diversos sectores | Biotecnolog\u00eda | Ingenier\u00eda gen\u00e9tica, medicina personalizada, terapias novedosas | Avance en el tratamiento de enfermedades, mejora de la salud y la calidad de vida |",
+            "texto": "En el \u00e1rea de Ciencia est\u00e1 la Inteligencia Artificial con avances tecnol\u00f3gicos de sistemas de aprendizaje autom\u00e1tico, automatizaci\u00f3n, reconocimiento de patrones y su impacto social es que mejora de la eficiencia, precisi\u00f3n y accesibilidad en diversos sectores, en el \u00e1rea de ciencia se encuentra tambi\u00e9n la biotecnolog\u00eda en sus avances tecnol\u00f3gicos est\u00e1 la ingenier\u00eda gen\u00e9tica, medicina personalizada, terapias novedosas con impacto social en el avance en el tratamiento de enfermedades, mejora de la salud y la calidad de vida "
+        },
+        {
+            "id": "53a5985c-1547-49a3-8e21-db8de5440d4f",
+            "table": "| Regio\u0301n | Nivel de ingresos ||---|---|| Ame\u0301rica Latina y el Caribe | Medio bajo |",
+            "texto": "La tabla muestra que la regio\u0301n de Ame\u0301rica Latina y el Caribe tiene un nivel de ingresos medio bajo."
+        },
+        {
+            "id": "3ea677dd-cca4-43dc-bc43-431211d22fd8",
+            "table": "| Parte | Descripcio\u0301n ||:---|:---|| Cubierta | Imagen o disen\u0303o que identifica el libro || Lomo | Parte trasera del libro que une la cubierta y las pa\u0301ginas interiores || Pa\u0301ginas | Hojas impresas que contienen el texto o las ilustraciones |",
+            "texto": "La tabla muestra partes de un libro y la descripcio\u0301n. La cubierta, presenta una imagen o disen\u0303o que identifica el libro. El lomo, es la parte trasera del libro que une la cubierta y las pa\u0301ginas interiores. Las pa\u0301ginas, son las hojas impresas que contienen el texto o las ilustraciones."
+        },
+        {
+            "id": "f901db0b-3d53-4f12-a1a4-e81f1e0ba9ec",
+            "table": "| Reciclaje ||------|| Convertir residuos en nuevos productos |",
+            "texto": "La tabla muestra que una forma de reciclaje es convertir residuos en nuevos productos."
+        },
+        {
+            "id": "663ea52a-03af-444e-a805-e81dd867d39f",
+            "table": "| Fecha de nacimiento ||---|| 4 de diciembre de 2012 |",
+            "texto": "Esta tabla proporciona una fecha de nacimiento que es el 4 de diciembre de 2012."
+        },
+        {
+            "id": "5392bae0-f6cf-4ca9-a278-2662c5846779",
+            "table": "| Invento tecnolo\u0301gico revolucionario ||---|| Transistor |",
+            "texto": "Esta tabla contiene el Transistores como un invento tecnolo\u0301gico revolucionario."
+        },
+        {
+            "id": "30b24dae-70a5-4a6a-9068-ed8c3f3ad198",
+            "table": "| Nombre | Apellido | Edad ||---|---|---|| John | Doe | 30 || Jane | Smith | 32 || David | Brown | 28 |",
+            "texto": "La tabla proporciona informacio\u0301n personal como el nombre, apellido y la edad sobre tres personas individuos: John Doe tiene 30 an\u0303os de edad, Jane Smith tiene 32 an\u0303os de edad y David Brown tiene 28 an\u0303os de edad."
+        },
+        {
+            "id": "8fa1d136-bfb8-4e6d-a453-43d39d5cd03d",
+            "table": "| Productos || --- || Tijeras || Colores |",
+            "texto": "La tabla muestra productos como tijeras y colores."
+        },
+        {
+            "id": "32f471cf-1ae9-4f93-8abd-263dd790de89",
+            "table": "| Censos ||------|| Primer Censo de Poblacio\u0301n y Vivienda (1878) || Segundo Censo de Poblacio\u0301n y Vivienda (1913) |",
+            "texto": "La tabla muestra censos, el primer censo de poblacio\u0301n y vivienda realizado en 1878 y el segundo censo de poblacio\u0301n y vivienda en 1913."
+        },
+        {
+            "id": "0e2fc0b6-90d6-4ff3-84ee-3ad91c4e99e0",
+            "table": "| Avances Cient\u00edficos | A\u00f1o | Impacto ||---|---|---|| Descubrimiento de la penicilina | 1928 | Revoluciono el tratamiento de infecciones || Invenci\u00f3n del transistor | 1947 | Base de los dispositivos electr\u00f3nicos modernos || Primer viaje a la Luna | 1969 | Marco un hito en la exploraci\u00f3n espacial |",
+            "texto": "La tabla presenta hitos cient\u00edficos y tecnol\u00f3gicos importantes, junto con sus a\u00f1os de ocurrencia e impacto en el mundo. El descubrimiento de la penicilina en 1928 transformo dr\u00e1sticamente el tratamiento de las infecciones, mientras que la invenci\u00f3n del transistor en 1947 allano el camino para la era moderna de la electr\u00f3nica. El primer viaje tripulado a la Luna en 1969 represento un logro sin precedentes en la exploraci\u00f3n espacial."
+        },
+        {
+            "id": "581384e9-0eea-4ccc-877a-67d9d7ded169",
+            "table": "| Animal | H\u00e1bitat | Alimentaci\u00f3n ||---|---|---|| Ballena azul | Oc\u00e9anos | Plancton |",
+            "texto": "La tabla muestra el animal, el h\u00e1bitat y su alimentaci\u00f3n. La Ballena azul, que habita en los oc\u00e9anos y se alimenta de plancton."
+        },
+        {
+            "id": "ab31e0ba-d8bb-48ff-92fc-8b9b119962b1",
+            "table": "| Alimento | Cantidad de protei\u0301nas ||---|---|| Ciervo | 25g || Gambas | 20g || Requeso\u0301n | 18g |",
+            "texto": "La tabla muestra la cantidad de protei\u0301nas en diferentes alimentos. El ciervo contiene 25 gramos de protei\u0301nas, las gambas contienen 20 gramos de protei\u0301na y el requeso\u0301n contiene 18 gramos de protei\u0301na."
+        },
+        {
+            "id": "f26ce849-641b-4dc0-a3c3-d43cf0b95c13",
+            "table": "| Nombre | Curso ||---|---|| Juan Pe\u0301rez | Matema\u0301ticas || Manuel Gonza\u0301lez | Historia |",
+            "texto": "La tabla muestra el nombre y su curso. Juan Pe\u0301rez esta\u0301 cursando Matema\u0301ticas. Manuel Gonza\u0301lez esta\u0301 cursando Historia."
+        },
+        {
+            "id": "1bb3427f-54d1-4d6e-9c23-33173892bc52",
+            "table": "| Alumnos ||:---|| Mari\u0301a del Carmen Ferna\u0301ndez || Juan Carlos Garci\u0301a |",
+            "texto": "La tabla contiene los nombres completos de los alumnos Mari\u0301a del Carmen Ferna\u0301ndez y Juan Carlos Garci\u0301a."
+        },
+        {
+            "id": "b4d7c1ad-a9b6-4864-bd61-201fd09553ef",
+            "table": "| Ha\u0301bitat | Amenazas ||---|---|| Selvas tropicales | Deforestacio\u0301n, fragmentacio\u0301n, caza |",
+            "texto": "La tabla muestra el ha\u0301bitat y las amenazas que enfrenta. Las selvas tropicales tiene como amenazas la deforestacio\u0301n, fragmentacio\u0301n y caza."
+        },
+        {
+            "id": "8093187d-9408-4f06-9d28-eea7d56d4f77",
+            "table": "| Elemento de la Tabla Perio\u0301dica | Propiedades ||---|---|| Helio | Gas inerte, no inflamable, no to\u0301xico || Carbono | So\u0301lido, no meta\u0301lico, puede formar enlaces covalentes || Hierro | Metal de transicio\u0301n, magne\u0301tico, conductor de electricidad |",
+            "texto": "Esta tabla enumera tres elementos de la Tabla Perio\u0301dica y sus propiedades ma\u0301s destacadas. La primera fila describe el helio como un gas inerte, no inflamable, no to\u0301xico. La segunda fila destaca el carbono como un so\u0301lido no meta\u0301lico capaz de formar enlaces covalentes. Finalmente, la tercera fila presenta el hierro como un metal de transicio\u0301n con propiedades magne\u0301ticas y conductoras de electricidad ."
+        },
+        {
+            "id": "e6fbe2c7-00be-4392-82d4-93828fcc9de8",
+            "table": "| Cantidad de turistas ||---|| Peru\u0301 en 2021, que fueron 2,4 millones |",
+            "texto": "La tabla muestra el nu\u0301mero de turistas que visitaron Peru\u0301 en 2021, que fueron 2,4 millones."
+        },
+        {
+            "id": "6b967e63-2e54-41ac-95e1-0d73d118cde4",
+            "table": "| Regi\u00f3n | Porcentaje de la Poblaci\u00f3n Mundial ||---|---|| Asia | 60% || \u00c1frica | 16% || Europa | 10% |",
+            "texto": "La tabla muestra regiones con el porcentaje de la poblaci\u00f3n mundial. Asia alberga el 60%. \u00c1frica con el 16%. Europa con el 10%."
+        },
+        {
+            "id": "829b47d4-5f49-4d41-bd52-d8ef8f840f6d",
+            "table": "| Pai\u0301ses | Porcentaje de poblacio\u0301n en aglomeraciones urbanas | Porcentaje de territorio ocupado por a\u0301reas forestales ||---|---|---|| Francia | 75% | 31% || Be\u0301lgica | 98% | 22% |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su porcentaje de poblaci\u00f3n en aglomeraciones urbanas y su porcentaje de territorio ocupado por \u00e1reas forestales. Francia tiene un porcentaje de poblaci\u00f3n en aglomeraciones urbanas del 75% y un porcentaje de territorio ocupado por \u00e1reas forestales del 31%. Be\u0301lgica tiene un porcentaje de poblaci\u00f3n en aglomeraciones urbanas del 98% y un porcentaje de territorio ocupado por \u00e1reas forestales del 22%."
+        },
+        {
+            "id": "4fdf0fea-8751-4ffd-911e-896615e0c2a6",
+            "table": "| Colegios del Ecuador ||----|| Colegio La Dolorosa (Loja) || Unidad Educativa San Juan Bautista La Salle Loja (Loja) || Colegio Beatriz De Ayora (Loja) |",
+            "texto": "La tabla muestra colegios del Ecuador como el Colegio La Dolorosa, Unidad Educativa San Juan Bautista La Salle y Colegio Beatriz De Ayora, todos en Loja."
+        },
+        {
+            "id": "f6b57af7-4e70-435c-9e48-722bd48afc75",
+            "table": "| Provincia ||-------|| Imbabura tiene 398.000 habitantes |",
+            "texto": "La tabla muestra la provincia de Imbabura, que tiene 398.000 habitantes."
+        },
+        {
+            "id": "623ed911-e8c8-4c25-b4ae-ea9b4d945bb8",
+            "table": "| Censos ||------|| 1790 || 1850 |",
+            "texto": "La tabla muestra censos, en 1790 y 1850."
+        },
+        {
+            "id": "28911b01-5c7a-413c-8a71-880cdd99fde6",
+            "table": "| Aves || --- || Gavila\u0301n || Canario |",
+            "texto": "La tabla muestra aves, se nombra el gavila\u0301n y el canario."
+        },
+        {
+            "id": "eb56b163-bb34-4f93-872d-3acbf0068bf6",
+            "table": "| Movimiento | Autor | Obra arti\u0301stica ||---|---|---|| Impresionismo | Claude Monet | Impresio\u0301n, amanecer || Expresionismo | Paul Klee | Castillo y sol || Abstraccionismo | Paul Klee | Asi\u0301 es como funciona el pez |",
+            "texto": "La tabla muestra el movimiento arti\u0301stico, el autor y una obra representativa del movimiento. Claude Monet es un artista impresionista y su obra \"Impresio\u0301n, amanecer\" es representativa de este movimiento. Paul Klee es un artista expresionista y \"Castillo y sol\" es una de sus obras caracteri\u0301sticas. Paul Klee tambie\u0301n es un artista abstracto y \"Asi\u0301 es como funciona el pez\" es una obra representativa del abstraccionismo."
+        },
+        {
+            "id": "7b01459c-0e45-47de-8ea6-15622be45e6e",
+            "table": "| Colegios del Ecuador ||-----|| Centro de Estudios Espi\u0301ritu Santo (Guayaquil) || Centro Educativo Balandra Cruz del Sur (Guayaquil) || Centro Educativo Miraflores (Guayaquil) |",
+            "texto": "La tabla muestra colegios del Ecuador como el Centro de Estudios Espi\u0301ritu Santo, Centro Educativo Balandra Cruz del Sur y Centro Educativo Miraflores, todoss en Guayaquil."
+        },
+        {
+            "id": "9e5c6bdd-6a2c-4368-bee5-dbece6bb7b21",
+            "table": "| Diferencias | Animal | Vegetal ||---|---|---|| Locomocio\u0301n | Mo\u0301vil | Inmo\u0301vil || Nutricio\u0301n | Hetero\u0301trofo | Auto\u0301trofo || Crecimiento | Crecimiento determinado | Crecimiento indeterminado |",
+            "texto": "La tabla describe las diferencias entre animales y vegetales. En locomocio\u0301n los animales son mo\u0301viles y los vegetales son inmo\u0301viles. En nutricio\u0301n los animales son hetero\u0301trofos y los vegetales son auto\u0301trofos. En el crecimiento los animales tienen un crecimiento determinado y los vegetales tienen un crecimiento indeterminado."
+        },
+        {
+            "id": "2a672578-f98e-470a-8bf9-de25febfbb68",
+            "table": "| Nivel educativo | Tasa de alfabetizaci\u00f3n | Acceso a la cultura ||---|---|---|| Educaci\u00f3n secundaria | 72% | 60% |",
+            "texto": "La tabla muestra informaci\u00f3n del nivel educativo, su tasa de alfabetizaci\u00f3n y el acceso a la cultura. El nivel educativo de educaci\u00f3n secundaria, su tasa de alfabetizaci\u00f3n es del 72% y un acceso a la cultura del 60%."
+        },
+        {
+            "id": "b98f686e-41ae-413c-b990-5dd8b6e0ddc2",
+            "table": "| Provincia | Programa ||---|---|| Azuay | Lengua y Literatura || Guayas | Ciencias Naturales |",
+            "texto": "La tabla muestra las provincias y su programa. Azuay tiene en su programa lengua y literatura. Guayas tiene en su programa ciencias naturales."
+        },
+        {
+            "id": "d2c77e25-91e3-4634-bcf7-7b1d3661065a",
+            "table": "| Calidad Educativa ||---|| Conceptos Asociados: Excelencia, Equidad, Inclusio\u0301n, Pertinencia, Mejoramiento Continuo |",
+            "texto": "Esta tabla presenta conceptos asociados a la Calidad Educativa: Excelencia, Equidad, Inclusio\u0301n, Pertinencia y Mejoramiento Continuo."
+        },
+        {
+            "id": "ce8bcab0-bbbf-4b0d-b1e5-47cdb055e1c6",
+            "table": "| Pa\u00eds | Capital | Superficie (km cuadrados) ||---|---|---|| Alemania | Berl\u00edn | 349.223 || Francia | Par\u00eds | 551.695 || B\u00e9lgica | Bruselas | 30.689 |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, sus capitales y superficies. Alemania su capital es Berl\u00edn y tiene una superficie de 349.223 kil\u00f3metros cuadrados. Francia su capital es Par\u00eds y tiene una superficie de 551.695 kil\u00f3metros cuadrados. B\u00e9lgica su capital es Bruselas y tiene una superficie de 30.689 kil\u00f3metros cuadrados."
+        },
+        {
+            "id": "808a1dfe-5f84-4355-ad71-7714ee42478f",
+            "table": "| Natalidad ||--------|| Argentina: 17,8 nacimientos por 1.000 habitantes en 2019 |",
+            "texto": "La tabla muestra la tasas de natalidad de Argentina que tiene la tasa de natalidad de 17,8 nacimientos por cada 1.000 habitantes en 2019."
+        },
+        {
+            "id": "7cb3f2de-4ca4-4885-b955-e214d2f46f9f",
+            "table": "| Alumnos || --- || Juan Jose\u0301 Rodri\u0301guez || Mari\u0301a Fernanda Pe\u0301rez |",
+            "texto": "La tabla contiene los nombres completos de los alumnos Juan Jose\u0301 Rodri\u0301guez y Mari\u0301a Fernanda Pe\u0301rez."
+        },
+        {
+            "id": "10b7b98e-41e0-4ab9-bd8a-faea1714766a",
+            "table": "| Pai\u0301s | Anfibios | Plantas vasculares ||---|---|---|| Uruguay | 96 | 2.512 || Venezuela | 324 | 11.800 |",
+            "texto": "La tabla muestra el nu\u0301mero de especies de anfibios y plantas vasculares. Uruguay tiene 96 especies de anfibios y 2.512 especies de plantas vasculares. Venezuela tiene 324 especies de anfibios y 11.800 especies de plantas vasculares."
+        },
+        {
+            "id": "3c4acf0a-c844-460b-9985-cc57f92b7404",
+            "table": "| Grupo de edad | Asia ||---|---|| 0-14 an\u0303os | 1.500 millones |",
+            "texto": "La tabla muestra que en Asia, hay aproximadamente 1.500 millones de personas en el grupo de edad entre 0 y 14 an\u0303os."
+        },
+        {
+            "id": "649fc0bc-083b-4e5b-9dab-69e7d33524bd",
+            "table": "| Misio\u0301n espacial | Agencia espacial ||---|---|| Apolo 11 | NASA || Luna 21 | Unio\u0301n Sovie\u0301tica |",
+            "texto": "La tabla contiene informacio\u0301n sobre dos misiones espaciales y sus respectivas agencias espaciales: la misio\u0301n Apolo 11, realizada por la NASA, y la misio\u0301n Luna 21, realizada por la Unio\u0301n Sovie\u0301tica."
+        },
+        {
+            "id": "9e79b1ee-2808-4941-bfe8-210644d461be",
+            "table": "| Pai\u0301s de origen de futbolistas famosos ||------|| Paraguay con Roque Santa Cruz, Nelson Haedo Valdez || Costa Rica con Bryan Ruiz, Keylor Navas || Serbia con Luka Jovic, Nemanja Matic |",
+            "texto": "La tabla muestra los pai\u0301ses de origen de futbolistas famosos como Paraguay con Roque Santa Cruz y Nelson Haedo Valdez, Costa Rica con Bryan Ruiz y Keylor Navas, y Serbia con Luka Jovic y Nemanja Matic."
+        },
+        {
+            "id": "b6a60588-bf80-4eb2-b1a3-dd64f3a1f1e6",
+            "table": "| Tipo de bosque | Hecta\u0301reas | % bosque ||---|---|---|| Mangle | 958.893 | 2,59% |",
+            "texto": "La tabla muestra informaci\u00f3n del tipo de bosque, sus hect\u00e1reas y su porcentaje de bosque. El mangle cubre 958.893 de hecta\u0301reas y representa el 2,59% del bosque."
+        },
+        {
+            "id": "17748c87-0486-4487-b824-54529a8f3a4b",
+            "table": "| Ventajas | Desventajas ||---|---|| Mejora de la motivacio\u0301n y el compromiso | Requiere acceso a dispositivos y conexio\u0301n a internet || Personalizacio\u0301n del aprendizaje | Puede ser costoso de implementar || Acceso a recursos interactivos y multimedia | Dependencia de la tecnologi\u0301a y posibles problemas te\u0301cnicos |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja mejora de la motivacio\u0301n y el compromiso, como desventaja requiere acceso a dispositivos y conexio\u0301n a internet. Como ventaja permite la personalizacio\u0301n del aprendizaje, como desventaja puede ser costoso de implementar. Como ventaja tiene acceso a recursos interactivos y multimedia, como desventaja tiene dependencia de la tecnologi\u0301a y posibles problemas te\u0301cnicos."
+        },
+        {
+            "id": "8d57cb25-baee-44ec-8d27-e65675ecf3b9",
+            "table": "| Proyecciones de poblacio\u0301n ||-----|| En 2050, se preve\u0301 que la poblacio\u0301n mundial alcance los 9.700 millones de habitantes. |",
+            "texto": "La tabla proporciona proyecciones de poblacio\u0301n para el an\u0303o 2050, indicando que se preve\u0301 que la poblacio\u0301n mundial alcance los 9.700 millones de habitantes."
+        },
+        {
+            "id": "d27cef82-375e-4eae-b3ad-a067e620eed5",
+            "table": "| Tasa de Alfabetizaci\u00f3n Global | Oferta de Educaci\u00f3n Secundaria Global | Brecha de G\u00e9nero en Educaci\u00f3n ||---|---|---|| 86% | 84% | 6% (en favor de los hombres) |",
+            "texto": "La tabla presenta informaci\u00f3n de la tasa de alfabetizaci\u00f3n global, la oferta de educaci\u00f3n superior global y la brecha de g\u00e9nero en educaci\u00f3n. La tasa de alfabetizaci\u00f3n global es del 86%, la oferta de educaci\u00f3n secundaria global es del 84% y la brecha de g\u00e9nero en educaci\u00f3n es del 6% en favor de los hombres."
+        },
+        {
+            "id": "0ff71548-d617-4470-ad80-94699179dadf",
+            "table": "| Pa\u00eds | Tasa de Alfabetizaci\u00f3n | Gasto en Cultura por Habitante ||---|---|---|| Estados Unidos | 99% | 1,400 USD || Jap\u00f3n | 99,9% | 900 USD || Brasil | 92% | 250 USD |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su tasa de alfabetizaci\u00f3n y su gasto en cultura por habitante. Estados Unidos tiene una tasa de alfabetizaci\u00f3n del 99% y un gasto en cultura por habitante de 1,400 USD. Jap\u00f3n tiene una tasa de alfabetizaci\u00f3n del 99,9% y un gasto en cultura por habitante de 900 USD. Brasil tiene una tasa de alfabetizaci\u00f3n del 92% y un gasto en cultura por habitante de 250 USD."
+        },
+        {
+            "id": "7bc45175-ece9-45c3-a181-33301ca39cca",
+            "table": "| Mami\u0301feros || --- || Delfi\u0301n || Murcie\u0301lago |",
+            "texto": "La tabla muestra mami\u0301feros, se nombra al delfi\u0301n y al murcie\u0301lago."
+        },
+        {
+            "id": "f564c0b4-a087-4735-9f21-c9190b7d19a5",
+            "table": "| Campo | Dato ||---|---|| T\u00edtulo | \"El Origen de las Especies\" || Autor | Charles Darwin || Fecha de Publicaci\u00f3n | 24 de noviembre de 1859 |",
+            "texto": "La tabla muestra campos y sus datos correspondientes. El t\u00edtulo es \"El Origen de las Especies\". El autor es Charles Darwin. La fecha de publicaci\u00f3n es el 24 de noviembre de 1859."
+        },
+        {
+            "id": "16be588b-87ab-436c-8f2b-dfdd6b3e2ef4",
+            "table": "| Pai\u0301ses de Asia || --- || Arabia Saudita || Banglad\u00e9s|",
+            "texto": "La tabla menciona pai\u0301ses de Asia como Arabia Saudita y Banglad\u00e9s."
+        },
+        {
+            "id": "718e3972-b71d-4b00-84e3-e235a55cf2cd",
+            "table": "| Medio Ambiente | Animales | Plantas ||---|---|---|| Conservaci\u00f3n de la biodiversidad, reducci\u00f3n de la contaminaci\u00f3n, mitigaci\u00f3n del cambio clim\u00e1tico | Protecci\u00f3n de especies en peligro de extinci\u00f3n, bienestar animal, derechos de los animales | Conservaci\u00f3n de los ecosistemas, reforestaci\u00f3n, agricultura sostenible |",
+            "texto": "La tabla muestra informaci\u00f3n sobre medio ambiente, animales, plantas. En medio ambiente es la conservaci\u00f3n de la biodiversidad, reducir la contaminaci\u00f3n y mitigar el cambio clim\u00e1tico; en los animales se centra en la protecci\u00f3n de especies en peligro de extinci\u00f3n, el bienestar animal y los derechos de los animales; y las plantas abarca la conservaci\u00f3n de los ecosistemas, la reforestaci\u00f3n y la agricultura sostenible."
+        },
+        {
+            "id": "848593b2-1ed2-4ef5-97a0-e84513d59d84",
+            "table": "|Provincia ||-------|| Manabi\u0301 tiene 1.395.000 habitantes |",
+            "texto": "La tabla muestra la provincia de Manabi\u0301, que tiene 1.395.000 habitantes."
+        },
+        {
+            "id": "2803ce38-1f86-45e1-8730-34b8870c54e2",
+            "table": "| Tipo de sangre ||---|| O- |",
+            "texto": ": La tabla contiene el tipo de sangre de una persona, que es O-."
+        },
+        {
+            "id": "92502c98-ffd2-492a-b716-ce332ff7fafe",
+            "table": "| Deportistas destacados || --- || Serena Williams || Usain Bolt |",
+            "texto": "La tabla menciona deportistas destacados como Serena Williams y Usain Bolt."
+        },
+        {
+            "id": "d64671d1-db4f-4a69-b07f-4840e72f1cf8",
+            "table": "| Flora nativa del Ecuador ||------|| Chuquiragua : flores vistosas de color naranja o amarillo de hasta 2 cm de largo |",
+            "texto": "La tabla muestra informacio\u0301n sobre una especie de flora nativa del Ecuador, la Chuquiragua, que tiene flores vistosas de color naranja o amarillo de hasta 2 cm de largo."
+        },
+        {
+            "id": "208d77ed-6695-4e05-86da-fa6e134d1b94",
+            "table": "| Dispositivos electro\u0301nicos | Funciones ||---|---|| Refrigerador | Preservar alimentos a temperaturas bajas || Licuadora | Mezclar y triturar ingredientes || Tostadora | Tostar pan |",
+            "texto": "La tabla presenta las funciones de tres dispositivos electr\u00f3nicos: el refrigerador se utiliza para preservar alimentos a temperaturas bajas; la licuadora se emplea para mezclar y triturar ingredientes; y la tostadora sirve para tostar pan."
+        },
+        {
+            "id": "f3ede4ba-eb8d-43e0-8a32-f498ac1b7912",
+            "table": "| A 1000 m de altura || --- || Temp. di\u0301a: 15\u00baC || Temp. noche: 5\u00baC |",
+            "texto": "La tabla muestra temperaturas a 1000 m de altura. Detalla la temperatura durante el di\u0301a y la noche: 15\u00baC y 5\u00baC, respectivamente."
+        },
+        {
+            "id": "e1d97b0f-19a9-44b3-860f-01d71860f284",
+            "table": "| Pai\u0301ses del continente americano || --- || Estados Unidos || Brasil |",
+            "texto": "La tabla muestra pai\u0301ses del continente americano como Estados Unidos y Brasil."
+        },
+        {
+            "id": "cdc86961-d65c-4053-bda8-df203ef79f2b",
+            "table": "| Deportista | Deporte | Pai\u0301s ||---|---|---|| Gilberto Angelucci | Fu\u0301tbol | Venezuela || Andre\u0301s Tu\u0301n\u0303ez | Fu\u0301tbol | Venezuela || Salomo\u0301n Rondo\u0301n | Fu\u0301tbol | Venezuela |",
+            "texto": "La tabla contiene informaci\u00f3n sobre deportistas, sus deportes y sus pa\u00edses de origen. Gilberto Angelucci es un futbolista venezolano. Andre\u0301s Tu\u0301n\u0303ez es un futbolista venezolano. Salomo\u0301n Rondo\u0301n es un futbolista venezolano."
+        },
+        {
+            "id": "42959533-c658-448c-94ac-8c674bb5829d",
+            "table": "| Pai\u0301ses de Europa ||---|| Eslovaquia || Eslovenia |",
+            "texto": "La tabla muestra pai\u0301ses del continente europeo como Eslovaquia y Eslovenia."
+        },
+        {
+            "id": "1d7aea42-9fd3-4c7a-9d3d-94d77548f316",
+            "table": "| Deporte | Nu\u0301mero de personas ||-----|-----|| Tenis | 150 |",
+            "texto": "La tabla muestra informacio\u0301n sobre el nu\u0301mero de personas que practican tenis, con una cifra de 150."
+        },
+        {
+            "id": "b2ec614a-c1d9-4c23-9cd3-9777c5b538f1",
+            "table": "| Pa\u00eds | Poblaci\u00f3n (millones) | Esperanza de vida al nacer (a\u00f1os) ||---|---|---|| China | 1.444 | 77,4 || India | 1.423 | 70,8 || Estados Unidos | 333 | 77,8 |",
+            "texto": "La tabla muestra informaci\u00f3n sobre pa\u00edses, su poblaci\u00f3n y esperanza de vida. China tiene una poblaci\u00f3n de 1.444 millones y una esperanza de vida de 77,4 a\u00f1os. India tiene una poblaci\u00f3n de 1.423 millones y una esperanza de vida de 70,8 a\u00f1os. Estados Unidos tiene una poblaci\u00f3n de 333 millones y una esperanza de vida de 77,8 a\u00f1os."
+        },
+        {
+            "id": "75255e73-f697-4480-a467-47c53402856e",
+            "table": "| Nombre completo | Edad | Pasatiempo ||---|---|---|| Mari\u0301a Pe\u0301rez Di\u0301az | 25 | Senderismo |",
+            "texto": "La tabla contiene informacio\u0301n sobre el nombre, la edad y el pasatiempo. Mari\u0301a Pe\u0301rez Di\u0301az tiene 25 an\u0303os y tiene como pasatiempo el senderismo."
+        },
+        {
+            "id": "f3bb556a-9ef4-4535-bb9f-0770308f1c87",
+            "table": "| Enfermedades cardiovasculares | Si\u0301ntomas || --- | --- || Angina de pecho | Dolor o presio\u0301n en el pecho, falta de aliento || Infarto de miocardio | Dolor o presio\u0301n intensa en el pecho, dificultad para respirar, na\u0301useas || Insuficiencia cardi\u0301aca | Fatiga, hinchazo\u0301n de pies y tobillos, falta de aliento |",
+            "texto": "Esta tabla enumera tres enfermedades cardiovasculares y sus si\u0301ntomas asociados. La Angina de pecho provoca dolor o presio\u0301n en el pecho y falta de aliento. El Infarto de miocardio presenta un dolor o presio\u0301n intensa en el pecho, dificultad para respirar y na\u0301useas. La Insuficiencia cardi\u0301aca se manifiesta con fatiga, hinchazo\u0301n de pies y tobillos, y falta de aliento."
+        },
+        {
+            "id": "9af6c5dc-398c-44d6-9084-903bcadfae80",
+            "table": "| No | Nombre Comu\u0301n | Nombre Cienti\u0301fico ||---|---|---|| 10 | Mariposa cartero | Heliconius || 11 | Aran\u0303a pollito | Grammostola rosea || 12 | Hormigas amazo\u0301nicas | Atta cephalotes |",
+            "texto": "La tabla menciona un n\u00famero, nombres comunes y nombres cient\u00edficos. En el n\u00famero 10 se nombra a la mariposa cartero con su nombre cient\u00edfico Heliconius. En el n\u00famero 11 se nombra a la aran\u0303a pollito con su nombre cient\u00edfico Grammostola rosea. En el n\u00famero 12 se nombra a las hormigas amazo\u0301nicas con su nombre cient\u00edfico Atta cephalotes."
+        },
+        {
+            "id": "79e7a080-eeee-40f5-8726-4cf4eab7faac",
+            "table": "| Usos de los Componentes Electro\u0301nicos ||------|| Rel\u00e9: Act\u00faa como un interruptor controlado por una corriente el\u00e9ctrica. Se utiliza para controlar cargas el\u00e9ctricas de alta potencia, proteger circuitos sensibles, realizar operaciones de conmutaci\u00f3n y en aplicaciones de automatizaci\u00f3n. || Sensor: Convierte una magnitud f\u00edsica en una se\u00f1al el\u00e9ctrica. Se utiliza para medir temperatura, presi\u00f3n, luz, sonido, movimiento, humedad, etc., en una amplia gama de aplicaciones, desde sistemas de control industrial hasta dispositivos m\u00e9dicos y electr\u00f3nica de consumo. |",
+            "texto": "La tabla detalla los usos de dos componentes electr\u00f3nicos esenciales. En primer lugar, se describe el Rel\u00e9, que act\u00faa como un interruptor controlado por corriente el\u00e9ctrica y se utiliza para controlar cargas el\u00e9ctricas de alta potencia, proteger circuitos sensibles, realizar operaciones de conmutaci\u00f3n y en aplicaciones de automatizaci\u00f3n. En segundo lugar, se menciona el Sensor, que convierte una magnitud f\u00edsica en una se\u00f1al el\u00e9ctrica y se utiliza para medir temperatura, presi\u00f3n, luz, sonido, movimiento, humedad, entre otros, en una amplia gama de aplicaciones, desde sistemas de control industrial hasta dispositivos m\u00e9dicos y electr\u00f3nica de consumo."
+        },
+        {
+            "id": "309f2b8c-a6c2-4e98-86af-785b0fb0dc18",
+            "table": "| Caracteri\u0301sticas de una computadora ||---|| Procesador: Unidad central de procesamiento que ejecuta instrucciones y realiza ca\u0301lculos.||Memoria: Almacena temporalmente datos e instrucciones durante la ejecucio\u0301n del programa.||Almacenamiento: Almacena permanentemente datos e instrucciones.|",
+            "texto": "La tabla presenta las principales caracter\u00edsticas de una computadora. En primer lugar, se describe el Procesador, que es la unidad central de procesamiento que ejecuta instrucciones y realiza c\u00e1lculos. En segundo lugar, se menciona la Memoria, que almacena temporalmente datos e instrucciones durante la ejecuci\u00f3n del programa. En tercer lugar, se habla del Almacenamiento, que almacena permanentemente datos e instrucciones.\u00a0"
+        },
+        {
+            "id": "ee189658-59ad-403c-b424-88a258630e62",
+            "table": "| Colegios del Ecuador ||-----|| Colegio Internacional SEK Los Valles (Quito-Cumbaya\u0301) || Colegio Letort (Quito) || Colegio Brita\u0301nico Internacional (Quito) |",
+            "texto": "La tabla muestra colegios del Ecuador como el Colegio Internacional SEK Los Valles ubicado en Quito-Cumbaya\u0301, Colegio Letort y Colegio Brita\u0301nico Internacional, ambos ubicados en Quito."
+        },
+        {
+            "id": "71abe58b-77ca-424f-9428-e337674e38ce",
+            "table": "| Nombre de la Especie | Causas de la Amenaza | Medidas de Conservacio\u0301n ||---|---|---|| A\u0301guila calva | Pe\u0301rdida de ha\u0301bitat, contaminacio\u0301n, uso de pesticidas | Proteccio\u0301n y restauracio\u0301n del ha\u0301bitat, prohibicio\u0301n del uso de DDT || Lechuza moteada del norte | Tala de bosques, fragmentacio\u0301n del ha\u0301bitat | Proteccio\u0301n y gestio\u0301n de los bosques, reintroduccio\u0301n de lechuzas || Guacamayo jacinto | Tra\u0301fico ilegal de vida silvestre, pe\u0301rdida de ha\u0301bitat | Creacio\u0301n de zonas protegidas, programas de cri\u0301a en cautiverio |",
+            "texto": "La tabla proporciona informacio\u0301n sobre nombre de especies, sus causas de amenaza y las medidas de conservacio\u0301n implementadas para protegerlas. La primera fila describe el A\u0301guila calva, las causas de su declive (pe\u0301rdida de ha\u0301bitat, contaminacio\u0301n, uso de pesticidas) y las medidas de conservacio\u0301n (proteccio\u0301n y restauracio\u0301n del ha\u0301bitat, prohibicio\u0301n del DDT). La segunda fila se centra en la Lechuza moteada del norte, las amenazas que enfrenta (tala de bosques, fragmentacio\u0301n del ha\u0301bitat) y las medidas de conservacio\u0301n (proteccio\u0301n y gestio\u0301n de bosques, reintroduccio\u0301n de lechuzas). La u\u0301ltima fila aborda el Guacamayo jacinto, las causas de su amenaza (tra\u0301fico ilegal de vida silvestre, pe\u0301rdida de ha\u0301bitat) y las medidas de conservacio\u0301n (creacio\u0301n de zonas protegidas, programas de cri\u0301a en cautiverio)."
+        },
+        {
+            "id": "96e3cde1-1ba8-447f-a9cf-ad6014135f4d",
+            "table": "| Enfermedad | Virus que lo ocasiona ||---|---|| Gripe | Virus de la gripe |",
+            "texto": "La tabla muestra informacio\u0301n sobre la enfermedad de la gripe y su causa el virus de la gripe."
+        },
+        {
+            "id": "1716ec18-b678-4162-afc6-cafe5792125e",
+            "table": "| Regio\u0301n Geogra\u0301fica | Especies Ende\u0301micas | Amenazas ||---|---|---|| Arrecife de Coral de Mesoame\u0301rica | Coral Elkhorn, Coral Staghorn | Sobrepesca, Cambio Clima\u0301tico |",
+            "texto": "La tabla resume informaci\u00f3n sobre una regi\u00f3n geogr\u00e1fica del arrecife de Coral de Mesoam\u00e9rica, resaltando las especies end\u00e9micas \u00fanicas, como el Coral Elkhorn y el Coral Staghorn, as\u00ed como las amenazas que enfrentan, como la sobrepesca y el cambio clim\u00e1tico"
+        },
+        {
+            "id": "2f103949-0027-43b8-9bf0-4071ec1a7977",
+            "table": "| Pai\u0301s | Poblacio\u0301n (millones) | Superficie (kil\u00f3metros cuadrados) ||---|---|---|| Lituania | 2,79 | 65.300 || Luxemburgo | 0,64 | 2.586 || Malta | 0,54 | 316 |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su poblacio\u0301n en millones y su superficie en kil\u00f3metros cuadrados. Lituania tiene una poblacio\u0301n de 2,79 millones y una superficie de 65.300 kil\u00f3metros cuadrados. Luxemburgo tiene una poblacio\u0301n de 0,64 millones y una superficie de 2.586 kil\u00f3metros cuadrados. Malta tiene una poblacio\u0301n de 0,54 millones y una superficie de 316 kil\u00f3metros cuadrados."
+        },
+        {
+            "id": "c06ec238-8710-4397-80a5-2779a9ea2cf4",
+            "table": "| Causas | Consecuencias ||---|---|| Contaminaci\u00f3n del suelo | P\u00e9rdida de fertilidad, reducci\u00f3n de la productividad agr\u00edcola, riesgo para la salud humana || Agotamiento de recursos naturales | Escasez de agua, alimentos, energ\u00eda, materias primas || Degradaci\u00f3n del suelo | Erosi\u00f3n, desertificaci\u00f3n, p\u00e9rdida de productividad. |",
+            "texto": "La tabla muestran causas y consecuencias. La contaminaci\u00f3n del suelo tiene como consecuencia la p\u00e9rdida de fertilidad, reducci\u00f3n de la productividad agr\u00edcola, riesgo para la salud humana. El agotamiento de recursos naturales tiene como consecuencia la escasez de agua, alimentos, energ\u00eda, materias primas. La degradaci\u00f3n del suelo tiene como consecuencia la erosi\u00f3n, desertificaci\u00f3n, p\u00e9rdida de productividad."
+        },
+        {
+            "id": "21a5bee7-c91b-4f58-8eb8-8233a38eae93",
+            "table": "| Pai\u0301s de origen de futbolistas famosos ||------|| Be\u0301lgica con Eden Hazard, Kevin De Bruyne || Repu\u0301blica Checa con Petr Cech, Pavel Nedve\u030cd || Rusia con Igor Akinfeev, Aleksandr Golovin |",
+            "texto": "La tabla muestra los pai\u0301ses de origen de futbolistas famosos como Be\u0301lgica con Eden Hazard y Kevin De Bruyne, Repu\u0301blica Checa con Petr Cech y Pavel Nedve\u030cd, y Rusia con Igor Akinfeev y Aleksandr Golovin."
+        },
+        {
+            "id": "89e12ca9-bc01-4459-a9b3-21e089d6c9d7",
+            "table": "| Tema | Descripci\u00f3n ||---|---|| Qu\u00edmica Org\u00e1nica | Estudio de los compuestos qu\u00edmicos que contienen carbono || Rob\u00f3tica | Dise\u00f1o, construcci\u00f3n y aplicaci\u00f3n de robots para diversas tareas |",
+            "texto": "El tema de la qu\u00edmica org\u00e1nica se describe como el estudio de los compuestos qu\u00edmicos que contienen carbono. El tema de la Rob\u00f3tica se describe como el dise\u00f1o, construcci\u00f3n y aplicaci\u00f3n de robots para diversas tareas."
+        },
+        {
+            "id": "ba73d8ec-3118-41b6-b9cc-4ce7c2b66c1e",
+            "table": "| Campo | Avances | Impacto ||---|---|---|| Inteligencia Artificial | Aprendizaje autom\u00e1tico, procesamiento del lenguaje natural | Automatizaci\u00f3n de tareas, toma de decisiones mejorada || Biotecnolog\u00eda | Ingenier\u00eda gen\u00e9tica, medicina personalizada | Cura de enfermedades, mejora de la calidad de vida |",
+            "texto": "El campo de la inteligencia artificial tiene avances en el aprendizaje autom\u00e1tico y procesamiento de lenguaje natural con impacto en la automatizaci\u00f3n de tareas, toma de decisiones mejorada. En el campo de la biotecnolog\u00eda tiene avances para la ingenier\u00eda gen\u00e9tica, medicina personalizada con impacto en la cura de enfermedades, mejora de la calidad de vida"
+        },
+        {
+            "id": "8927e5d3-b3a3-4c20-8c75-68d7cb49f841",
+            "table": "| Regi\u00f3n | Total migrantes (millones) ||---|---:|| Asia Meridional | 75 || Europa Oriental | 40 || \u00c1frica Subsahariana | 35 |",
+            "texto": "La tabla muestra informaci\u00f3n de la regi\u00f3n y el total de migrantes en millones. Asia Meridional tiene un total de migrantes de 75 millones. Europa Oriental tiene un total de migrantes de 40 millones. \u00c1frica Subsahariana tiene un total de migrantes de 35 millones."
+        },
+        {
+            "id": "78cf84eb-3376-4100-b1f7-0fea4b4e6575",
+            "table": "| Movimiento | Autor | Obra arti\u0301stica ||---|---|---|| Postimpresionismo | Odilo\u0301n Redo\u0301n | Floreros || Expresionismo | Vincent van Gogh | La noche estrellada |",
+            "texto": "La tabla contiene informacio\u0301n sobre diferentes movimientos arti\u0301sticos, sus autores y sus obras arti\u0301sticas. En el Postimpresionismo, Odilo\u0301n Redo\u0301n creo\u0301 Floreros. En el Expresionismo, Vincent van Gogh pinto\u0301 La noche estrellada."
+        },
+        {
+            "id": "c3f26c00-5d58-4c01-af16-8aa0cbb3bb09",
+            "table": "| Marca | Modelo | An\u0303o ||---|---|---|| Apple | iPhone 14 Pro | 2022 || Samsung | Galaxy S23 Ultra | 2023 || Google | Pixel 7 Pro | 2022 |",
+            "texto": "La tabla presenta tres modelos de tele\u0301fonos inteligentes: el iPhone 14 Pro de Apple lanzado en 2022, el Galaxy S23 Ultra de Samsung lanzado en 2023 y el Pixel 7 Pro de Google tambie\u0301n lanzado en 2022."
+        },
+        {
+            "id": "1423674c-007e-46a2-9ac0-317c3d159c9b",
+            "table": "| Pai\u0301s | Vertebrados | Mami\u0301feros ||---|---|---|| Estonia | 1052 | 64 || Finlandia | 1137 | 62 |",
+            "texto": "La tabla muestra informacio\u0301n sobre el nu\u0301mero de especies vertebradas y mami\u0301feras. Estonia tiene 1052 especies vertebradas, de las cuales 64 son mami\u0301feros. Finlandia tiene 1137 especies vertebradas, de las cuales 62 son mami\u0301feros."
+        },
+        {
+            "id": "1a642997-f953-4cb3-a1fa-a9ab928ee063",
+            "table": "| Pa\u00eds | PIB per Ca\u0301pita (USD) | Esperanza de Vida al Nacer (a\u00f1os) ||---|---|---|| Alemania | 47.700 | 81,1 || Francia | 43.800 | 82,4 || B\u00e9lgica | 47.000 | 81,7 |",
+            "texto": "La tabla muestra informaci\u00f3n de pa\u00edses, su PIB per c\u00e1pita en USD y su esperanza de vida al nacer. Alemania tiene el PIB per ca\u0301pita de 47.700 USD y una esperanza de vida de 81,1 a\u00f1os. Francia tiene el PIB per c\u00e1pita de 43.800 USD y una esperanza de vida de 82,4 a\u00f1os. B\u00e9lgica tiene el PIB per c\u00e1pita de 47.000 USD y una esperanza de vida de 81,7 a\u00f1os."
+        },
+        {
+            "id": "714775fc-1531-4268-a174-3a1fbcb2681b",
+            "table": "| \u00c1mbito | Avance Tecnol\u00f3gico Destacado ||----------|---------------------------------------|| Inteligencia Artificial | ChatGPT, un modelo de lenguaje grande que revoluciona la interacci\u00f3n hombre-m\u00e1quina || Exploraci\u00f3n Espacial | Misi\u00f3n Artemis, un ambicioso programa para devolver humanos a la Luna y m\u00e1s all\u00e1 |",
+            "texto": "En el \u00e1mbito de la inteligencia artificial, un avance tecnol\u00f3gico es ChatGPT, un modelo de lenguaje grande que revoluciona la interacci\u00f3n hombre-m\u00e1quina. En el \u00e1mbito de la exploraci\u00f3n espacial, un avance tecnol\u00f3gico destacado es la Misi\u00f3n Artemis, un ambicioso programa para devolver humanos a la Luna y m\u00e1s all\u00e1."
+        },
+        {
+            "id": "6fb27ac8-c618-4623-9fe0-55da7e6241d3",
+            "table": "| Nanotecnologi\u0301a y sus aplicaciones en medicina ||---|| Desarrollo de biosensores y dispositivos nanom\u00e9tricos que pueden detectar biomarcadores de enfermedades en etapas tempranas |",
+            "texto": "Esta tabla presenta una aplicacion de la nanotecnologi\u0301a en el campo de la medicina con el desarrollo de biosensores y dispositivos nanom\u00e9tricos que pueden detectar biomarcadores de enfermedades en etapas tempranas."
+        },
+        {
+            "id": "656d5b24-79c8-4eb4-a2a7-6f9074ff3f20",
+            "table": "| Nombres | Apellidos | Nacionalidad ||-----|------|------|| Camila | Perez | Argentina || Carlos | Ramirez | Chilena |",
+            "texto": "La tabla contiene informaci\u00f3n de nombres, apellidos y nacionalidades. El nombre es Camila, el apellido P\u00e9rez y la nacionalidad argentina. El nombre es Carlos, el apellido Ram\u00edrez y la nacionalidad chilena."
+        },
+        {
+            "id": "208f51f5-8b4a-4268-b367-72b72c0ee325",
+            "table": "| Mu\u0301sica tradicional ||---|| Llanera, Calypso, Parang |",
+            "texto": "La tabla  contiene mu\u0301sica tradicional como Llanera, Calypso, Parang."
+        },
+        {
+            "id": "e78d7d58-8176-4de4-89d0-a4b8527b0654",
+            "table": "| Fecha de nacimiento ||---|| 11 de febrero de 1847 |",
+            "texto": "La tabla contiene la fecha de nacimiento que fue el 11 de febrero de 1847."
+        },
+        {
+            "id": "76ff32f5-ec7b-4f4c-843a-8655e3a3bf55",
+            "table": "| Ventajas | Desventajas ||---|---|| Mayor flexibilidad y comodidad | Posible aislamiento social || Acceso a recursos y expertos en cualquier momento | Dependencia de la tecnologi\u0301a y conexio\u0301n a internet || Oportunidades de colaboracio\u0301n y aprendizaje en equipo | Barreras de comunicacio\u0301n y construccio\u0301n de relaciones |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja es la mayor flexibilidad y comodidad, como desventaja est\u00e1 el posible aislamiento social. Como ventaja est\u00e1 el acceso a recursos y expertos en cualquier momento, como desventaja est\u00e1 la dependencia de la tecnologi\u0301a y conexio\u0301n a internet. Como ventaja est\u00e1n las oportunidades de colaboracio\u0301n y aprendizaje en equipo, como desventaja est\u00e1n las barreras de comunicacio\u0301n y construccio\u0301n de relaciones."
+        },
+        {
+            "id": "d0643cdf-1487-415c-b074-694a1c776cf4",
+            "table": "| Nombre completo || ----------- || Ana Mari\u0301a Gonza\u0301lez Rodri\u0301guez |",
+            "texto": "La tabla presenta el nombre completo de Ana Mari\u0301a Gonza\u0301lez Rodri\u0301guez."
+        },
+        {
+            "id": "93f788c5-949d-4804-bd63-c57c3ea4d0bf",
+            "table": "| Desventajas de los combustibles f\u00f3siles ||------|| La quema de combustibles f\u00f3siles libera grandes cantidades de di\u00f3xido de carbono (CO2) y otros gases de efecto invernadero a la atm\u00f3sfera, lo que contribuye al calentamiento global y al cambio clim\u00e1tico. || La quema de combustibles f\u00f3siles tambi\u00e9n libera contaminantes del aire como part\u00edculas finas, \u00f3xidos de nitr\u00f3geno y azufre, que pueden causar problemas respiratorios, enfermedades card\u00edacas, derrames cerebrales y c\u00e1ncer. |",
+            "texto": "La tabla presenta las desventajas de los combustibles f\u00f3siles. En primer lugar, se destaca que la quema de combustibles f\u00f3siles genera grandes cantidades de di\u00f3xido de carbono (CO2) y otros gases de efecto invernadero, contribuyendo al calentamiento global y al cambio clim\u00e1tico. En segundo lugar, se menciona que la quema de combustibles f\u00f3siles tambi\u00e9n produce contaminantes del aire como part\u00edculas finas, \u00f3xidos de nitr\u00f3geno y azufre, que pueden provocar problemas respiratorios, enfermedades card\u00edacas, derrames cerebrales y c\u00e1ncer."
+        },
+        {
+            "id": "e31fc3da-140b-4647-a565-851af728ba89",
+            "table": "| Ventaja del Internet ||---|| Conecta personas de todo el mundo, brinda acceso a informacio\u0301n y recursos, facilita la comunicacio\u0301n y los negocios |",
+            "texto": "Esta tabla da una ventajas del internet, que incluye la conectividad global, el acceso a la informacio\u0301n y recursos, facilita la comunicacio\u0301n y los negocios."
+        },
+        {
+            "id": "0f10b52f-b126-4820-bdce-7ae7a829ba07",
+            "table": "| Tipo de Material Artificial | Propiedades ||---|---|| Acero inoxidable | Resistente a la corrosio\u0301n, duradero, du\u0301ctil |",
+            "texto": "La tabla presenta informacio\u0301n sobre un tipo de material artificial y sus propiedades: el acero inoxidable es resistente a la corrosio\u0301n, duradero y du\u0301ctil."
+        },
+        {
+            "id": "3f44069b-c698-4cc0-b6c9-956532975ce1",
+            "table": "| Cambio clima\u0301tico ||------|| Aumento de la temperatura global debido a las emisiones de gases de efecto invernadero || Derretimiento de los casquetes polares || Cambios en los patrones clima\u0301ticos |",
+            "texto": "La tabla muestra informacio\u0301n sobre el cambio clima\u0301tico, que incluye el aumento de la temperatura global debido a las emisiones de gases de efecto invernadero, el derretimiento de los casquetes polares y los cambios en los patrones clima\u0301ticos."
+        },
+        {
+            "id": "dfa48602-6c0a-4bf0-9fee-7d80c07859ea",
+            "table": "| Nombre completo ||---|| George Washington Carver |",
+            "texto": "Esta tabla contiene el nombre completo de George Washington Carver."
+        },
+        {
+            "id": "fc20ab35-db5e-4cea-9fd0-695e314b61dd",
+            "table": "| Fecha de nacimiento ||---|| 11 de febrero de 1847 |",
+            "texto": "La tabla contiene informacio\u0301n sobre la fecha de nacimiento de un individuo que nacio\u0301 el 11 de febrero de 1847."
+        },
+        {
+            "id": "93e3756b-d237-4566-a248-23a8db3eff16",
+            "table": "| Ventajas | Desventajas ||---|---|| Flexibilidad y accesibilidad | Distracciones y falta de interaccio\u0301n fi\u0301sica || Reduccio\u0301n de costos y mejora de la productividad | Posible aislamiento y falta de motivacio\u0301n || Mayor comodidad y facilidad de uso | Dependencia tecnolo\u0301gica y posibles problemas de conectividad |",
+            "texto": "La tabla muestra ventajas y desventajas. Como ventaja la flexibilidad y accesibilidad, como desventaja las distracciones y falta de interacci\u00f3n f\u00edsica. Como ventaja esta la reducci\u00f3n de costos y mejora de la productividad, como desventaja est\u00e1 el posible aislamiento y falta de motivacio\u0301n. Como ventaja esta una mayor comodidad y facilidad de uso, como desventaja la dependencia tecnolo\u0301gica y posibles problemas de conectividad."
+        },
+        {
+            "id": "b964af7e-ce22-4943-a884-91ba71aa494b",
+            "table": "| Asignatura | Aspectos ||---|---|| Mu\u0301sica | Ritmo, melodi\u0301a, armoni\u0301a || Tecnologi\u0301a | Informa\u0301tica, robo\u0301tica, programacio\u0301n |",
+            "texto": "La tabla muestra asignaturas y sus aspectos. La mu\u0301sica contiene aspectos como ritmo, melodi\u0301a y armoni\u0301a. La tecnologi\u0301a contiene aspectos como informa\u0301tica, robo\u0301tica y programacio\u0301n."
+        },
+        {
+            "id": "10b83b5e-791e-4650-9c78-d383bae47a2e",
+            "table": "| Pa\u00eds | Densidad de Poblaci\u00f3n (por kil\u00f3metro cuadrado) ||---|---|| M\u00f3naco | 18.679 || Singapur | 7.920 || Ciudad del Vaticano | 1.914 |",
+            "texto": "La tabla muestra pa\u00edses y la densidad de poblaci\u00f3n por kil\u00f3metro cuadrado. Mo\u0301naco tiene una densidad de poblacio\u0301n de 18.679 habitantes por kil\u00f3metro cuadrado. Singapur tiene una densidad de poblacio\u0301n de 7.920 habitantes por kil\u00f3metro cuadrado. Ciudad del Vaticano tiene una densidad de poblacio\u0301n de 1.914 habitantes por kil\u00f3metro cuadrado."
+        },
+        {
+            "id": "80fd4e50-dede-495b-b5ca-20e99ba6b4c1",
+            "table": "| Dispositivos electro\u0301nicos | Funciones ||---|---|| Consola de videojuegos | Entretenimiento || Router de Internet | Conexio\u0301n a Internet || Balanza electro\u0301nica | Medicio\u0301n del peso |",
+            "texto": "Esta tabla enumera tres dispositivos electro\u0301nicos y sus funciones. La consola de videojuegos sirve para el entretenimiento, el router de Internet facilita la conexio\u0301n a la red y la balanza electro\u0301nica se utiliza para medir el peso."
+        },
+        {
+            "id": "5af93594-f286-4303-b1f0-73df6126618d",
+            "table": "| Gestio\u0301n de Residuos ||------|| Clasificacio\u0301n y separacio\u0301n de residuos para su adecuado procesamiento y reciclaje |",
+            "texto": "La tabla muestra que en la gestio\u0301n de residuos se debe clasificar y separar los residuos para su adecuado procesamiento y reciclaje."
+        },
+        {
+            "id": "05ffc2d0-5b97-414c-85d2-f79b17b8a341",
+            "table": "| A 100 m de altura || --- || 20 \u00b0C || 15 \u00b0C |",
+            "texto": "La tabla muestra dos temperaturas que existen a 100 m de altura, la primera fila muestra 20\u00b0C y la segunda fila muestra 15\u00b0C."
+        },
+        {
+            "id": "e29a393a-c657-4519-8ec0-c1d636e73d22",
+            "table": "| Nombre de volca\u0301n | Ubicaci\u00f3n | Altura ||---|---|---|| Volca\u0301n Chimborazo | Ecuador | 6.268 metros |",
+            "texto": "La tabla contiene informacio\u0301n sobre un volca\u0301n, su ubicacio\u0301n y su altura. Especi\u0301ficamente, muestra que el Volca\u0301n Chimborazo se encuentra en Ecuador y tiene una altura de 6.268 metros."
+        },
+        {
+            "id": "3a5b33c1-0284-4871-9041-31f957dc5c1d",
+            "table": "| Deportista | Deporte | Pai\u0301s ||---|---|---|| Richard Carapaz | Ciclismo | Ecuador || Neisi Dajomes | Levantamiento de pesas | Ecuador || Jefferson Pe\u0301rez | Atletismo | Ecuador |",
+            "texto": "La tabla contiene informaci\u00f3n sobre deportistas, sus deportes y sus pa\u00edses de origen. Richard Carapaz es un ciclista ecuatoriano. Neisi Dajomes es un levantador de pesas ecuatoriano. Jefferson Pe\u0301rez es un atleta ecuatoriano."
+        },
+        {
+            "id": "aae3cab0-6f00-407c-a4ba-4f137bed7526",
+            "table": "| Regio\u0301n | Esperanza de vida ||---|---|| A\u0301frica | 56,6 an\u0303os |",
+            "texto": "La tabla contiene informacio\u0301n sobre la esperanza de vida en una regio\u0301n especi\u0301fica. En A\u0301frica es de 56,6 an\u0303os."
+        },
+        {
+            "id": "1810cc47-af48-43cf-b626-35d23bd7aae0",
+            "table": "| Pai\u0301s | Peces | Mami\u0301feros ||---|---|---|| Uruguay | Pejerrey, Tararira | Nutria, Guazubira\u0301 || Venezuela | Dorado, Cachama | Capibara, Oso hormiguero |",
+            "texto": "La tabla presenta informacio\u0301n sobre los peces y mami\u0301feros. Uruguay tiene peces como el pejerrey y la tararira y mami\u0301feros como la nutria y el guazubira\u0301. Venezuela tiene peces como el dorado y la cachama, y mami\u0301feros como la capibara y el oso hormiguero."
+        },
+        {
+            "id": "2dc2e09c-88dc-45ab-82f5-957d71e9e253",
+            "table": "| Marca de vehi\u0301culo | Modelo | An\u0303o ||---|---|---|| Toyota | Corolla | 2023 || Hyundai | Tucson | 2022 || Ford | Mustang | 2021 |",
+            "texto": "La tabla contiene informacio\u0301n sobre tres vehi\u0301culos: el Toyota Corolla 2023, el Hyundai Tucson 2022 y el Ford Mustang 2021"
+        },
+        {
+            "id": "068cb394-68f0-454d-bc81-84d2bc56b71f",
+            "table": "| Deportista | Deporte | Pai\u0301s ||---|---|---|| Usain Bolt | Atletismo | Jamaica || David Rudisha | Atletismo | Kenia || Yulimar Rojas | Atletismo | Venezuela |",
+            "texto": "La tabla contiene informaci\u00f3n sobre deportistas, sus deportes y sus pa\u00edses de origen. Usain Bolt es un atleta jamaicano. David Rudisha es un atleta keniano. Yulimar Rojas es una atleta venezolana."
+        },
+        {
+            "id": "7f24c9be-9206-47ad-81f1-ef75482092f6",
+            "table": "| Tipo de Material Artificial | Propiedades ||---|---|| Acri\u0301lico | Suave, ca\u0301lido, resistente a las polillas |",
+            "texto": "La tabla presenta informacio\u0301n sobre un tipo de material artificial y sus propiedades: el acri\u0301lico, que es suave, ca\u0301lido, resistente a las polillas"
+        }
+    ]
+}

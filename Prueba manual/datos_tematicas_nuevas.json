@@ -1,0 +1,220 @@
+{
+    "muestras": [
+        {
+            "id": "b98f686e-41ae-413c-b990-5dd8b6e0ddc2",
+            "table": "| Provincia | Programa ||---|---|| Azuay | Lengua y Literatura || Guayas | Ciencias Naturales |",
+            "texto": "La tabla muestra las provincias y su programa. Azuay tiene en su programa lengua y literatura. Guayas tiene en su programa ciencias naturales.",
+            "orden": 107
+        },
+        {
+            "id": "362ca62c-f02d-48f5-a08b-fcfefe9f2df1",
+            "table": "| Aves || --- || Loros || Pingüinos |",
+            "texto": "La tabla muestra aves, se nombra a los loros y los pingüinos.",
+            "orden": 3
+        },
+        {
+            "id": "1027f405-fad5-4085-a4fd-20cc513052e8",
+            "table": "| País | Cantidad de especies de aves ||---|---|| India | 1.350 || Colombia | 1.900 || Perú | 1.814 |",
+            "texto": "La tabla muestra países y la cantidad de especies de aves. India tiene 1.350. Colombia tiene 1.900. Perú tiene 1.814.",
+            "orden": 77
+        },
+        {
+            "id": "8093187d-9408-4f06-9d28-eea7d56d4f77",
+            "table": "| Elemento de la Tabla Periódica | Propiedades ||---|---|| Helio | Gas inerte, no inflamable, no tóxico || Carbono | Sólido, no metálico, puede formar enlaces covalentes || Hierro | Metal de transición, magnético, conductor de electricidad |",
+            "texto": "Esta tabla enumera tres elementos de la Tabla Periódica y sus propiedades más destacadas. La primera fila describe el helio como un gas inerte, no inflamable, no tóxico. La segunda fila destaca el carbono como un sólido no metálico capaz de formar enlaces covalentes. Finalmente, la tercera fila presenta el hierro como un metal de transición con propiedades magnéticas y conductoras de electricidad .",
+            "orden": 95
+        },
+        {
+            "id": "c90a1345-5ec5-4f5f-9b2d-5d226f631030",
+            "table": "| Personaje histórico | Fecha de fallecimiento ||---|---|| Martin Luther King Jr. | 4 de abril de 1968 || Mahatma Gandhi | 30 de enero de 1948 |",
+            "texto": "La tabla muestra personajes históricos y la fecha en que fallecieron. Martin Luther King Jr. falleció el 4 de abril de 1968. Mahatma Gandhi falleció el 30 de enero de 1948.",
+            "orden": 50
+        },
+        {
+            "id": "f97d9e93-c0c4-40b3-a7cd-1963f2ed5c07",
+            "table": "| Marca | Modelo | Año ||---|---|---|| BMW | M3 | 2023 || Tesla | Model S | 2022 || Toyota | Camry | 2021 |",
+            "texto": "La tabla contiene información sobre tres modelos de automóviles fabricados por diferentes marcas: un BMW M3 fabricado en 2023, un Tesla Model S fabricado en 2022 y un Toyota Camry fabricado en 2021.",
+            "orden": 70
+        },
+        {
+            "id": "2f103949-0027-43b8-9bf0-4071ec1a7977",
+            "table": "| País | Población (millones) | Superficie (kilómetros cuadrados) ||---|---|---|| Lituania | 2,79 | 65.300 || Luxemburgo | 0,64 | 2.586 || Malta | 0,54 | 316 |",
+            "texto": "La tabla muestra información de países, su población en millones y su superficie en kilómetros cuadrados. Lituania tiene una población de 2,79 millones y una superficie de 65.300 kilómetros cuadrados. Luxemburgo tiene una población de 0,64 millones y una superficie de 2.586 kilómetros cuadrados. Malta tiene una población de 0,54 millones y una superficie de 316 kilómetros cuadrados.",
+            "orden": 145
+        },
+        {
+            "id": "10b7b98e-41e0-4ab9-bd8a-faea1714766a",
+            "table": "| País | Anfibios | Plantas vasculares ||---|---|---|| Uruguay | 96 | 2.512 || Venezuela | 324 | 11.800 |",
+            "texto": "La tabla muestra el número de especies de anfibios y plantas vasculares. Uruguay tiene 96 especies de anfibios y 2.512 especies de plantas vasculares. Venezuela tiene 324 especies de anfibios y 11.800 especies de plantas vasculares.",
+            "orden": 112
+        },
+        {
+            "id": "5c381b70-dde8-4a95-9f0e-bab659d8f8b8",
+            "table": "| Experimento | Año ||---------|-----|| Experimento de Michelson-Morley | 1887 || Experimento de Stern-Gerlach | 1922 |",
+            "texto": "La primera fila de la tabla muestra el Experimento de Michelson-Morley, que se realizó en el año 1887. La segunda fila de la tabla muestra el Experimento de Stern-Gerlach, que se realizó en el año 1922.",
+            "orden": 42
+        },
+        {
+            "id": "e6fbe2c7-00be-4392-82d4-93828fcc9de8",
+            "table": "| Cantidad de turistas ||---|| Perú en 2021, que fueron 2,4 millones |",
+            "texto": "La tabla muestra el número de turistas que visitaron Perú en 2021, que fueron 2,4 millones.",
+            "orden": 96
+        },
+        {
+            "id": "dd8b4d56-ca6b-45f8-973c-5089534ecd22",
+            "table": "| Interacción entre plantas y animales ||:---|| Polen que las abejas transfieren de flor a flor || Plantas que ofrecen néctar a los polinizadores || Árboles que proporcionan hábitat a las aves |",
+            "texto": "La tabla describe interacciones entre plantas y animales como el Polen que las abejas transfieren de flor a flor, plantas que ofrecen néctar a los polinizadores y árboles que proporcionan hábitat a las aves.",
+            "orden": 32
+        },
+        {
+            "id": "7cb3f2de-4ca4-4885-b955-e214d2f46f9f",
+            "table": "| Alumnos || --- || Juan José Rodríguez || María Fernanda Pérez |",
+            "texto": "La tabla contiene los nombres completos de los alumnos Juan José Rodríguez y María Fernanda Pérez.",
+            "orden": 111
+        },
+        {
+            "id": "8352a4af-6420-472b-bda6-818e82de1b6b",
+            "table": "| Misión espacial | Agencia espacial ||---|---|| Apolo 11 | NASA || Shenzhou 5 | CNSA |",
+            "texto": "La tabla muestra dos misiones espaciales significativas y sus agencias espaciales correspondientes. La primera fila indica la misión Apolo 11 llevada a cabo por la NASA. La segunda fila muestra la misión Shenzhou 5, realizada por la CNSA.",
+            "orden": 67
+        },
+        {
+            "id": "1716ec18-b678-4162-afc6-cafe5792125e",
+            "table": "| Región Geográfica | Especies Endémicas | Amenazas ||---|---|---|| Arrecife de Coral de Mesoamérica | Coral Elkhorn, Coral Staghorn | Sobrepesca, Cambio Climático |",
+            "texto": "La tabla resume información sobre una región geográfica del arrecife de Coral de Mesoamérica, resaltando las especies endémicas únicas, como el Coral Elkhorn y el Coral Staghorn, así como las amenazas que enfrentan, como la sobrepesca y el cambio climático",
+            "orden": 144
+        },
+        {
+            "id": "d0643cdf-1487-415c-b074-694a1c776cf4",
+            "table": "| Nombre completo || ----------- || Ana María González Rodríguez |",
+            "texto": "La tabla presenta el nombre completo de Ana María González Rodríguez.",
+            "orden": 161
+        },
+        {
+            "id": "8a1c20ef-5a63-4f7e-b8f0-abd6110abab2",
+            "table": "| Planta | Causas de extinción ||---|---|| Santalum fernandezianum | Posible deforestación, sobrepastoreo, intrusión de especies exóticas |",
+            "texto": "La tabla muestra la planta Santalum fernandezianum y su causa de extinción, que incluyen una posible deforestación, el sobrepastoreo y la intrusión de especies exóticas.",
+            "orden": 45
+        },
+        {
+            "id": "656d5b24-79c8-4eb4-a2a7-6f9074ff3f20",
+            "table": "| Nombres | Apellidos | Nacionalidad ||-----|------|------|| Camila | Perez | Argentina || Carlos | Ramirez | Chilena |",
+            "texto": "La tabla contiene información de nombres, apellidos y nacionalidades. El nombre es Camila, el apellido Pérez y la nacionalidad argentina. El nombre es Carlos, el apellido Ramírez y la nacionalidad chilena.",
+            "orden": 157
+        },
+        {
+            "id": "71abe58b-77ca-424f-9428-e337674e38ce",
+            "table": "| Nombre de la Especie | Causas de la Amenaza | Medidas de Conservación ||---|---|---|| Águila calva | Pérdida de hábitat, contaminación, uso de pesticidas | Protección y restauración del hábitat, prohibición del uso de DDT || Lechuza moteada del norte | Tala de bosques, fragmentación del hábitat | Protección y gestión de los bosques, reintroducción de lechuzas || Guacamayo jacinto | Tráfico ilegal de vida silvestre, pérdida de hábitat | Creación de zonas protegidas, programas de cría en cautiverio |",
+            "texto": "La tabla proporciona información sobre nombre de especies, sus causas de amenaza y las medidas de conservación implementadas para protegerlas. La primera fila describe el Águila calva, las causas de su declive (pérdida de hábitat, contaminación, uso de pesticidas) y las medidas de conservación (protección y restauración del hábitat, prohibición del DDT). La segunda fila se centra en la Lechuza moteada del norte, las amenazas que enfrenta (tala de bosques, fragmentación del hábitat) y las medidas de conservación (protección y gestión de bosques, reintroducción de lechuzas). La última fila aborda el Guacamayo jacinto, las causas de su amenaza (tráfico ilegal de vida silvestre, pérdida de hábitat) y las medidas de conservación (creación de zonas protegidas, programas de cría en cautiverio).",
+            "orden": 142
+        },
+        {
+            "id": "7f030f14-18e8-42e7-b6e0-a6c0883ec9fa",
+            "table": "| Reciclaje ||------|| Compostaje |",
+            "texto": "La tabla muestra que una forma de reciclaje es el compostaje.",
+            "orden": 48
+        },
+        {
+            "id": "ab31e0ba-d8bb-48ff-92fc-8b9b119962b1",
+            "table": "| Alimento | Cantidad de proteínas ||---|---|| Ciervo | 25g || Gambas | 20g || Requesón | 18g |",
+            "texto": "La tabla muestra la cantidad de proteínas en diferentes alimentos. El ciervo contiene 25 gramos de proteínas, las gambas contienen 20 gramos de proteína y el requesón contiene 18 gramos de proteína.",
+            "orden": 91
+        },
+        {
+            "id": "7753a94f-5f89-46b8-a3c7-0394693c0ff5",
+            "table": "| País | Población (millones) ||---|---|| China | 1452 || India | 1412 |",
+            "texto": "La tabla muestra países y su población en millones. China tiene una población de 1452 millones. India tiene una población de 1412 millones.",
+            "orden": 24
+        },
+        {
+            "id": "75255e73-f697-4480-a467-47c53402856e",
+            "table": "| Nombre completo | Edad | Pasatiempo ||---|---|---|| María Pérez Díaz | 25 | Senderismo |",
+            "texto": "La tabla contiene información sobre el nombre, la edad y el pasatiempo. María Pérez Díaz tiene 25 años y tiene como pasatiempo el senderismo.",
+            "orden": 136
+        },
+        {
+            "id": "2a672578-f98e-470a-8bf9-de25febfbb68",
+            "table": "| Nivel educativo | Tasa de alfabetización | Acceso a la cultura ||---|---|---|| Educación secundaria | 72% | 60% |",
+            "texto": "La tabla muestra información del nivel educativo, su tasa de alfabetización y el acceso a la cultura. El nivel educativo de educación secundaria, su tasa de alfabetización es del 72% y un acceso a la cultura del 60%.",
+            "orden": 106
+        },
+        {
+            "id": "8927e5d3-b3a3-4c20-8c75-68d7cb49f841",
+            "table": "| Región | Total migrantes (millones) ||---|---:|| Asia Meridional | 75 || Europa Oriental | 40 || África Subsahariana | 35 |",
+            "texto": "La tabla muestra información de la región y el total de migrantes en millones. Asia Meridional tiene un total de migrantes de 75 millones. Europa Oriental tiene un total de migrantes de 40 millones. África Subsahariana tiene un total de migrantes de 35 millones.",
+            "orden": 150
+        },
+        {
+            "id": "f3ede4ba-eb8d-43e0-8a32-f498ac1b7912",
+            "table": "| A 1000 m de altura || --- || Temp. día: 15ºC || Temp. noche: 5ºC |",
+            "texto": "La tabla muestra temperaturas a 1000 m de altura. Detalla la temperatura durante el día y la noche: 15ºC y 5ºC, respectivamente.",
+            "orden": 130
+        },
+        {
+            "id": "52da7407-0455-4d21-984c-ab0581372925",
+            "table": "| Enfermedad | Virus que lo ocasiona ||---|---|| Sarampión | Virus del sarampión |",
+            "texto": "La tabla presenta información sobre el sarampión, una enfermedad causada por el virus del sarampión.",
+            "orden": 43
+        },
+        {
+            "id": "d4d0dbf0-cbf8-40b0-9a95-70815175fcd4",
+            "table": "| Beneficios del reciclaje y reducción de residuos ||------|| Reduce la huella de carbono || Ahorra recursos naturales || Protege la vida silvestre y los ecosistemas |",
+            "texto": "La tabla muestra los beneficios del reciclaje y la reducción de residuos, como reducir la huella de carbono, ahorrar recursos naturales y proteger la vida silvestre y los ecosistemas.",
+            "orden": 38
+        },
+        {
+            "id": "b38354ca-09c1-446d-8f55-8dfe4bf4f7cd",
+            "table": "| Área de investigación | Autores principales ||---|---|| Historia del arte | Giorgio Vasari |",
+            "texto": "La tabla presenta a los autores principales en el campo de la investigación en historia del arte, incluido Giorgio Vasari.",
+            "orden": 53
+        },
+        {
+            "id": "bcf93ee6-38c6-4042-a17e-397ef42e6452",
+            "table": "| Región | Población (miles de millones) | Densidad de población (habitantes por km cuadrado) ||---|---|---|| Asia | 4.6 | 96 || África | 1.4 | 44 || Europa | 0.7 | 34 |",
+            "texto": "La tabla muestra información de la región, su población en miles de millones y su densidad de población en habitantes por kilómetro cuadrado.  La región de Asia tiene una población de 4,6 mil millones y una densidad de población de 96 habitantes por kilómetro cuadrado. La región de África tiene una población de 1,4 mil millones y una densidad de población de 44 habitantes por kilómetro cuadrado. La región de Europa tiene una población de 0,7 mil millones y una densidad de población de 34 habitantes por kilómetro cuadrado.",
+            "orden": 20
+        },
+        {
+            "id": "197c0a63-51f6-4455-8c7f-2eadbf443fab",
+            "table": "| Desafíos del Internet de las cosas (IoT) || --- || Seguridad y privacidad: garantizar la protección de datos y dispositivos || Interoperabilidad y estándares: permitir que diferentes dispositivos se comuniquen y trabajen juntos sin problemas || Escalabilidad y capacidad de gestión: abordar el gran volumen de datos y dispositivos conectados |",
+            "texto": "La tabla presenta desafíos del Internet de las cosas (IoT). En primer lugar, se destaca el desafío de Seguridad y privacidad, que implica garantizar la protección de datos y dispositivos. En segundo lugar, se menciona el desafío de Interoperabilidad y estándares, que busca permitir que diferentes dispositivos se comuniquen y trabajen juntos sin problemas. En tercer lugar, se habla de Escalabilidad y capacidad de gestión, que aborda el gran volumen de datos y dispositivos conectados.",
+            "orden": 49
+        },
+        {
+            "id": "32f471cf-1ae9-4f93-8abd-263dd790de89",
+            "table": "| Censos ||------|| Primer Censo de Población y Vivienda (1878) || Segundo Censo de Población y Vivienda (1913) |",
+            "texto": "La tabla muestra censos, el primer censo de población y vivienda realizado en 1878 y el segundo censo de población y vivienda en 1913.",
+            "orden": 88
+        },
+        {
+            "id": "f901db0b-3d53-4f12-a1a4-e81f1e0ba9ec",
+            "table": "| Reciclaje ||------|| Convertir residuos en nuevos productos |",
+            "texto": "La tabla muestra que una forma de reciclaje es convertir residuos en nuevos productos.",
+            "orden": 83
+        },
+        {
+            "id": "6dfbdaf0-a964-4a0b-b2fe-2962f3f7e1a7",
+            "table": "| Países del continente americano ||------|| Colombia || Ecuador |",
+            "texto": "La tabla muestra países del continente americano como Colombia y Ecuador.",
+            "orden": 7
+        },
+        {
+            "id": "8d57cb25-baee-44ec-8d27-e65675ecf3b9",
+            "table": "| Proyecciones de población ||-----|| En 2050, se prevé que la población mundial alcance los 9.700 millones de habitantes. |",
+            "texto": "La tabla proporciona proyecciones de población para el año 2050, indicando que se prevé que la población mundial alcance los 9.700 millones de habitantes.",
+            "orden": 118
+        },
+        {
+            "id": "8fa1d136-bfb8-4e6d-a453-43d39d5cd03d",
+            "table": "| Productos || --- || Tijeras || Colores |",
+            "texto": "La tabla muestra productos como tijeras y colores.",
+            "orden": 87
+        },
+        {
+            "id": "89e12ca9-bc01-4459-a9b3-21e089d6c9d7",
+            "table": "| Tema | Descripción ||---|---|| Química Orgánica | Estudio de los compuestos químicos que contienen carbono || Robótica | Diseño, construcción y aplicación de robots para diversas tareas |",
+            "texto": "El tema de la química orgánica se describe como el estudio de los compuestos químicos que contienen carbono. El tema de la Robótica se describe como el diseño, construcción y aplicación de robots para diversas tareas.",
+            "orden": 148
+        }
+    ]
+}
